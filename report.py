@@ -48,10 +48,12 @@ def retweets():
 
 def tweets():
     print "## Tweets"
+
+    print "| ----- | -----:|"
     total = 0
     for time in times:
         num = int(stats.get('tweets-%s' % time))
-        print time, num
+        print "|%s|%s|" % (time, num)
         total += num
     print "total: %s" % total
 
