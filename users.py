@@ -10,6 +10,6 @@ times.sort()
 for time in times:
     print
     print time
-    for tag in stats.zrevrange('hashtags-%s' % time, 0, 10, withscores=True):
+    for tag in stats.zrevrange('users-%s' % time, 0, 10, withscores=True):
         print '- %s (%i)' % tag
 
