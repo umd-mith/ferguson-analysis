@@ -92,7 +92,7 @@ collection using the keyword *ferguson*.
 |2015-08-09|132228|
 |2015-08-10|633138|
 |2015-08-11|287606|
-total: 31657545
+| total | 31657545 |
 ## Retweets
 
 2014-08-10
