@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# you'll need to run load.py before you can run this
+
 import redis
 
 stats = redis.StrictRedis()
