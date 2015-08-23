@@ -9,6 +9,12 @@ times = [s.split('-', 1)[1] for s in stats.keys('tweets-*')]
 times.sort()
 
 def main():
+    print "# Ferguson Tweet Analysis"
+    print \
+"""
+The following data was derived from 4 periods of Twitter data
+collection using the keyword *ferguson*.
+"""
     tweets()
     retweets()
     users()
