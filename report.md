@@ -4,7 +4,8 @@ The following data was derived from 4 periods of Twitter data
 collection using the keyword *ferguson*.
 
 ## Tweets
-| ----- | -----:|
+| Date | Tweets |
+| ---- | ------:|
 |2014-08-10|722|
 |2014-08-11|323303|
 |2014-08-12|322740|
