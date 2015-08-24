@@ -15,7 +15,9 @@ they can be counted easily.
 
 
 ## Tweets
+
 Number of tweets per day.
+
 | Date | Tweets |
 | ---- | ------:|
 | 2014-08-10 | 722 |
