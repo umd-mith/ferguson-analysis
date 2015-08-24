@@ -73,7 +73,9 @@ def retweets():
 def tweets():
     print
     print "## Tweets"
+    print
     print "Number of tweets per day."
+    print
     print "| Date | Tweets |"
     print "| ---- | ------:|"
     total = 0
