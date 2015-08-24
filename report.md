@@ -104,7 +104,7 @@ Number of tweets per day.
 | 2015-08-09 | 132228 |
 | 2015-08-10 | 633138 |
 | 2015-08-11 | 287606 |
-| <b>Total</b> | <b>31657545</b> |
+| Total | 31657545 |
 
 ## Users
 The top ten most retweeted users by day.
