@@ -110,1122 +110,1122 @@ they can be counted easily.
 | -------- | ----------:|
 
 2014-08-10
-|[AntonioFrench](http://twitter.com/AntonioFrench)|80|
-|[TefPoe](http://twitter.com/TefPoe)|33|
-|[MichaelSkolnik](http://twitter.com/MichaelSkolnik)|32|
-|[ShaunKing](http://twitter.com/ShaunKing)|27|
-|[Dreamdefenders](http://twitter.com/Dreamdefenders)|18|
-|[Marmel](http://twitter.com/Marmel)|17|
-|[kharyp](http://twitter.com/kharyp)|15|
-|[Tiffanydloftin](http://twitter.com/Tiffanydloftin)|13|
-|[michaelcalhoun](http://twitter.com/michaelcalhoun)|12|
-|[tariqnasheed](http://twitter.com/tariqnasheed)|9|
-|[AD_Humphreys](http://twitter.com/AD_Humphreys)|9|
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 80 |
+| [TefPoe](http://twitter.com/TefPoe) | 33 |
+| [MichaelSkolnik](http://twitter.com/MichaelSkolnik) | 32 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 27 |
+| [Dreamdefenders](http://twitter.com/Dreamdefenders) | 18 |
+| [Marmel](http://twitter.com/Marmel) | 17 |
+| [kharyp](http://twitter.com/kharyp) | 15 |
+| [Tiffanydloftin](http://twitter.com/Tiffanydloftin) | 13 |
+| [michaelcalhoun](http://twitter.com/michaelcalhoun) | 12 |
+| [tariqnasheed](http://twitter.com/tariqnasheed) | 9 |
+| [AD_Humphreys](http://twitter.com/AD_Humphreys) | 9 |
 
 2014-08-11
-|[MichaelSkolnik](http://twitter.com/MichaelSkolnik)|21551|
-|[AntonioFrench](http://twitter.com/AntonioFrench)|16266|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|3813|
-|[PzFeed](http://twitter.com/PzFeed)|3116|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|2916|
-|[PDPJ](http://twitter.com/PDPJ)|2855|
-|[ksdknews](http://twitter.com/ksdknews)|2501|
-|[WomenOnTheMove1](http://twitter.com/WomenOnTheMove1)|2021|
-|[drgoddess](http://twitter.com/drgoddess)|1879|
-|[kerrywashington](http://twitter.com/kerrywashington)|1850|
-|[KhaledBeydoun](http://twitter.com/KhaledBeydoun)|1717|
+| [MichaelSkolnik](http://twitter.com/MichaelSkolnik) | 21551 |
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 16266 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 3813 |
+| [PzFeed](http://twitter.com/PzFeed) | 3116 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 2916 |
+| [PDPJ](http://twitter.com/PDPJ) | 2855 |
+| [ksdknews](http://twitter.com/ksdknews) | 2501 |
+| [WomenOnTheMove1](http://twitter.com/WomenOnTheMove1) | 2021 |
+| [drgoddess](http://twitter.com/drgoddess) | 1879 |
+| [kerrywashington](http://twitter.com/kerrywashington) | 1850 |
+| [KhaledBeydoun](http://twitter.com/KhaledBeydoun) | 1717 |
 
 2014-08-12
-|[AntonioFrench](http://twitter.com/AntonioFrench)|20547|
-|[juliebosman](http://twitter.com/juliebosman)|7580|
-|[FOX2now](http://twitter.com/FOX2now)|6711|
-|[PDPJ](http://twitter.com/PDPJ)|5710|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|5205|
-|[LizPeinadoSTL](http://twitter.com/LizPeinadoSTL)|4826|
-|[wilw](http://twitter.com/wilw)|3927|
-|[MichaelSkolnik](http://twitter.com/MichaelSkolnik)|3639|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|3627|
-|[johnlegend](http://twitter.com/johnlegend)|2165|
-|[WesleyLowery](http://twitter.com/WesleyLowery)|2131|
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 20547 |
+| [juliebosman](http://twitter.com/juliebosman) | 7580 |
+| [FOX2now](http://twitter.com/FOX2now) | 6711 |
+| [PDPJ](http://twitter.com/PDPJ) | 5710 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 5205 |
+| [LizPeinadoSTL](http://twitter.com/LizPeinadoSTL) | 4826 |
+| [wilw](http://twitter.com/wilw) | 3927 |
+| [MichaelSkolnik](http://twitter.com/MichaelSkolnik) | 3639 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 3627 |
+| [johnlegend](http://twitter.com/johnlegend) | 2165 |
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 2131 |
 
 2014-08-13
-|[AntonioFrench](http://twitter.com/AntonioFrench)|7160|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|5086|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|3581|
-|[WesleyLowery](http://twitter.com/WesleyLowery)|3045|
-|[BmoreConetta](http://twitter.com/BmoreConetta)|2511|
-|[FOX2now](http://twitter.com/FOX2now)|2484|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|1772|
-|[PDPJ](http://twitter.com/PDPJ)|1720|
-|[PzFeed](http://twitter.com/PzFeed)|1681|
-|[elonjames](http://twitter.com/elonjames)|1619|
-|[mm](http://twitter.com/mm)|1579|
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 7160 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 5086 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 3581 |
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 3045 |
+| [BmoreConetta](http://twitter.com/BmoreConetta) | 2511 |
+| [FOX2now](http://twitter.com/FOX2now) | 2484 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 1772 |
+| [PDPJ](http://twitter.com/PDPJ) | 1720 |
+| [PzFeed](http://twitter.com/PzFeed) | 1681 |
+| [elonjames](http://twitter.com/elonjames) | 1619 |
+| [mm](http://twitter.com/mm) | 1579 |
 
 2014-08-14
-|[YourAnonNews](http://twitter.com/YourAnonNews)|45098|
-|[AntonioFrench](http://twitter.com/AntonioFrench)|33200|
-|[jackfrombkln](http://twitter.com/jackfrombkln)|32151|
-|[WesleyLowery](http://twitter.com/WesleyLowery)|18873|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|18156|
-|[PzFeed](http://twitter.com/PzFeed)|16907|
-|[YourAnonGlobal](http://twitter.com/YourAnonGlobal)|14150|
-|[theblogpirate](http://twitter.com/theblogpirate)|13729|
-|[elonjames](http://twitter.com/elonjames)|13339|
-|[occupythemob](http://twitter.com/occupythemob)|12663|
-|[MichaelSkolnik](http://twitter.com/MichaelSkolnik)|10635|
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 45098 |
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 33200 |
+| [jackfrombkln](http://twitter.com/jackfrombkln) | 32151 |
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 18873 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 18156 |
+| [PzFeed](http://twitter.com/PzFeed) | 16907 |
+| [YourAnonGlobal](http://twitter.com/YourAnonGlobal) | 14150 |
+| [theblogpirate](http://twitter.com/theblogpirate) | 13729 |
+| [elonjames](http://twitter.com/elonjames) | 13339 |
+| [occupythemob](http://twitter.com/occupythemob) | 12663 |
+| [MichaelSkolnik](http://twitter.com/MichaelSkolnik) | 10635 |
 
 2014-08-15
-|[AntonioFrench](http://twitter.com/AntonioFrench)|22711|
-|[WesleyLowery](http://twitter.com/WesleyLowery)|6436|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|6213|
-|[YourAnonGlobal](http://twitter.com/YourAnonGlobal)|5732|
-|[Yamiche](http://twitter.com/Yamiche)|4683|
-|[scottbix](http://twitter.com/scottbix)|4667|
-|[elonjames](http://twitter.com/elonjames)|3762|
-|[NBCNews](http://twitter.com/NBCNews)|3391|
-|[jackfrombkln](http://twitter.com/jackfrombkln)|3284|
-|[cnnbrk](http://twitter.com/cnnbrk)|3188|
-|[FergusonUnity](http://twitter.com/FergusonUnity)|3148|
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 22711 |
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 6436 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 6213 |
+| [YourAnonGlobal](http://twitter.com/YourAnonGlobal) | 5732 |
+| [Yamiche](http://twitter.com/Yamiche) | 4683 |
+| [scottbix](http://twitter.com/scottbix) | 4667 |
+| [elonjames](http://twitter.com/elonjames) | 3762 |
+| [NBCNews](http://twitter.com/NBCNews) | 3391 |
+| [jackfrombkln](http://twitter.com/jackfrombkln) | 3284 |
+| [cnnbrk](http://twitter.com/cnnbrk) | 3188 |
+| [FergusonUnity](http://twitter.com/FergusonUnity) | 3148 |
 
 2014-08-16
-|[AntonioFrench](http://twitter.com/AntonioFrench)|13602|
-|[ShaunKing](http://twitter.com/ShaunKing)|7814|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|7739|
-|[SoulRevision](http://twitter.com/SoulRevision)|6634|
-|[zellieimani](http://twitter.com/zellieimani)|5668|
-|[Yamiche](http://twitter.com/Yamiche)|4765|
-|[scottbix](http://twitter.com/scottbix)|4577|
-|[Awkward_Duck](http://twitter.com/Awkward_Duck)|4376|
-|[YourAnonGlobal](http://twitter.com/YourAnonGlobal)|3838|
-|[michaelcalhoun](http://twitter.com/michaelcalhoun)|3812|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|3613|
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 13602 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 7814 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 7739 |
+| [SoulRevision](http://twitter.com/SoulRevision) | 6634 |
+| [zellieimani](http://twitter.com/zellieimani) | 5668 |
+| [Yamiche](http://twitter.com/Yamiche) | 4765 |
+| [scottbix](http://twitter.com/scottbix) | 4577 |
+| [Awkward_Duck](http://twitter.com/Awkward_Duck) | 4376 |
+| [YourAnonGlobal](http://twitter.com/YourAnonGlobal) | 3838 |
+| [michaelcalhoun](http://twitter.com/michaelcalhoun) | 3812 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 3613 |
 
 2014-08-17
-|[AntonioFrench](http://twitter.com/AntonioFrench)|27836|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|19640|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|15900|
-|[FergusonUnity](http://twitter.com/FergusonUnity)|11661|
-|[iJesseWilliams](http://twitter.com/iJesseWilliams)|6226|
-|[zellieimani](http://twitter.com/zellieimani)|6062|
-|[ShaunKing](http://twitter.com/ShaunKing)|5061|
-|[jack](http://twitter.com/jack)|4874|
-|[HuffingtonPost](http://twitter.com/HuffingtonPost)|4623|
-|[PzFeed](http://twitter.com/PzFeed)|4607|
-|[alicesperi](http://twitter.com/alicesperi)|4350|
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 27836 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 19640 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 15900 |
+| [FergusonUnity](http://twitter.com/FergusonUnity) | 11661 |
+| [iJesseWilliams](http://twitter.com/iJesseWilliams) | 6226 |
+| [zellieimani](http://twitter.com/zellieimani) | 6062 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 5061 |
+| [jack](http://twitter.com/jack) | 4874 |
+| [HuffingtonPost](http://twitter.com/HuffingtonPost) | 4623 |
+| [PzFeed](http://twitter.com/PzFeed) | 4607 |
+| [alicesperi](http://twitter.com/alicesperi) | 4350 |
 
 2014-08-18
-|[ryanjreilly](http://twitter.com/ryanjreilly)|28253|
-|[AntonioFrench](http://twitter.com/AntonioFrench)|28235|
-|[FergusonUnity](http://twitter.com/FergusonUnity)|21893|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|21202|
-|[occupythemob](http://twitter.com/occupythemob)|14984|
-|[PzFeed](http://twitter.com/PzFeed)|13252|
-|[jonswaine](http://twitter.com/jonswaine)|12230|
-|[AmyKNelson](http://twitter.com/AmyKNelson)|11946|
-|[zellieimani](http://twitter.com/zellieimani)|11267|
-|[aterkel](http://twitter.com/aterkel)|11140|
-|[thepaulhagan](http://twitter.com/thepaulhagan)|10240|
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 28253 |
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 28235 |
+| [FergusonUnity](http://twitter.com/FergusonUnity) | 21893 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 21202 |
+| [occupythemob](http://twitter.com/occupythemob) | 14984 |
+| [PzFeed](http://twitter.com/PzFeed) | 13252 |
+| [jonswaine](http://twitter.com/jonswaine) | 12230 |
+| [AmyKNelson](http://twitter.com/AmyKNelson) | 11946 |
+| [zellieimani](http://twitter.com/zellieimani) | 11267 |
+| [aterkel](http://twitter.com/aterkel) | 11140 |
+| [thepaulhagan](http://twitter.com/thepaulhagan) | 10240 |
 
 2014-08-19
-|[YourAnonNews](http://twitter.com/YourAnonNews)|31673|
-|[AntonioFrench](http://twitter.com/AntonioFrench)|17097|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|15931|
-|[Awkward_Duck](http://twitter.com/Awkward_Duck)|13259|
-|[FergusonUnity](http://twitter.com/FergusonUnity)|12403|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|12162|
-|[PzFeed](http://twitter.com/PzFeed)|11265|
-|[occupythemob](http://twitter.com/occupythemob)|11185|
-|[zellieimani](http://twitter.com/zellieimani)|10256|
-|[alicesperi](http://twitter.com/alicesperi)|9573|
-|[BNDJLee](http://twitter.com/BNDJLee)|9077|
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 31673 |
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 17097 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 15931 |
+| [Awkward_Duck](http://twitter.com/Awkward_Duck) | 13259 |
+| [FergusonUnity](http://twitter.com/FergusonUnity) | 12403 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 12162 |
+| [PzFeed](http://twitter.com/PzFeed) | 11265 |
+| [occupythemob](http://twitter.com/occupythemob) | 11185 |
+| [zellieimani](http://twitter.com/zellieimani) | 10256 |
+| [alicesperi](http://twitter.com/alicesperi) | 9573 |
+| [BNDJLee](http://twitter.com/BNDJLee) | 9077 |
 
 2014-08-20
-|[ryanjreilly](http://twitter.com/ryanjreilly)|15119|
-|[FergusonUnity](http://twitter.com/FergusonUnity)|12397|
-|[jelani9](http://twitter.com/jelani9)|10517|
-|[elonjames](http://twitter.com/elonjames)|9195|
-|[Awkward_Duck](http://twitter.com/Awkward_Duck)|8520|
-|[BuzzFeed](http://twitter.com/BuzzFeed)|8269|
-|[BoToTheMo](http://twitter.com/BoToTheMo)|7403|
-|[TalibKweli](http://twitter.com/TalibKweli)|7085|
-|[aterkel](http://twitter.com/aterkel)|5679|
-|[AntonioFrench](http://twitter.com/AntonioFrench)|5321|
-|[PeopIe](http://twitter.com/PeopIe)|4887|
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 15119 |
+| [FergusonUnity](http://twitter.com/FergusonUnity) | 12397 |
+| [jelani9](http://twitter.com/jelani9) | 10517 |
+| [elonjames](http://twitter.com/elonjames) | 9195 |
+| [Awkward_Duck](http://twitter.com/Awkward_Duck) | 8520 |
+| [BuzzFeed](http://twitter.com/BuzzFeed) | 8269 |
+| [BoToTheMo](http://twitter.com/BoToTheMo) | 7403 |
+| [TalibKweli](http://twitter.com/TalibKweli) | 7085 |
+| [aterkel](http://twitter.com/aterkel) | 5679 |
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 5321 |
+| [PeopIe](http://twitter.com/PeopIe) | 4887 |
 
 2014-08-21
-|[ryanjreilly](http://twitter.com/ryanjreilly)|4438|
-|[Awkward_Duck](http://twitter.com/Awkward_Duck)|3061|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|2860|
-|[deray](http://twitter.com/deray)|2556|
-|[elonjames](http://twitter.com/elonjames)|2402|
-|[BoToTheMo](http://twitter.com/BoToTheMo)|2132|
-|[PeopIe](http://twitter.com/PeopIe)|2030|
-|[conradhackett](http://twitter.com/conradhackett)|1842|
-|[BuzzFeed](http://twitter.com/BuzzFeed)|1732|
-|[YourAnonGlobal](http://twitter.com/YourAnonGlobal)|1676|
-|[FergusonUnity](http://twitter.com/FergusonUnity)|1676|
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 4438 |
+| [Awkward_Duck](http://twitter.com/Awkward_Duck) | 3061 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 2860 |
+| [deray](http://twitter.com/deray) | 2556 |
+| [elonjames](http://twitter.com/elonjames) | 2402 |
+| [BoToTheMo](http://twitter.com/BoToTheMo) | 2132 |
+| [PeopIe](http://twitter.com/PeopIe) | 2030 |
+| [conradhackett](http://twitter.com/conradhackett) | 1842 |
+| [BuzzFeed](http://twitter.com/BuzzFeed) | 1732 |
+| [YourAnonGlobal](http://twitter.com/YourAnonGlobal) | 1676 |
+| [FergusonUnity](http://twitter.com/FergusonUnity) | 1676 |
 
 2014-08-22
-|[WordofFarrakhan](http://twitter.com/WordofFarrakhan)|6093|
-|[hanan_hao](http://twitter.com/hanan_hao)|4757|
-|[FergusonUnity](http://twitter.com/FergusonUnity)|2302|
-|[bakedalaska](http://twitter.com/bakedalaska)|1861|
-|[Awkward_Duck](http://twitter.com/Awkward_Duck)|1778|
-|[BoToTheMo](http://twitter.com/BoToTheMo)|1702|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|1601|
-|[NBCNews](http://twitter.com/NBCNews)|1593|
-|[occupythemob](http://twitter.com/occupythemob)|1295|
-|[LearnSomethlng](http://twitter.com/LearnSomethlng)|1264|
-|[Marmel](http://twitter.com/Marmel)|1088|
+| [WordofFarrakhan](http://twitter.com/WordofFarrakhan) | 6093 |
+| [hanan_hao](http://twitter.com/hanan_hao) | 4757 |
+| [FergusonUnity](http://twitter.com/FergusonUnity) | 2302 |
+| [bakedalaska](http://twitter.com/bakedalaska) | 1861 |
+| [Awkward_Duck](http://twitter.com/Awkward_Duck) | 1778 |
+| [BoToTheMo](http://twitter.com/BoToTheMo) | 1702 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 1601 |
+| [NBCNews](http://twitter.com/NBCNews) | 1593 |
+| [occupythemob](http://twitter.com/occupythemob) | 1295 |
+| [LearnSomethlng](http://twitter.com/LearnSomethlng) | 1264 |
+| [Marmel](http://twitter.com/Marmel) | 1088 |
 
 2014-08-23
-|[FergusonUnity](http://twitter.com/FergusonUnity)|4018|
-|[WordofFarrakhan](http://twitter.com/WordofFarrakhan)|3292|
-|[AntonioFrench](http://twitter.com/AntonioFrench)|2580|
-|[deray](http://twitter.com/deray)|2545|
-|[thenation](http://twitter.com/thenation)|1636|
-|[Clarknt67](http://twitter.com/Clarknt67)|1532|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|1483|
-|[TheBaxterBean](http://twitter.com/TheBaxterBean)|1439|
-|[KUDUNEWS](http://twitter.com/KUDUNEWS)|1259|
-|[MichaelSkolnik](http://twitter.com/MichaelSkolnik)|1258|
-|[larryelder](http://twitter.com/larryelder)|1201|
+| [FergusonUnity](http://twitter.com/FergusonUnity) | 4018 |
+| [WordofFarrakhan](http://twitter.com/WordofFarrakhan) | 3292 |
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 2580 |
+| [deray](http://twitter.com/deray) | 2545 |
+| [thenation](http://twitter.com/thenation) | 1636 |
+| [Clarknt67](http://twitter.com/Clarknt67) | 1532 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 1483 |
+| [TheBaxterBean](http://twitter.com/TheBaxterBean) | 1439 |
+| [KUDUNEWS](http://twitter.com/KUDUNEWS) | 1259 |
+| [MichaelSkolnik](http://twitter.com/MichaelSkolnik) | 1258 |
+| [larryelder](http://twitter.com/larryelder) | 1201 |
 
 2014-08-24
-|[deray](http://twitter.com/deray)|7220|
-|[TalbertSwan](http://twitter.com/TalbertSwan)|3513|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|1963|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|1811|
-|[WesleyLowery](http://twitter.com/WesleyLowery)|1746|
-|[FergusonUnity](http://twitter.com/FergusonUnity)|1689|
-|[JimDalrympleII](http://twitter.com/JimDalrympleII)|1554|
-|[thenation](http://twitter.com/thenation)|1486|
-|[THEREALBANNER](http://twitter.com/THEREALBANNER)|1430|
-|[CassandraRules](http://twitter.com/CassandraRules)|1368|
-|[jasiri_x](http://twitter.com/jasiri_x)|1216|
+| [deray](http://twitter.com/deray) | 7220 |
+| [TalbertSwan](http://twitter.com/TalbertSwan) | 3513 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 1963 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 1811 |
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 1746 |
+| [FergusonUnity](http://twitter.com/FergusonUnity) | 1689 |
+| [JimDalrympleII](http://twitter.com/JimDalrympleII) | 1554 |
+| [thenation](http://twitter.com/thenation) | 1486 |
+| [THEREALBANNER](http://twitter.com/THEREALBANNER) | 1430 |
+| [CassandraRules](http://twitter.com/CassandraRules) | 1368 |
+| [jasiri_x](http://twitter.com/jasiri_x) | 1216 |
 
 2014-08-25
-|[SeanMcElwee](http://twitter.com/SeanMcElwee)|4594|
-|[sonsandbros](http://twitter.com/sonsandbros)|4489|
-|[TalbertSwan](http://twitter.com/TalbertSwan)|3427|
-|[CassandraRules](http://twitter.com/CassandraRules)|1946|
-|[FunnyPicsDepot](http://twitter.com/FunnyPicsDepot)|1878|
-|[THEREALBANNER](http://twitter.com/THEREALBANNER)|1697|
-|[kodacohen](http://twitter.com/kodacohen)|1640|
-|[ShaunKing](http://twitter.com/ShaunKing)|1507|
-|[FergusonUnity](http://twitter.com/FergusonUnity)|1477|
-|[cnnbrk](http://twitter.com/cnnbrk)|1406|
-|[doreeshafrir](http://twitter.com/doreeshafrir)|1355|
+| [SeanMcElwee](http://twitter.com/SeanMcElwee) | 4594 |
+| [sonsandbros](http://twitter.com/sonsandbros) | 4489 |
+| [TalbertSwan](http://twitter.com/TalbertSwan) | 3427 |
+| [CassandraRules](http://twitter.com/CassandraRules) | 1946 |
+| [FunnyPicsDepot](http://twitter.com/FunnyPicsDepot) | 1878 |
+| [THEREALBANNER](http://twitter.com/THEREALBANNER) | 1697 |
+| [kodacohen](http://twitter.com/kodacohen) | 1640 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 1507 |
+| [FergusonUnity](http://twitter.com/FergusonUnity) | 1477 |
+| [cnnbrk](http://twitter.com/cnnbrk) | 1406 |
+| [doreeshafrir](http://twitter.com/doreeshafrir) | 1355 |
 
 2014-08-26
-|[SeanMcElwee](http://twitter.com/SeanMcElwee)|1707|
-|[TalbertSwan](http://twitter.com/TalbertSwan)|1485|
-|[TheBaxterBean](http://twitter.com/TheBaxterBean)|1388|
-|[THEREALBANNER](http://twitter.com/THEREALBANNER)|1203|
-|[ShaunKing](http://twitter.com/ShaunKing)|1045|
-|[TheAnonMessage](http://twitter.com/TheAnonMessage)|1043|
-|[FergusonUnity](http://twitter.com/FergusonUnity)|915|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|833|
-|[JNathaniel7](http://twitter.com/JNathaniel7)|796|
-|[rolandsmartin](http://twitter.com/rolandsmartin)|775|
-|[kodacohen](http://twitter.com/kodacohen)|716|
+| [SeanMcElwee](http://twitter.com/SeanMcElwee) | 1707 |
+| [TalbertSwan](http://twitter.com/TalbertSwan) | 1485 |
+| [TheBaxterBean](http://twitter.com/TheBaxterBean) | 1388 |
+| [THEREALBANNER](http://twitter.com/THEREALBANNER) | 1203 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 1045 |
+| [TheAnonMessage](http://twitter.com/TheAnonMessage) | 1043 |
+| [FergusonUnity](http://twitter.com/FergusonUnity) | 915 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 833 |
+| [JNathaniel7](http://twitter.com/JNathaniel7) | 796 |
+| [rolandsmartin](http://twitter.com/rolandsmartin) | 775 |
+| [kodacohen](http://twitter.com/kodacohen) | 716 |
 
 2014-08-27
-|[TalbertSwan](http://twitter.com/TalbertSwan)|3407|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|1144|
-|[AntonioFrench](http://twitter.com/AntonioFrench)|919|
-|[CassandraRules](http://twitter.com/CassandraRules)|803|
-|[TheAnonMessage](http://twitter.com/TheAnonMessage)|603|
-|[vicenews](http://twitter.com/vicenews)|518|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|476|
-|[JNathaniel7](http://twitter.com/JNathaniel7)|452|
-|[PDPJ](http://twitter.com/PDPJ)|406|
-|[drgoddess](http://twitter.com/drgoddess)|375|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|314|
+| [TalbertSwan](http://twitter.com/TalbertSwan) | 3407 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 1144 |
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 919 |
+| [CassandraRules](http://twitter.com/CassandraRules) | 803 |
+| [TheAnonMessage](http://twitter.com/TheAnonMessage) | 603 |
+| [vicenews](http://twitter.com/vicenews) | 518 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 476 |
+| [JNathaniel7](http://twitter.com/JNathaniel7) | 452 |
+| [PDPJ](http://twitter.com/PDPJ) | 406 |
+| [drgoddess](http://twitter.com/drgoddess) | 375 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 314 |
 
 2014-11-11
-|[deray](http://twitter.com/deray)|306|
-|[zellieimani](http://twitter.com/zellieimani)|281|
-|[CNN](http://twitter.com/CNN)|261|
-|[Footy_Jokes](http://twitter.com/Footy_Jokes)|162|
-|[occupythemob](http://twitter.com/occupythemob)|152|
-|[RE_invent_ED](http://twitter.com/RE_invent_ED)|116|
-|[voice](http://twitter.com/voice)|106|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|106|
-|[Chris_1791](http://twitter.com/Chris_1791)|98|
-|[History_Futbol](http://twitter.com/History_Futbol)|88|
-|[elonjames](http://twitter.com/elonjames)|80|
+| [deray](http://twitter.com/deray) | 306 |
+| [zellieimani](http://twitter.com/zellieimani) | 281 |
+| [CNN](http://twitter.com/CNN) | 261 |
+| [Footy_Jokes](http://twitter.com/Footy_Jokes) | 162 |
+| [occupythemob](http://twitter.com/occupythemob) | 152 |
+| [RE_invent_ED](http://twitter.com/RE_invent_ED) | 116 |
+| [voice](http://twitter.com/voice) | 106 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 106 |
+| [Chris_1791](http://twitter.com/Chris_1791) | 98 |
+| [History_Futbol](http://twitter.com/History_Futbol) | 88 |
+| [elonjames](http://twitter.com/elonjames) | 80 |
 
 2014-11-12
-|[deray](http://twitter.com/deray)|9904|
-|[mettawordlife83](http://twitter.com/mettawordlife83)|1002|
-|[FootballFunnys](http://twitter.com/FootballFunnys)|997|
-|[TSBible](http://twitter.com/TSBible)|967|
-|[mechtild5](http://twitter.com/mechtild5)|707|
-|[CNN](http://twitter.com/CNN)|700|
-|[bassem_masri](http://twitter.com/bassem_masri)|640|
-|[Blackstarjus](http://twitter.com/Blackstarjus)|616|
-|[Chris_1791](http://twitter.com/Chris_1791)|601|
-|[2_Synnseer](http://twitter.com/2_Synnseer)|490|
-|[sarahkendzior](http://twitter.com/sarahkendzior)|482|
+| [deray](http://twitter.com/deray) | 9904 |
+| [mettawordlife83](http://twitter.com/mettawordlife83) | 1002 |
+| [FootballFunnys](http://twitter.com/FootballFunnys) | 997 |
+| [TSBible](http://twitter.com/TSBible) | 967 |
+| [mechtild5](http://twitter.com/mechtild5) | 707 |
+| [CNN](http://twitter.com/CNN) | 700 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 640 |
+| [Blackstarjus](http://twitter.com/Blackstarjus) | 616 |
+| [Chris_1791](http://twitter.com/Chris_1791) | 601 |
+| [2_Synnseer](http://twitter.com/2_Synnseer) | 490 |
+| [sarahkendzior](http://twitter.com/sarahkendzior) | 482 |
 
 2014-11-13
-|[deray](http://twitter.com/deray)|5861|
-|[ChristinaKSDK](http://twitter.com/ChristinaKSDK)|1241|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|1071|
-|[bassem_masri](http://twitter.com/bassem_masri)|716|
-|[CNN](http://twitter.com/CNN)|668|
-|[Politics_PR](http://twitter.com/Politics_PR)|573|
-|[AntonioFrench](http://twitter.com/AntonioFrench)|547|
-|[voice](http://twitter.com/voice)|541|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|496|
-|[unitedarmyfc](http://twitter.com/unitedarmyfc)|487|
-|[TheRoot](http://twitter.com/TheRoot)|471|
+| [deray](http://twitter.com/deray) | 5861 |
+| [ChristinaKSDK](http://twitter.com/ChristinaKSDK) | 1241 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 1071 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 716 |
+| [CNN](http://twitter.com/CNN) | 668 |
+| [Politics_PR](http://twitter.com/Politics_PR) | 573 |
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 547 |
+| [voice](http://twitter.com/voice) | 541 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 496 |
+| [unitedarmyfc](http://twitter.com/unitedarmyfc) | 487 |
+| [TheRoot](http://twitter.com/TheRoot) | 471 |
 
 2014-11-14
-|[deray](http://twitter.com/deray)|4633|
-|[vicenews](http://twitter.com/vicenews)|1347|
-|[ThatsRacistAF](http://twitter.com/ThatsRacistAF)|905|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|833|
-|[voice](http://twitter.com/voice)|692|
-|[Chris_1791](http://twitter.com/Chris_1791)|584|
-|[PlMPCESS](http://twitter.com/PlMPCESS)|523|
-|[sarahkendzior](http://twitter.com/sarahkendzior)|471|
-|[ShaunKing](http://twitter.com/ShaunKing)|416|
-|[TheRoot](http://twitter.com/TheRoot)|394|
-|[AnonCopWatch](http://twitter.com/AnonCopWatch)|370|
+| [deray](http://twitter.com/deray) | 4633 |
+| [vicenews](http://twitter.com/vicenews) | 1347 |
+| [ThatsRacistAF](http://twitter.com/ThatsRacistAF) | 905 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 833 |
+| [voice](http://twitter.com/voice) | 692 |
+| [Chris_1791](http://twitter.com/Chris_1791) | 584 |
+| [PlMPCESS](http://twitter.com/PlMPCESS) | 523 |
+| [sarahkendzior](http://twitter.com/sarahkendzior) | 471 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 416 |
+| [TheRoot](http://twitter.com/TheRoot) | 394 |
+| [AnonCopWatch](http://twitter.com/AnonCopWatch) | 370 |
 
 2014-11-15
-|[deray](http://twitter.com/deray)|4362|
-|[ShaunKing](http://twitter.com/ShaunKing)|1223|
-|[voice](http://twitter.com/voice)|858|
-|[RT_America](http://twitter.com/RT_America)|769|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|662|
-|[AnonCopWatch](http://twitter.com/AnonCopWatch)|653|
-|[ThatsRacistAF](http://twitter.com/ThatsRacistAF)|568|
-|[tchopstl](http://twitter.com/tchopstl)|537|
-|[bassem_masri](http://twitter.com/bassem_masri)|494|
-|[KUDUNEWS](http://twitter.com/KUDUNEWS)|484|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|464|
+| [deray](http://twitter.com/deray) | 4362 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 1223 |
+| [voice](http://twitter.com/voice) | 858 |
+| [RT_America](http://twitter.com/RT_America) | 769 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 662 |
+| [AnonCopWatch](http://twitter.com/AnonCopWatch) | 653 |
+| [ThatsRacistAF](http://twitter.com/ThatsRacistAF) | 568 |
+| [tchopstl](http://twitter.com/tchopstl) | 537 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 494 |
+| [KUDUNEWS](http://twitter.com/KUDUNEWS) | 484 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 464 |
 
 2014-11-16
-|[deray](http://twitter.com/deray)|7826|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|2580|
-|[Bey_Legion](http://twitter.com/Bey_Legion)|2378|
-|[SaulWilliams](http://twitter.com/SaulWilliams)|1208|
-|[MichaelSkolnik](http://twitter.com/MichaelSkolnik)|1104|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|1021|
-|[voice](http://twitter.com/voice)|911|
-|[jonswaine](http://twitter.com/jonswaine)|866|
-|[bassem_masri](http://twitter.com/bassem_masri)|821|
-|[ShaunKing](http://twitter.com/ShaunKing)|697|
-|[mettawordlife83](http://twitter.com/mettawordlife83)|606|
+| [deray](http://twitter.com/deray) | 7826 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 2580 |
+| [Bey_Legion](http://twitter.com/Bey_Legion) | 2378 |
+| [SaulWilliams](http://twitter.com/SaulWilliams) | 1208 |
+| [MichaelSkolnik](http://twitter.com/MichaelSkolnik) | 1104 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 1021 |
+| [voice](http://twitter.com/voice) | 911 |
+| [jonswaine](http://twitter.com/jonswaine) | 866 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 821 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 697 |
+| [mettawordlife83](http://twitter.com/mettawordlife83) | 606 |
 
 2014-11-17
-|[deray](http://twitter.com/deray)|11236|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|3470|
-|[ShaunKing](http://twitter.com/ShaunKing)|2840|
-|[elonjames](http://twitter.com/elonjames)|2146|
-|[WyzeChef](http://twitter.com/WyzeChef)|1935|
-|[SaulWilliams](http://twitter.com/SaulWilliams)|1664|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|1609|
-|[cnnbrk](http://twitter.com/cnnbrk)|1505|
-|[sarahkendzior](http://twitter.com/sarahkendzior)|1373|
-|[RT_com](http://twitter.com/RT_com)|1107|
-|[NBCNews](http://twitter.com/NBCNews)|971|
+| [deray](http://twitter.com/deray) | 11236 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 3470 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 2840 |
+| [elonjames](http://twitter.com/elonjames) | 2146 |
+| [WyzeChef](http://twitter.com/WyzeChef) | 1935 |
+| [SaulWilliams](http://twitter.com/SaulWilliams) | 1664 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 1609 |
+| [cnnbrk](http://twitter.com/cnnbrk) | 1505 |
+| [sarahkendzior](http://twitter.com/sarahkendzior) | 1373 |
+| [RT_com](http://twitter.com/RT_com) | 1107 |
+| [NBCNews](http://twitter.com/NBCNews) | 971 |
 
 2014-11-18
-|[deray](http://twitter.com/deray)|6643|
-|[elonjames](http://twitter.com/elonjames)|4164|
-|[ShaunKing](http://twitter.com/ShaunKing)|1829|
-|[solangeknowles](http://twitter.com/solangeknowles)|1743|
-|[SaulWilliams](http://twitter.com/SaulWilliams)|1589|
-|[jonswaine](http://twitter.com/jonswaine)|1412|
-|[voice](http://twitter.com/voice)|1272|
-|[WayneDupreeShow](http://twitter.com/WayneDupreeShow)|1160|
-|[Chris_1791](http://twitter.com/Chris_1791)|1140|
-|[CNN](http://twitter.com/CNN)|1066|
-|[TalbertSwan](http://twitter.com/TalbertSwan)|958|
+| [deray](http://twitter.com/deray) | 6643 |
+| [elonjames](http://twitter.com/elonjames) | 4164 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 1829 |
+| [solangeknowles](http://twitter.com/solangeknowles) | 1743 |
+| [SaulWilliams](http://twitter.com/SaulWilliams) | 1589 |
+| [jonswaine](http://twitter.com/jonswaine) | 1412 |
+| [voice](http://twitter.com/voice) | 1272 |
+| [WayneDupreeShow](http://twitter.com/WayneDupreeShow) | 1160 |
+| [Chris_1791](http://twitter.com/Chris_1791) | 1140 |
+| [CNN](http://twitter.com/CNN) | 1066 |
+| [TalbertSwan](http://twitter.com/TalbertSwan) | 958 |
 
 2014-11-19
-|[deray](http://twitter.com/deray)|5528|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|1166|
-|[WayneDupreeShow](http://twitter.com/WayneDupreeShow)|966|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|890|
-|[akacharleswade](http://twitter.com/akacharleswade)|850|
-|[AnonCopWatch](http://twitter.com/AnonCopWatch)|839|
-|[TSBible](http://twitter.com/TSBible)|818|
-|[voice](http://twitter.com/voice)|789|
-|[DLoesch](http://twitter.com/DLoesch)|778|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|656|
-|[splcenter](http://twitter.com/splcenter)|602|
+| [deray](http://twitter.com/deray) | 5528 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 1166 |
+| [WayneDupreeShow](http://twitter.com/WayneDupreeShow) | 966 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 890 |
+| [akacharleswade](http://twitter.com/akacharleswade) | 850 |
+| [AnonCopWatch](http://twitter.com/AnonCopWatch) | 839 |
+| [TSBible](http://twitter.com/TSBible) | 818 |
+| [voice](http://twitter.com/voice) | 789 |
+| [DLoesch](http://twitter.com/DLoesch) | 778 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 656 |
+| [splcenter](http://twitter.com/splcenter) | 602 |
 
 2014-11-20
-|[deray](http://twitter.com/deray)|3010|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|2666|
-|[TheAnonMessage](http://twitter.com/TheAnonMessage)|2442|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|2216|
-|[jonswaine](http://twitter.com/jonswaine)|2039|
-|[zellieimani](http://twitter.com/zellieimani)|1428|
-|[AnonCopWatch](http://twitter.com/AnonCopWatch)|1299|
-|[akacharleswade](http://twitter.com/akacharleswade)|1173|
-|[POPSspotSports](http://twitter.com/POPSspotSports)|1165|
-|[brownjenjen](http://twitter.com/brownjenjen)|1133|
-|[CassandraRules](http://twitter.com/CassandraRules)|1084|
+| [deray](http://twitter.com/deray) | 3010 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 2666 |
+| [TheAnonMessage](http://twitter.com/TheAnonMessage) | 2442 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 2216 |
+| [jonswaine](http://twitter.com/jonswaine) | 2039 |
+| [zellieimani](http://twitter.com/zellieimani) | 1428 |
+| [AnonCopWatch](http://twitter.com/AnonCopWatch) | 1299 |
+| [akacharleswade](http://twitter.com/akacharleswade) | 1173 |
+| [POPSspotSports](http://twitter.com/POPSspotSports) | 1165 |
+| [brownjenjen](http://twitter.com/brownjenjen) | 1133 |
+| [CassandraRules](http://twitter.com/CassandraRules) | 1084 |
 
 2014-11-21
-|[deray](http://twitter.com/deray)|5885|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|4984|
-|[CassandraRules](http://twitter.com/CassandraRules)|1866|
-|[cnnbrk](http://twitter.com/cnnbrk)|1755|
-|[POPSspotSports](http://twitter.com/POPSspotSports)|1668|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|1571|
-|[jonswaine](http://twitter.com/jonswaine)|1459|
-|[TheAnonMessage](http://twitter.com/TheAnonMessage)|1351|
-|[tchopstl](http://twitter.com/tchopstl)|1297|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|1246|
-|[bassem_masri](http://twitter.com/bassem_masri)|1214|
+| [deray](http://twitter.com/deray) | 5885 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 4984 |
+| [CassandraRules](http://twitter.com/CassandraRules) | 1866 |
+| [cnnbrk](http://twitter.com/cnnbrk) | 1755 |
+| [POPSspotSports](http://twitter.com/POPSspotSports) | 1668 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 1571 |
+| [jonswaine](http://twitter.com/jonswaine) | 1459 |
+| [TheAnonMessage](http://twitter.com/TheAnonMessage) | 1351 |
+| [tchopstl](http://twitter.com/tchopstl) | 1297 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 1246 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 1214 |
 
 2014-11-22
-|[deray](http://twitter.com/deray)|6170|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|3582|
-|[piersmorgan](http://twitter.com/piersmorgan)|3157|
-|[ShaunKing](http://twitter.com/ShaunKing)|1653|
-|[bassem_masri](http://twitter.com/bassem_masri)|1590|
-|[cnnbrk](http://twitter.com/cnnbrk)|1544|
-|[CBSNews](http://twitter.com/CBSNews)|1415|
-|[sarahkendzior](http://twitter.com/sarahkendzior)|1388|
-|[kgosztola](http://twitter.com/kgosztola)|1314|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|1175|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|1117|
+| [deray](http://twitter.com/deray) | 6170 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 3582 |
+| [piersmorgan](http://twitter.com/piersmorgan) | 3157 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 1653 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 1590 |
+| [cnnbrk](http://twitter.com/cnnbrk) | 1544 |
+| [CBSNews](http://twitter.com/CBSNews) | 1415 |
+| [sarahkendzior](http://twitter.com/sarahkendzior) | 1388 |
+| [kgosztola](http://twitter.com/kgosztola) | 1314 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 1175 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 1117 |
 
 2014-11-23
-|[deray](http://twitter.com/deray)|8579|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|3658|
-|[ManUtd](http://twitter.com/ManUtd)|2880|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|2583|
-|[YourAnonGlobal](http://twitter.com/YourAnonGlobal)|1634|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|1625|
-|[mettawordlife83](http://twitter.com/mettawordlife83)|1551|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|1424|
-|[mattdpearce](http://twitter.com/mattdpearce)|1401|
-|[jonswaine](http://twitter.com/jonswaine)|1385|
-|[Bidenshairplugs](http://twitter.com/Bidenshairplugs)|1102|
+| [deray](http://twitter.com/deray) | 8579 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 3658 |
+| [ManUtd](http://twitter.com/ManUtd) | 2880 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 2583 |
+| [YourAnonGlobal](http://twitter.com/YourAnonGlobal) | 1634 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 1625 |
+| [mettawordlife83](http://twitter.com/mettawordlife83) | 1551 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 1424 |
+| [mattdpearce](http://twitter.com/mattdpearce) | 1401 |
+| [jonswaine](http://twitter.com/jonswaine) | 1385 |
+| [Bidenshairplugs](http://twitter.com/Bidenshairplugs) | 1102 |
 
 2014-11-24
-|[deray](http://twitter.com/deray)|9046|
-|[cnnbrk](http://twitter.com/cnnbrk)|8293|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|5654|
-|[JuddLegum](http://twitter.com/JuddLegum)|5456|
-|[nbcwashington](http://twitter.com/nbcwashington)|4138|
-|[sierrashante](http://twitter.com/sierrashante)|2516|
-|[NBCNews](http://twitter.com/NBCNews)|2398|
-|[AtlNightSpots](http://twitter.com/AtlNightSpots)|2193|
-|[AP](http://twitter.com/AP)|2083|
-|[mikebrowncover](http://twitter.com/mikebrowncover)|2055|
-|[sarahkendzior](http://twitter.com/sarahkendzior)|2014|
+| [deray](http://twitter.com/deray) | 9046 |
+| [cnnbrk](http://twitter.com/cnnbrk) | 8293 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 5654 |
+| [JuddLegum](http://twitter.com/JuddLegum) | 5456 |
+| [nbcwashington](http://twitter.com/nbcwashington) | 4138 |
+| [sierrashante](http://twitter.com/sierrashante) | 2516 |
+| [NBCNews](http://twitter.com/NBCNews) | 2398 |
+| [AtlNightSpots](http://twitter.com/AtlNightSpots) | 2193 |
+| [AP](http://twitter.com/AP) | 2083 |
+| [mikebrowncover](http://twitter.com/mikebrowncover) | 2055 |
+| [sarahkendzior](http://twitter.com/sarahkendzior) | 2014 |
 
 2014-11-25
-|[Bipartisanism](http://twitter.com/Bipartisanism)|48168|
-|[deray](http://twitter.com/deray)|38555|
-|[kobebryant](http://twitter.com/kobebryant)|26250|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|18169|
-|[nytimes](http://twitter.com/nytimes)|17189|
-|[BBCBreaking](http://twitter.com/BBCBreaking)|13377|
-|[YourAnonGlobal](http://twitter.com/YourAnonGlobal)|12947|
-|[voice](http://twitter.com/voice)|11748|
-|[TheAnonMessage](http://twitter.com/TheAnonMessage)|11198|
-|[Sierra2231](http://twitter.com/Sierra2231)|10125|
-|[mikebrowncover](http://twitter.com/mikebrowncover)|10014|
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 48168 |
+| [deray](http://twitter.com/deray) | 38555 |
+| [kobebryant](http://twitter.com/kobebryant) | 26250 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 18169 |
+| [nytimes](http://twitter.com/nytimes) | 17189 |
+| [BBCBreaking](http://twitter.com/BBCBreaking) | 13377 |
+| [YourAnonGlobal](http://twitter.com/YourAnonGlobal) | 12947 |
+| [voice](http://twitter.com/voice) | 11748 |
+| [TheAnonMessage](http://twitter.com/TheAnonMessage) | 11198 |
+| [Sierra2231](http://twitter.com/Sierra2231) | 10125 |
+| [mikebrowncover](http://twitter.com/mikebrowncover) | 10014 |
 
 2014-11-26
-|[deray](http://twitter.com/deray)|61616|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|37133|
-|[TheAnonMessage](http://twitter.com/TheAnonMessage)|32952|
-|[CloydRivers](http://twitter.com/CloydRivers)|18489|
-|[NBCNews](http://twitter.com/NBCNews)|14431|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|13906|
-|[CNN](http://twitter.com/CNN)|13146|
-|[CauseWereGuys](http://twitter.com/CauseWereGuys)|9691|
-|[nytimes](http://twitter.com/nytimes)|9522|
-|[NewsRevo](http://twitter.com/NewsRevo)|9191|
-|[mikebrowncover](http://twitter.com/mikebrowncover)|7962|
+| [deray](http://twitter.com/deray) | 61616 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 37133 |
+| [TheAnonMessage](http://twitter.com/TheAnonMessage) | 32952 |
+| [CloydRivers](http://twitter.com/CloydRivers) | 18489 |
+| [NBCNews](http://twitter.com/NBCNews) | 14431 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 13906 |
+| [CNN](http://twitter.com/CNN) | 13146 |
+| [CauseWereGuys](http://twitter.com/CauseWereGuys) | 9691 |
+| [nytimes](http://twitter.com/nytimes) | 9522 |
+| [NewsRevo](http://twitter.com/NewsRevo) | 9191 |
+| [mikebrowncover](http://twitter.com/mikebrowncover) | 7962 |
 
 2014-11-27
-|[MeninistTweet](http://twitter.com/MeninistTweet)|23289|
-|[deray](http://twitter.com/deray)|22712|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|14478|
-|[TheAnonMessage](http://twitter.com/TheAnonMessage)|13739|
-|[WorldStarFunny](http://twitter.com/WorldStarFunny)|13207|
-|[FergusonUnity](http://twitter.com/FergusonUnity)|10135|
-|[nypost](http://twitter.com/nypost)|9188|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|8584|
-|[CauseWereGuys](http://twitter.com/CauseWereGuys)|8321|
-|[FalconRunner1](http://twitter.com/FalconRunner1)|7658|
-|[WeLoveRobDyrdek](http://twitter.com/WeLoveRobDyrdek)|7340|
+| [MeninistTweet](http://twitter.com/MeninistTweet) | 23289 |
+| [deray](http://twitter.com/deray) | 22712 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 14478 |
+| [TheAnonMessage](http://twitter.com/TheAnonMessage) | 13739 |
+| [WorldStarFunny](http://twitter.com/WorldStarFunny) | 13207 |
+| [FergusonUnity](http://twitter.com/FergusonUnity) | 10135 |
+| [nypost](http://twitter.com/nypost) | 9188 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 8584 |
+| [CauseWereGuys](http://twitter.com/CauseWereGuys) | 8321 |
+| [FalconRunner1](http://twitter.com/FalconRunner1) | 7658 |
+| [WeLoveRobDyrdek](http://twitter.com/WeLoveRobDyrdek) | 7340 |
 
 2014-11-28
-|[deray](http://twitter.com/deray)|55962|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|7795|
-|[occupythemob](http://twitter.com/occupythemob)|6555|
-|[Lnonblonde](http://twitter.com/Lnonblonde)|5462|
-|[UrbanCusp](http://twitter.com/UrbanCusp)|5342|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|4401|
-|[__MercyDior](http://twitter.com/__MercyDior)|4297|
-|[ALNAQ33B](http://twitter.com/ALNAQ33B)|3853|
-|[YourAnonGlobal](http://twitter.com/YourAnonGlobal)|3551|
-|[ChrChristensen](http://twitter.com/ChrChristensen)|3472|
-|[handsupunited_](http://twitter.com/handsupunited_)|3276|
+| [deray](http://twitter.com/deray) | 55962 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 7795 |
+| [occupythemob](http://twitter.com/occupythemob) | 6555 |
+| [Lnonblonde](http://twitter.com/Lnonblonde) | 5462 |
+| [UrbanCusp](http://twitter.com/UrbanCusp) | 5342 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 4401 |
+| [__MercyDior](http://twitter.com/__MercyDior) | 4297 |
+| [ALNAQ33B](http://twitter.com/ALNAQ33B) | 3853 |
+| [YourAnonGlobal](http://twitter.com/YourAnonGlobal) | 3551 |
+| [ChrChristensen](http://twitter.com/ChrChristensen) | 3472 |
+| [handsupunited_](http://twitter.com/handsupunited_) | 3276 |
 
 2014-11-29
-|[deray](http://twitter.com/deray)|22693|
-|[TheBlackGuyX](http://twitter.com/TheBlackGuyX)|9587|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|6089|
-|[ABC](http://twitter.com/ABC)|4875|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|4151|
-|[_Happy_Gilmore](http://twitter.com/_Happy_Gilmore)|3168|
-|[RealKhalilU](http://twitter.com/RealKhalilU)|3103|
-|[bassem_masri](http://twitter.com/bassem_masri)|2869|
-|[larryelder](http://twitter.com/larryelder)|2841|
-|[AP](http://twitter.com/AP)|2602|
-|[akacharleswade](http://twitter.com/akacharleswade)|2495|
+| [deray](http://twitter.com/deray) | 22693 |
+| [TheBlackGuyX](http://twitter.com/TheBlackGuyX) | 9587 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 6089 |
+| [ABC](http://twitter.com/ABC) | 4875 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 4151 |
+| [_Happy_Gilmore](http://twitter.com/_Happy_Gilmore) | 3168 |
+| [RealKhalilU](http://twitter.com/RealKhalilU) | 3103 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 2869 |
+| [larryelder](http://twitter.com/larryelder) | 2841 |
+| [AP](http://twitter.com/AP) | 2602 |
+| [akacharleswade](http://twitter.com/akacharleswade) | 2495 |
 
 2014-11-30
-|[deray](http://twitter.com/deray)|27772|
-|[CNN](http://twitter.com/CNN)|11986|
-|[BleacherReport](http://twitter.com/BleacherReport)|7823|
-|[TheBlackGuyX](http://twitter.com/TheBlackGuyX)|7673|
-|[CBSNews](http://twitter.com/CBSNews)|6726|
-|[FoxNews](http://twitter.com/FoxNews)|6438|
-|[ShaunKing](http://twitter.com/ShaunKing)|2989|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|2897|
-|[CloydRivers](http://twitter.com/CloydRivers)|2721|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|2477|
-|[TooRacist](http://twitter.com/TooRacist)|2250|
+| [deray](http://twitter.com/deray) | 27772 |
+| [CNN](http://twitter.com/CNN) | 11986 |
+| [BleacherReport](http://twitter.com/BleacherReport) | 7823 |
+| [TheBlackGuyX](http://twitter.com/TheBlackGuyX) | 7673 |
+| [CBSNews](http://twitter.com/CBSNews) | 6726 |
+| [FoxNews](http://twitter.com/FoxNews) | 6438 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 2989 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 2897 |
+| [CloydRivers](http://twitter.com/CloydRivers) | 2721 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 2477 |
+| [TooRacist](http://twitter.com/TooRacist) | 2250 |
 
 2014-12-01
-|[deray](http://twitter.com/deray)|20518|
-|[NBCNews](http://twitter.com/NBCNews)|16779|
-|[BleacherReport](http://twitter.com/BleacherReport)|9387|
-|[SportsCenter](http://twitter.com/SportsCenter)|8355|
-|[ShaunKing](http://twitter.com/ShaunKing)|7209|
-|[LaurenStenzel](http://twitter.com/LaurenStenzel)|6772|
-|[XoOverDosed](http://twitter.com/XoOverDosed)|6454|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|4955|
-|[FoxNews](http://twitter.com/FoxNews)|4863|
-|[ABC](http://twitter.com/ABC)|4829|
-|[Lnonblonde](http://twitter.com/Lnonblonde)|4815|
+| [deray](http://twitter.com/deray) | 20518 |
+| [NBCNews](http://twitter.com/NBCNews) | 16779 |
+| [BleacherReport](http://twitter.com/BleacherReport) | 9387 |
+| [SportsCenter](http://twitter.com/SportsCenter) | 8355 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 7209 |
+| [LaurenStenzel](http://twitter.com/LaurenStenzel) | 6772 |
+| [XoOverDosed](http://twitter.com/XoOverDosed) | 6454 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 4955 |
+| [FoxNews](http://twitter.com/FoxNews) | 4863 |
+| [ABC](http://twitter.com/ABC) | 4829 |
+| [Lnonblonde](http://twitter.com/Lnonblonde) | 4815 |
 
 2014-12-02
-|[deray](http://twitter.com/deray)|15432|
-|[NBCNews](http://twitter.com/NBCNews)|12348|
-|[FoxNews](http://twitter.com/FoxNews)|6736|
-|[CloydRivers](http://twitter.com/CloydRivers)|6009|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|3989|
-|[LaurenStenzel](http://twitter.com/LaurenStenzel)|3575|
-|[ABC](http://twitter.com/ABC)|3391|
-|[cnnbrk](http://twitter.com/cnnbrk)|3351|
-|[leggeaux](http://twitter.com/leggeaux)|3300|
-|[TalbertSwan](http://twitter.com/TalbertSwan)|2949|
-|[larryelder](http://twitter.com/larryelder)|2900|
+| [deray](http://twitter.com/deray) | 15432 |
+| [NBCNews](http://twitter.com/NBCNews) | 12348 |
+| [FoxNews](http://twitter.com/FoxNews) | 6736 |
+| [CloydRivers](http://twitter.com/CloydRivers) | 6009 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 3989 |
+| [LaurenStenzel](http://twitter.com/LaurenStenzel) | 3575 |
+| [ABC](http://twitter.com/ABC) | 3391 |
+| [cnnbrk](http://twitter.com/cnnbrk) | 3351 |
+| [leggeaux](http://twitter.com/leggeaux) | 3300 |
+| [TalbertSwan](http://twitter.com/TalbertSwan) | 2949 |
+| [larryelder](http://twitter.com/larryelder) | 2900 |
 
 2014-12-03
-|[TalbertSwan](http://twitter.com/TalbertSwan)|21471|
-|[deray](http://twitter.com/deray)|11033|
-|[bassem_masri](http://twitter.com/bassem_masri)|6493|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|6365|
-|[sarahkendzior](http://twitter.com/sarahkendzior)|4855|
-|[RickiRoma](http://twitter.com/RickiRoma)|3319|
-|[RE_invent_ED](http://twitter.com/RE_invent_ED)|3289|
-|[leggeaux](http://twitter.com/leggeaux)|3111|
-|[GlobalGrindNews](http://twitter.com/GlobalGrindNews)|2517|
-|[NewsRevo](http://twitter.com/NewsRevo)|2426|
-|[rolandsmartin](http://twitter.com/rolandsmartin)|2242|
+| [TalbertSwan](http://twitter.com/TalbertSwan) | 21471 |
+| [deray](http://twitter.com/deray) | 11033 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 6493 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 6365 |
+| [sarahkendzior](http://twitter.com/sarahkendzior) | 4855 |
+| [RickiRoma](http://twitter.com/RickiRoma) | 3319 |
+| [RE_invent_ED](http://twitter.com/RE_invent_ED) | 3289 |
+| [leggeaux](http://twitter.com/leggeaux) | 3111 |
+| [GlobalGrindNews](http://twitter.com/GlobalGrindNews) | 2517 |
+| [NewsRevo](http://twitter.com/NewsRevo) | 2426 |
+| [rolandsmartin](http://twitter.com/rolandsmartin) | 2242 |
 
 2014-12-04
-|[deray](http://twitter.com/deray)|10046|
-|[TalbertSwan](http://twitter.com/TalbertSwan)|9602|
-|[IGGYAZALEA](http://twitter.com/IGGYAZALEA)|6358|
-|[CloydRivers](http://twitter.com/CloydRivers)|4986|
-|[Lnonblonde](http://twitter.com/Lnonblonde)|4817|
-|[davidaxelrod](http://twitter.com/davidaxelrod)|4450|
-|[PDPJ](http://twitter.com/PDPJ)|2847|
-|[NewsRevo](http://twitter.com/NewsRevo)|2663|
-|[bassem_masri](http://twitter.com/bassem_masri)|2427|
-|[VivianHo](http://twitter.com/VivianHo)|2371|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|2283|
+| [deray](http://twitter.com/deray) | 10046 |
+| [TalbertSwan](http://twitter.com/TalbertSwan) | 9602 |
+| [IGGYAZALEA](http://twitter.com/IGGYAZALEA) | 6358 |
+| [CloydRivers](http://twitter.com/CloydRivers) | 4986 |
+| [Lnonblonde](http://twitter.com/Lnonblonde) | 4817 |
+| [davidaxelrod](http://twitter.com/davidaxelrod) | 4450 |
+| [PDPJ](http://twitter.com/PDPJ) | 2847 |
+| [NewsRevo](http://twitter.com/NewsRevo) | 2663 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 2427 |
+| [VivianHo](http://twitter.com/VivianHo) | 2371 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 2283 |
 
 2014-12-05
-|[deray](http://twitter.com/deray)|13938|
-|[TalbertSwan](http://twitter.com/TalbertSwan)|10093|
-|[bassem_masri](http://twitter.com/bassem_masri)|4713|
-|[PDPJ](http://twitter.com/PDPJ)|3646|
-|[CloydRivers](http://twitter.com/CloydRivers)|2631|
-|[VivianHo](http://twitter.com/VivianHo)|2277|
-|[RE_invent_ED](http://twitter.com/RE_invent_ED)|1939|
-|[DenaeHannah](http://twitter.com/DenaeHannah)|1644|
-|[sonsandbros](http://twitter.com/sonsandbros)|1599|
-|[leggeaux](http://twitter.com/leggeaux)|1583|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|1409|
+| [deray](http://twitter.com/deray) | 13938 |
+| [TalbertSwan](http://twitter.com/TalbertSwan) | 10093 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 4713 |
+| [PDPJ](http://twitter.com/PDPJ) | 3646 |
+| [CloydRivers](http://twitter.com/CloydRivers) | 2631 |
+| [VivianHo](http://twitter.com/VivianHo) | 2277 |
+| [RE_invent_ED](http://twitter.com/RE_invent_ED) | 1939 |
+| [DenaeHannah](http://twitter.com/DenaeHannah) | 1644 |
+| [sonsandbros](http://twitter.com/sonsandbros) | 1599 |
+| [leggeaux](http://twitter.com/leggeaux) | 1583 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 1409 |
 
 2014-12-06
-|[deray](http://twitter.com/deray)|8723|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|4924|
-|[homod_vip](http://twitter.com/homod_vip)|2415|
-|[TheAnonMessage](http://twitter.com/TheAnonMessage)|1890|
-|[vov_F](http://twitter.com/vov_F)|1858|
-|[13f_n](http://twitter.com/13f_n)|1687|
-|[LoveAss_____](http://twitter.com/LoveAss_____)|1412|
-|[occupythemob](http://twitter.com/occupythemob)|1274|
-|[NewsRevo](http://twitter.com/NewsRevo)|1196|
-|[TextingFails___](http://twitter.com/TextingFails___)|1184|
-|[VivianHo](http://twitter.com/VivianHo)|1060|
+| [deray](http://twitter.com/deray) | 8723 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 4924 |
+| [homod_vip](http://twitter.com/homod_vip) | 2415 |
+| [TheAnonMessage](http://twitter.com/TheAnonMessage) | 1890 |
+| [vov_F](http://twitter.com/vov_F) | 1858 |
+| [13f_n](http://twitter.com/13f_n) | 1687 |
+| [LoveAss_____](http://twitter.com/LoveAss_____) | 1412 |
+| [occupythemob](http://twitter.com/occupythemob) | 1274 |
+| [NewsRevo](http://twitter.com/NewsRevo) | 1196 |
+| [TextingFails___](http://twitter.com/TextingFails___) | 1184 |
+| [VivianHo](http://twitter.com/VivianHo) | 1060 |
 
 2014-12-07
-|[deray](http://twitter.com/deray)|15772|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|5065|
-|[UberFacts](http://twitter.com/UberFacts)|3883|
-|[TalbertSwan](http://twitter.com/TalbertSwan)|2363|
-|[JigmeUgen](http://twitter.com/JigmeUgen)|1851|
-|[LoveAss_____](http://twitter.com/LoveAss_____)|1781|
-|[Its_North_West](http://twitter.com/Its_North_West)|1633|
-|[NewsRevo](http://twitter.com/NewsRevo)|1606|
-|[EvanSernoffsky](http://twitter.com/EvanSernoffsky)|1573|
-|[occupythemob](http://twitter.com/occupythemob)|1529|
-|[amajamus](http://twitter.com/amajamus)|1425|
+| [deray](http://twitter.com/deray) | 15772 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 5065 |
+| [UberFacts](http://twitter.com/UberFacts) | 3883 |
+| [TalbertSwan](http://twitter.com/TalbertSwan) | 2363 |
+| [JigmeUgen](http://twitter.com/JigmeUgen) | 1851 |
+| [LoveAss_____](http://twitter.com/LoveAss_____) | 1781 |
+| [Its_North_West](http://twitter.com/Its_North_West) | 1633 |
+| [NewsRevo](http://twitter.com/NewsRevo) | 1606 |
+| [EvanSernoffsky](http://twitter.com/EvanSernoffsky) | 1573 |
+| [occupythemob](http://twitter.com/occupythemob) | 1529 |
+| [amajamus](http://twitter.com/amajamus) | 1425 |
 
 2014-12-08
-|[deray](http://twitter.com/deray)|13702|
-|[bassem_masri](http://twitter.com/bassem_masri)|3575|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|3327|
-|[KhaledBeydoun](http://twitter.com/KhaledBeydoun)|2210|
-|[Faryna](http://twitter.com/Faryna)|1967|
-|[pgcornwell](http://twitter.com/pgcornwell)|1259|
-|[jnarls](http://twitter.com/jnarls)|1256|
-|[FootballFunnys](http://twitter.com/FootballFunnys)|1188|
-|[occupythemob](http://twitter.com/occupythemob)|1158|
-|[LoveAss_____](http://twitter.com/LoveAss_____)|1144|
-|[KWRose](http://twitter.com/KWRose)|890|
+| [deray](http://twitter.com/deray) | 13702 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 3575 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 3327 |
+| [KhaledBeydoun](http://twitter.com/KhaledBeydoun) | 2210 |
+| [Faryna](http://twitter.com/Faryna) | 1967 |
+| [pgcornwell](http://twitter.com/pgcornwell) | 1259 |
+| [jnarls](http://twitter.com/jnarls) | 1256 |
+| [FootballFunnys](http://twitter.com/FootballFunnys) | 1188 |
+| [occupythemob](http://twitter.com/occupythemob) | 1158 |
+| [LoveAss_____](http://twitter.com/LoveAss_____) | 1144 |
+| [KWRose](http://twitter.com/KWRose) | 890 |
 
 2014-12-09
-|[deray](http://twitter.com/deray)|7927|
-|[TalbertSwan](http://twitter.com/TalbertSwan)|3344|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|2666|
-|[bassem_masri](http://twitter.com/bassem_masri)|2282|
-|[Lnonblonde](http://twitter.com/Lnonblonde)|1883|
-|[KhaledBeydoun](http://twitter.com/KhaledBeydoun)|1845|
-|[VivianHo](http://twitter.com/VivianHo)|1787|
-|[LoveAss_____](http://twitter.com/LoveAss_____)|1547|
-|[BBCSporf](http://twitter.com/BBCSporf)|1372|
-|[TextingFails___](http://twitter.com/TextingFails___)|1287|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|1242|
+| [deray](http://twitter.com/deray) | 7927 |
+| [TalbertSwan](http://twitter.com/TalbertSwan) | 3344 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 2666 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 2282 |
+| [Lnonblonde](http://twitter.com/Lnonblonde) | 1883 |
+| [KhaledBeydoun](http://twitter.com/KhaledBeydoun) | 1845 |
+| [VivianHo](http://twitter.com/VivianHo) | 1787 |
+| [LoveAss_____](http://twitter.com/LoveAss_____) | 1547 |
+| [BBCSporf](http://twitter.com/BBCSporf) | 1372 |
+| [TextingFails___](http://twitter.com/TextingFails___) | 1287 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 1242 |
 
 2014-12-10
-|[deray](http://twitter.com/deray)|2306|
-|[TrollTollTax](http://twitter.com/TrollTollTax)|1622|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|1045|
-|[TooRacist](http://twitter.com/TooRacist)|619|
-|[bassem_masri](http://twitter.com/bassem_masri)|487|
-|[LoveAss_____](http://twitter.com/LoveAss_____)|421|
-|[Lnonblonde](http://twitter.com/Lnonblonde)|383|
-|[AnonymousCenter](http://twitter.com/AnonymousCenter)|337|
-|[GeniusFootball](http://twitter.com/GeniusFootball)|302|
-|[LisaBloom](http://twitter.com/LisaBloom)|272|
-|[Ignore_MrWhite](http://twitter.com/Ignore_MrWhite)|269|
+| [deray](http://twitter.com/deray) | 2306 |
+| [TrollTollTax](http://twitter.com/TrollTollTax) | 1622 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 1045 |
+| [TooRacist](http://twitter.com/TooRacist) | 619 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 487 |
+| [LoveAss_____](http://twitter.com/LoveAss_____) | 421 |
+| [Lnonblonde](http://twitter.com/Lnonblonde) | 383 |
+| [AnonymousCenter](http://twitter.com/AnonymousCenter) | 337 |
+| [GeniusFootball](http://twitter.com/GeniusFootball) | 302 |
+| [LisaBloom](http://twitter.com/LisaBloom) | 272 |
+| [Ignore_MrWhite](http://twitter.com/Ignore_MrWhite) | 269 |
 
 2015-02-25
-|[BBCSporf](http://twitter.com/BBCSporf)|700|
-|[FootballFunnys](http://twitter.com/FootballFunnys)|565|
-|[TSBible](http://twitter.com/TSBible)|434|
-|[AsktoMandrake](http://twitter.com/AsktoMandrake)|394|
-|[TransferSources](http://twitter.com/TransferSources)|295|
-|[ApoIos](http://twitter.com/ApoIos)|271|
-|[ErikaOSanoja](http://twitter.com/ErikaOSanoja)|263|
-|[Footy_Jokes](http://twitter.com/Footy_Jokes)|242|
-|[bassem_masri](http://twitter.com/bassem_masri)|180|
-|[PENNewEngland](http://twitter.com/PENNewEngland)|178|
-|[CentreTransfer](http://twitter.com/CentreTransfer)|158|
+| [BBCSporf](http://twitter.com/BBCSporf) | 700 |
+| [FootballFunnys](http://twitter.com/FootballFunnys) | 565 |
+| [TSBible](http://twitter.com/TSBible) | 434 |
+| [AsktoMandrake](http://twitter.com/AsktoMandrake) | 394 |
+| [TransferSources](http://twitter.com/TransferSources) | 295 |
+| [ApoIos](http://twitter.com/ApoIos) | 271 |
+| [ErikaOSanoja](http://twitter.com/ErikaOSanoja) | 263 |
+| [Footy_Jokes](http://twitter.com/Footy_Jokes) | 242 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 180 |
+| [PENNewEngland](http://twitter.com/PENNewEngland) | 178 |
+| [CentreTransfer](http://twitter.com/CentreTransfer) | 158 |
 
 2015-02-26
-|[GeniusFootball](http://twitter.com/GeniusFootball)|411|
-|[HarvardBiz](http://twitter.com/HarvardBiz)|320|
-|[ESPNNFL](http://twitter.com/ESPNNFL)|160|
-|[ErikaOSanoja](http://twitter.com/ErikaOSanoja)|157|
-|[ziamfools](http://twitter.com/ziamfools)|126|
-|[bassem_masri](http://twitter.com/bassem_masri)|118|
-|[Chris_1791](http://twitter.com/Chris_1791)|107|
-|[handsupunited_](http://twitter.com/handsupunited_)|104|
-|[GaryCurneen](http://twitter.com/GaryCurneen)|101|
-|[Footy_Jokes](http://twitter.com/Footy_Jokes)|98|
-|[piesportsbooze](http://twitter.com/piesportsbooze)|90|
+| [GeniusFootball](http://twitter.com/GeniusFootball) | 411 |
+| [HarvardBiz](http://twitter.com/HarvardBiz) | 320 |
+| [ESPNNFL](http://twitter.com/ESPNNFL) | 160 |
+| [ErikaOSanoja](http://twitter.com/ErikaOSanoja) | 157 |
+| [ziamfools](http://twitter.com/ziamfools) | 126 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 118 |
+| [Chris_1791](http://twitter.com/Chris_1791) | 107 |
+| [handsupunited_](http://twitter.com/handsupunited_) | 104 |
+| [GaryCurneen](http://twitter.com/GaryCurneen) | 101 |
+| [Footy_Jokes](http://twitter.com/Footy_Jokes) | 98 |
+| [piesportsbooze](http://twitter.com/piesportsbooze) | 90 |
 
 2015-02-27
-|[FootballFunnys](http://twitter.com/FootballFunnys)|952|
-|[Footy_Jokes](http://twitter.com/Footy_Jokes)|547|
-|[UberFootFact](http://twitter.com/UberFootFact)|474|
-|[ManUnitedStand](http://twitter.com/ManUnitedStand)|210|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|209|
-|[Football__Tweet](http://twitter.com/Football__Tweet)|171|
-|[CraigyFerg](http://twitter.com/CraigyFerg)|147|
-|[POPSspotSports](http://twitter.com/POPSspotSports)|145|
-|[TransferSite](http://twitter.com/TransferSite)|140|
-|[deray](http://twitter.com/deray)|123|
-|[handsupunited_](http://twitter.com/handsupunited_)|113|
+| [FootballFunnys](http://twitter.com/FootballFunnys) | 952 |
+| [Footy_Jokes](http://twitter.com/Footy_Jokes) | 547 |
+| [UberFootFact](http://twitter.com/UberFootFact) | 474 |
+| [ManUnitedStand](http://twitter.com/ManUnitedStand) | 210 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 209 |
+| [Football__Tweet](http://twitter.com/Football__Tweet) | 171 |
+| [CraigyFerg](http://twitter.com/CraigyFerg) | 147 |
+| [POPSspotSports](http://twitter.com/POPSspotSports) | 145 |
+| [TransferSite](http://twitter.com/TransferSite) | 140 |
+| [deray](http://twitter.com/deray) | 123 |
+| [handsupunited_](http://twitter.com/handsupunited_) | 113 |
 
 2015-02-28
-|[UberFootFact](http://twitter.com/UberFootFact)|1886|
-|[GeniusFootball](http://twitter.com/GeniusFootball)|373|
-|[FootbalIStuff](http://twitter.com/FootbalIStuff)|367|
-|[CoachMotto](http://twitter.com/CoachMotto)|332|
-|[bassem_masri](http://twitter.com/bassem_masri)|295|
-|[BlackYouthProj](http://twitter.com/BlackYouthProj)|181|
-|[ManUnitedStand](http://twitter.com/ManUnitedStand)|171|
-|[BBCSport](http://twitter.com/BBCSport)|161|
-|[Footy_Jokes](http://twitter.com/Footy_Jokes)|133|
-|[TheAncelottiWay](http://twitter.com/TheAncelottiWay)|126|
-|[handsupunited_](http://twitter.com/handsupunited_)|115|
+| [UberFootFact](http://twitter.com/UberFootFact) | 1886 |
+| [GeniusFootball](http://twitter.com/GeniusFootball) | 373 |
+| [FootbalIStuff](http://twitter.com/FootbalIStuff) | 367 |
+| [CoachMotto](http://twitter.com/CoachMotto) | 332 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 295 |
+| [BlackYouthProj](http://twitter.com/BlackYouthProj) | 181 |
+| [ManUnitedStand](http://twitter.com/ManUnitedStand) | 171 |
+| [BBCSport](http://twitter.com/BBCSport) | 161 |
+| [Footy_Jokes](http://twitter.com/Footy_Jokes) | 133 |
+| [TheAncelottiWay](http://twitter.com/TheAncelottiWay) | 126 |
+| [handsupunited_](http://twitter.com/handsupunited_) | 115 |
 
 2015-03-01
-|[8Fact_Footballl](http://twitter.com/8Fact_Footballl)|558|
-|[FootballFunnys](http://twitter.com/FootballFunnys)|520|
-|[bassem_masri](http://twitter.com/bassem_masri)|453|
-|[stopbeingfamous](http://twitter.com/stopbeingfamous)|366|
-|[sammyrhodes](http://twitter.com/sammyrhodes)|235|
-|[ufc](http://twitter.com/ufc)|211|
-|[Cr7Prince4ever](http://twitter.com/Cr7Prince4ever)|137|
-|[UFCONFOX](http://twitter.com/UFCONFOX)|126|
-|[NOT_MOTD](http://twitter.com/NOT_MOTD)|112|
-|[MMAFighting](http://twitter.com/MMAFighting)|112|
-|[GeniusFootball](http://twitter.com/GeniusFootball)|102|
+| [8Fact_Footballl](http://twitter.com/8Fact_Footballl) | 558 |
+| [FootballFunnys](http://twitter.com/FootballFunnys) | 520 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 453 |
+| [stopbeingfamous](http://twitter.com/stopbeingfamous) | 366 |
+| [sammyrhodes](http://twitter.com/sammyrhodes) | 235 |
+| [ufc](http://twitter.com/ufc) | 211 |
+| [Cr7Prince4ever](http://twitter.com/Cr7Prince4ever) | 137 |
+| [UFCONFOX](http://twitter.com/UFCONFOX) | 126 |
+| [NOT_MOTD](http://twitter.com/NOT_MOTD) | 112 |
+| [MMAFighting](http://twitter.com/MMAFighting) | 112 |
+| [GeniusFootball](http://twitter.com/GeniusFootball) | 102 |
 
 2015-03-02
-|[nytimes](http://twitter.com/nytimes)|707|
-|[dailydot](http://twitter.com/dailydot)|667|
-|[mattdpearce](http://twitter.com/mattdpearce)|464|
-|[ComplexMag](http://twitter.com/ComplexMag)|456|
-|[huntigula](http://twitter.com/huntigula)|305|
-|[iJesseWilliams](http://twitter.com/iJesseWilliams)|273|
-|[WesleyLowery](http://twitter.com/WesleyLowery)|270|
-|[AP](http://twitter.com/AP)|197|
-|[ChampionsLeague](http://twitter.com/ChampionsLeague)|183|
-|[bassem_masri](http://twitter.com/bassem_masri)|180|
-|[josh_nelson](http://twitter.com/josh_nelson)|129|
+| [nytimes](http://twitter.com/nytimes) | 707 |
+| [dailydot](http://twitter.com/dailydot) | 667 |
+| [mattdpearce](http://twitter.com/mattdpearce) | 464 |
+| [ComplexMag](http://twitter.com/ComplexMag) | 456 |
+| [huntigula](http://twitter.com/huntigula) | 305 |
+| [iJesseWilliams](http://twitter.com/iJesseWilliams) | 273 |
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 270 |
+| [AP](http://twitter.com/AP) | 197 |
+| [ChampionsLeague](http://twitter.com/ChampionsLeague) | 183 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 180 |
+| [josh_nelson](http://twitter.com/josh_nelson) | 129 |
 
 2015-03-03
-|[LisaBloom](http://twitter.com/LisaBloom)|3113|
-|[AntonioFrench](http://twitter.com/AntonioFrench)|1487|
-|[nytimes](http://twitter.com/nytimes)|1476|
-|[KeeganNYC](http://twitter.com/KeeganNYC)|1237|
-|[WesleyLowery](http://twitter.com/WesleyLowery)|1189|
-|[AP](http://twitter.com/AP)|1168|
-|[cnnbrk](http://twitter.com/cnnbrk)|1022|
-|[deray](http://twitter.com/deray)|714|
-|[WSJ](http://twitter.com/WSJ)|694|
-|[amnesty](http://twitter.com/amnesty)|626|
-|[jonswaine](http://twitter.com/jonswaine)|511|
+| [LisaBloom](http://twitter.com/LisaBloom) | 3113 |
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 1487 |
+| [nytimes](http://twitter.com/nytimes) | 1476 |
+| [KeeganNYC](http://twitter.com/KeeganNYC) | 1237 |
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 1189 |
+| [AP](http://twitter.com/AP) | 1168 |
+| [cnnbrk](http://twitter.com/cnnbrk) | 1022 |
+| [deray](http://twitter.com/deray) | 714 |
+| [WSJ](http://twitter.com/WSJ) | 694 |
+| [amnesty](http://twitter.com/amnesty) | 626 |
+| [jonswaine](http://twitter.com/jonswaine) | 511 |
 
 2015-03-04
-|[WesleyLowery](http://twitter.com/WesleyLowery)|13638|
-|[AdamSerwer](http://twitter.com/AdamSerwer)|6854|
-|[LisaBloom](http://twitter.com/LisaBloom)|4800|
-|[tanehisicoates](http://twitter.com/tanehisicoates)|4117|
-|[ShaunKing](http://twitter.com/ShaunKing)|2712|
-|[deray](http://twitter.com/deray)|2529|
-|[cnnbrk](http://twitter.com/cnnbrk)|2511|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|2234|
-|[ABC](http://twitter.com/ABC)|2164|
-|[nytimes](http://twitter.com/nytimes)|1895|
-|[MEMMOSdubai](http://twitter.com/MEMMOSdubai)|1474|
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 13638 |
+| [AdamSerwer](http://twitter.com/AdamSerwer) | 6854 |
+| [LisaBloom](http://twitter.com/LisaBloom) | 4800 |
+| [tanehisicoates](http://twitter.com/tanehisicoates) | 4117 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 2712 |
+| [deray](http://twitter.com/deray) | 2529 |
+| [cnnbrk](http://twitter.com/cnnbrk) | 2511 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 2234 |
+| [ABC](http://twitter.com/ABC) | 2164 |
+| [nytimes](http://twitter.com/nytimes) | 1895 |
+| [MEMMOSdubai](http://twitter.com/MEMMOSdubai) | 1474 |
 
 2015-03-05
-|[WesleyLowery](http://twitter.com/WesleyLowery)|5849|
-|[nytimes](http://twitter.com/nytimes)|3973|
-|[AntonioFrench](http://twitter.com/AntonioFrench)|2662|
-|[deray](http://twitter.com/deray)|2501|
-|[tanehisicoates](http://twitter.com/tanehisicoates)|2002|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|1793|
-|[ShaunKing](http://twitter.com/ShaunKing)|1636|
-|[LisaBloom](http://twitter.com/LisaBloom)|1417|
-|[MEMMOSdubai](http://twitter.com/MEMMOSdubai)|1390|
-|[AdamSerwer](http://twitter.com/AdamSerwer)|1310|
-|[AnnCoulter](http://twitter.com/AnnCoulter)|1241|
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 5849 |
+| [nytimes](http://twitter.com/nytimes) | 3973 |
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 2662 |
+| [deray](http://twitter.com/deray) | 2501 |
+| [tanehisicoates](http://twitter.com/tanehisicoates) | 2002 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 1793 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 1636 |
+| [LisaBloom](http://twitter.com/LisaBloom) | 1417 |
+| [MEMMOSdubai](http://twitter.com/MEMMOSdubai) | 1390 |
+| [AdamSerwer](http://twitter.com/AdamSerwer) | 1310 |
+| [AnnCoulter](http://twitter.com/AnnCoulter) | 1241 |
 
 2015-03-06
-|[ShaunKing](http://twitter.com/ShaunKing)|4590|
-|[itsgabrielleu](http://twitter.com/itsgabrielleu)|1572|
-|[WesleyLowery](http://twitter.com/WesleyLowery)|1283|
-|[primediscussion](http://twitter.com/primediscussion)|1212|
-|[LisaBloom](http://twitter.com/LisaBloom)|1021|
-|[ABC](http://twitter.com/ABC)|882|
-|[jonswaine](http://twitter.com/jonswaine)|864|
-|[tchopstl](http://twitter.com/tchopstl)|854|
-|[tanehisicoates](http://twitter.com/tanehisicoates)|844|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|704|
-|[ChaoticBeauT](http://twitter.com/ChaoticBeauT)|658|
+| [ShaunKing](http://twitter.com/ShaunKing) | 4590 |
+| [itsgabrielleu](http://twitter.com/itsgabrielleu) | 1572 |
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 1283 |
+| [primediscussion](http://twitter.com/primediscussion) | 1212 |
+| [LisaBloom](http://twitter.com/LisaBloom) | 1021 |
+| [ABC](http://twitter.com/ABC) | 882 |
+| [jonswaine](http://twitter.com/jonswaine) | 864 |
+| [tchopstl](http://twitter.com/tchopstl) | 854 |
+| [tanehisicoates](http://twitter.com/tanehisicoates) | 844 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 704 |
+| [ChaoticBeauT](http://twitter.com/ChaoticBeauT) | 658 |
 
 2015-03-07
-|[DineshDSouza](http://twitter.com/DineshDSouza)|1350|
-|[ShaunKing](http://twitter.com/ShaunKing)|911|
-|[WesleyLowery](http://twitter.com/WesleyLowery)|638|
-|[thehill](http://twitter.com/thehill)|619|
-|[TheAtlantic](http://twitter.com/TheAtlantic)|601|
-|[Delo_Taylor](http://twitter.com/Delo_Taylor)|593|
-|[deray](http://twitter.com/deray)|553|
-|[CNN](http://twitter.com/CNN)|496|
-|[AntonioFrench](http://twitter.com/AntonioFrench)|424|
-|[LisaBloom](http://twitter.com/LisaBloom)|416|
-|[thinkprogress](http://twitter.com/thinkprogress)|381|
+| [DineshDSouza](http://twitter.com/DineshDSouza) | 1350 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 911 |
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 638 |
+| [thehill](http://twitter.com/thehill) | 619 |
+| [TheAtlantic](http://twitter.com/TheAtlantic) | 601 |
+| [Delo_Taylor](http://twitter.com/Delo_Taylor) | 593 |
+| [deray](http://twitter.com/deray) | 553 |
+| [CNN](http://twitter.com/CNN) | 496 |
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 424 |
+| [LisaBloom](http://twitter.com/LisaBloom) | 416 |
+| [thinkprogress](http://twitter.com/thinkprogress) | 381 |
 
 2015-03-08
-|[MEMMOSdubai](http://twitter.com/MEMMOSdubai)|860|
-|[nytimes](http://twitter.com/nytimes)|681|
-|[lizzzbrown](http://twitter.com/lizzzbrown)|552|
-|[thinkprogress](http://twitter.com/thinkprogress)|508|
-|[deray](http://twitter.com/deray)|459|
-|[WesleyLowery](http://twitter.com/WesleyLowery)|443|
-|[POPSspotSports](http://twitter.com/POPSspotSports)|352|
-|[jonathanchait](http://twitter.com/jonathanchait)|307|
-|[DineshDSouza](http://twitter.com/DineshDSouza)|265|
-|[occupythemob](http://twitter.com/occupythemob)|259|
-|[Kimberly_Canete](http://twitter.com/Kimberly_Canete)|251|
+| [MEMMOSdubai](http://twitter.com/MEMMOSdubai) | 860 |
+| [nytimes](http://twitter.com/nytimes) | 681 |
+| [lizzzbrown](http://twitter.com/lizzzbrown) | 552 |
+| [thinkprogress](http://twitter.com/thinkprogress) | 508 |
+| [deray](http://twitter.com/deray) | 459 |
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 443 |
+| [POPSspotSports](http://twitter.com/POPSspotSports) | 352 |
+| [jonathanchait](http://twitter.com/jonathanchait) | 307 |
+| [DineshDSouza](http://twitter.com/DineshDSouza) | 265 |
+| [occupythemob](http://twitter.com/occupythemob) | 259 |
+| [Kimberly_Canete](http://twitter.com/Kimberly_Canete) | 251 |
 
 2015-03-09
-|[deray](http://twitter.com/deray)|732|
-|[itsgabrielleu](http://twitter.com/itsgabrielleu)|719|
-|[WesleyLowery](http://twitter.com/WesleyLowery)|685|
-|[ShaunKing](http://twitter.com/ShaunKing)|647|
-|[TheOddsBible](http://twitter.com/TheOddsBible)|409|
-|[AP](http://twitter.com/AP)|359|
-|[larryelder](http://twitter.com/larryelder)|344|
-|[j_s_mann](http://twitter.com/j_s_mann)|319|
-|[KWRose](http://twitter.com/KWRose)|310|
-|[AntonioFrench](http://twitter.com/AntonioFrench)|306|
-|[Delo_Taylor](http://twitter.com/Delo_Taylor)|278|
+| [deray](http://twitter.com/deray) | 732 |
+| [itsgabrielleu](http://twitter.com/itsgabrielleu) | 719 |
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 685 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 647 |
+| [TheOddsBible](http://twitter.com/TheOddsBible) | 409 |
+| [AP](http://twitter.com/AP) | 359 |
+| [larryelder](http://twitter.com/larryelder) | 344 |
+| [j_s_mann](http://twitter.com/j_s_mann) | 319 |
+| [KWRose](http://twitter.com/KWRose) | 310 |
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 306 |
+| [Delo_Taylor](http://twitter.com/Delo_Taylor) | 278 |
 
 2015-03-10
-|[TexasQuagmire](http://twitter.com/TexasQuagmire)|3373|
-|[ShaunKing](http://twitter.com/ShaunKing)|1622|
-|[deray](http://twitter.com/deray)|908|
-|[CNN](http://twitter.com/CNN)|655|
-|[WesleyLowery](http://twitter.com/WesleyLowery)|629|
-|[Russian_Starr](http://twitter.com/Russian_Starr)|545|
-|[itsgabrielleu](http://twitter.com/itsgabrielleu)|536|
-|[ReinaldoI](http://twitter.com/ReinaldoI)|486|
-|[AntonioFrench](http://twitter.com/AntonioFrench)|408|
-|[FergusonUnity](http://twitter.com/FergusonUnity)|341|
-|[AaronWBanks](http://twitter.com/AaronWBanks)|333|
+| [TexasQuagmire](http://twitter.com/TexasQuagmire) | 3373 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 1622 |
+| [deray](http://twitter.com/deray) | 908 |
+| [CNN](http://twitter.com/CNN) | 655 |
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 629 |
+| [Russian_Starr](http://twitter.com/Russian_Starr) | 545 |
+| [itsgabrielleu](http://twitter.com/itsgabrielleu) | 536 |
+| [ReinaldoI](http://twitter.com/ReinaldoI) | 486 |
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 408 |
+| [FergusonUnity](http://twitter.com/FergusonUnity) | 341 |
+| [AaronWBanks](http://twitter.com/AaronWBanks) | 333 |
 
 2015-03-11
-|[deray](http://twitter.com/deray)|3073|
-|[ShaunKing](http://twitter.com/ShaunKing)|2823|
-|[WesleyLowery](http://twitter.com/WesleyLowery)|2097|
-|[cnnbrk](http://twitter.com/cnnbrk)|1483|
-|[AP](http://twitter.com/AP)|1131|
-|[nytimes](http://twitter.com/nytimes)|1127|
-|[SoulRevision](http://twitter.com/SoulRevision)|1029|
-|[bassem_masri](http://twitter.com/bassem_masri)|927|
-|[MichaelSkolnik](http://twitter.com/MichaelSkolnik)|793|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|721|
-|[AntonioFrench](http://twitter.com/AntonioFrench)|700|
+| [deray](http://twitter.com/deray) | 3073 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 2823 |
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 2097 |
+| [cnnbrk](http://twitter.com/cnnbrk) | 1483 |
+| [AP](http://twitter.com/AP) | 1131 |
+| [nytimes](http://twitter.com/nytimes) | 1127 |
+| [SoulRevision](http://twitter.com/SoulRevision) | 1029 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 927 |
+| [MichaelSkolnik](http://twitter.com/MichaelSkolnik) | 793 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 721 |
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 700 |
 
 2015-03-12
-|[deray](http://twitter.com/deray)|14434|
-|[AP](http://twitter.com/AP)|3242|
-|[BBCBreaking](http://twitter.com/BBCBreaking)|3027|
-|[DLoesch](http://twitter.com/DLoesch)|2804|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|2674|
-|[AntonioFrench](http://twitter.com/AntonioFrench)|2485|
-|[FoxNews](http://twitter.com/FoxNews)|2457|
-|[cnnbrk](http://twitter.com/cnnbrk)|2446|
-|[CloydRivers](http://twitter.com/CloydRivers)|2437|
-|[mattdpearce](http://twitter.com/mattdpearce)|2435|
-|[stlcountypd](http://twitter.com/stlcountypd)|2353|
+| [deray](http://twitter.com/deray) | 14434 |
+| [AP](http://twitter.com/AP) | 3242 |
+| [BBCBreaking](http://twitter.com/BBCBreaking) | 3027 |
+| [DLoesch](http://twitter.com/DLoesch) | 2804 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 2674 |
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 2485 |
+| [FoxNews](http://twitter.com/FoxNews) | 2457 |
+| [cnnbrk](http://twitter.com/cnnbrk) | 2446 |
+| [CloydRivers](http://twitter.com/CloydRivers) | 2437 |
+| [mattdpearce](http://twitter.com/mattdpearce) | 2435 |
+| [stlcountypd](http://twitter.com/stlcountypd) | 2353 |
 
 2015-03-13
-|[MikeeThaGod](http://twitter.com/MikeeThaGod)|2388|
-|[deray](http://twitter.com/deray)|2349|
-|[brownjenjen](http://twitter.com/brownjenjen)|1790|
-|[MEMMOSdubai](http://twitter.com/MEMMOSdubai)|1757|
-|[repjohnlewis](http://twitter.com/repjohnlewis)|1710|
-|[TalbertSwan](http://twitter.com/TalbertSwan)|1621|
-|[UberFootbalI](http://twitter.com/UberFootbalI)|1443|
-|[greta](http://twitter.com/greta)|1366|
-|[ThePatriot143](http://twitter.com/ThePatriot143)|1178|
-|[AmyMek](http://twitter.com/AmyMek)|1112|
-|[WesleyLowery](http://twitter.com/WesleyLowery)|1090|
+| [MikeeThaGod](http://twitter.com/MikeeThaGod) | 2388 |
+| [deray](http://twitter.com/deray) | 2349 |
+| [brownjenjen](http://twitter.com/brownjenjen) | 1790 |
+| [MEMMOSdubai](http://twitter.com/MEMMOSdubai) | 1757 |
+| [repjohnlewis](http://twitter.com/repjohnlewis) | 1710 |
+| [TalbertSwan](http://twitter.com/TalbertSwan) | 1621 |
+| [UberFootbalI](http://twitter.com/UberFootbalI) | 1443 |
+| [greta](http://twitter.com/greta) | 1366 |
+| [ThePatriot143](http://twitter.com/ThePatriot143) | 1178 |
+| [AmyMek](http://twitter.com/AmyMek) | 1112 |
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 1090 |
 
 2015-03-14
-|[brownjenjen](http://twitter.com/brownjenjen)|1915|
-|[larryelder](http://twitter.com/larryelder)|1161|
-|[voice](http://twitter.com/voice)|851|
-|[DrMartyFox](http://twitter.com/DrMartyFox)|611|
-|[TransferRelated](http://twitter.com/TransferRelated)|572|
-|[FunFootyQuote](http://twitter.com/FunFootyQuote)|552|
-|[deray](http://twitter.com/deray)|476|
-|[PatDollard](http://twitter.com/PatDollard)|413|
-|[DineshDSouza](http://twitter.com/DineshDSouza)|385|
-|[ThePatriot143](http://twitter.com/ThePatriot143)|384|
-|[fergusonaction](http://twitter.com/fergusonaction)|371|
+| [brownjenjen](http://twitter.com/brownjenjen) | 1915 |
+| [larryelder](http://twitter.com/larryelder) | 1161 |
+| [voice](http://twitter.com/voice) | 851 |
+| [DrMartyFox](http://twitter.com/DrMartyFox) | 611 |
+| [TransferRelated](http://twitter.com/TransferRelated) | 572 |
+| [FunFootyQuote](http://twitter.com/FunFootyQuote) | 552 |
+| [deray](http://twitter.com/deray) | 476 |
+| [PatDollard](http://twitter.com/PatDollard) | 413 |
+| [DineshDSouza](http://twitter.com/DineshDSouza) | 385 |
+| [ThePatriot143](http://twitter.com/ThePatriot143) | 384 |
+| [fergusonaction](http://twitter.com/fergusonaction) | 371 |
 
 2015-03-15
-|[deray](http://twitter.com/deray)|3554|
-|[UberFootbalI](http://twitter.com/UberFootbalI)|1634|
-|[stlcountypd](http://twitter.com/stlcountypd)|1289|
-|[cnnbrk](http://twitter.com/cnnbrk)|1216|
-|[Bidenshairplugs](http://twitter.com/Bidenshairplugs)|1053|
-|[WesleyLowery](http://twitter.com/WesleyLowery)|1036|
-|[FootballFunnys](http://twitter.com/FootballFunnys)|969|
-|[MEMMOSdubai](http://twitter.com/MEMMOSdubai)|873|
-|[TSBible](http://twitter.com/TSBible)|853|
-|[UtdIndonesia](http://twitter.com/UtdIndonesia)|698|
-|[larryelder](http://twitter.com/larryelder)|671|
+| [deray](http://twitter.com/deray) | 3554 |
+| [UberFootbalI](http://twitter.com/UberFootbalI) | 1634 |
+| [stlcountypd](http://twitter.com/stlcountypd) | 1289 |
+| [cnnbrk](http://twitter.com/cnnbrk) | 1216 |
+| [Bidenshairplugs](http://twitter.com/Bidenshairplugs) | 1053 |
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 1036 |
+| [FootballFunnys](http://twitter.com/FootballFunnys) | 969 |
+| [MEMMOSdubai](http://twitter.com/MEMMOSdubai) | 873 |
+| [TSBible](http://twitter.com/TSBible) | 853 |
+| [UtdIndonesia](http://twitter.com/UtdIndonesia) | 698 |
+| [larryelder](http://twitter.com/larryelder) | 671 |
 
 2015-03-16
-|[deray](http://twitter.com/deray)|1762|
-|[DineshDSouza](http://twitter.com/DineshDSouza)|970|
-|[ThePatriot143](http://twitter.com/ThePatriot143)|659|
-|[4BillLewis](http://twitter.com/4BillLewis)|636|
-|[WesleyLowery](http://twitter.com/WesleyLowery)|576|
-|[ShaunKing](http://twitter.com/ShaunKing)|561|
-|[Juezcentral](http://twitter.com/Juezcentral)|547|
-|[AmyMek](http://twitter.com/AmyMek)|500|
-|[DLoesch](http://twitter.com/DLoesch)|471|
-|[ChuckCJohnson](http://twitter.com/ChuckCJohnson)|453|
-|[SheriffClarke](http://twitter.com/SheriffClarke)|440|
+| [deray](http://twitter.com/deray) | 1762 |
+| [DineshDSouza](http://twitter.com/DineshDSouza) | 970 |
+| [ThePatriot143](http://twitter.com/ThePatriot143) | 659 |
+| [4BillLewis](http://twitter.com/4BillLewis) | 636 |
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 576 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 561 |
+| [Juezcentral](http://twitter.com/Juezcentral) | 547 |
+| [AmyMek](http://twitter.com/AmyMek) | 500 |
+| [DLoesch](http://twitter.com/DLoesch) | 471 |
+| [ChuckCJohnson](http://twitter.com/ChuckCJohnson) | 453 |
+| [SheriffClarke](http://twitter.com/SheriffClarke) | 440 |
 
 2015-03-17
-|[GeniusFootball](http://twitter.com/GeniusFootball)|1032|
-|[TheEconomist](http://twitter.com/TheEconomist)|878|
-|[CitizenRadio](http://twitter.com/CitizenRadio)|653|
-|[Footy_Jokes](http://twitter.com/Footy_Jokes)|608|
-|[BBCSporf](http://twitter.com/BBCSporf)|543|
-|[bassem_masri](http://twitter.com/bassem_masri)|519|
-|[larryelder](http://twitter.com/larryelder)|463|
-|[FootbalIStuff](http://twitter.com/FootbalIStuff)|377|
-|[AmyMek](http://twitter.com/AmyMek)|377|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|308|
-|[DineshDSouza](http://twitter.com/DineshDSouza)|249|
+| [GeniusFootball](http://twitter.com/GeniusFootball) | 1032 |
+| [TheEconomist](http://twitter.com/TheEconomist) | 878 |
+| [CitizenRadio](http://twitter.com/CitizenRadio) | 653 |
+| [Footy_Jokes](http://twitter.com/Footy_Jokes) | 608 |
+| [BBCSporf](http://twitter.com/BBCSporf) | 543 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 519 |
+| [larryelder](http://twitter.com/larryelder) | 463 |
+| [FootbalIStuff](http://twitter.com/FootbalIStuff) | 377 |
+| [AmyMek](http://twitter.com/AmyMek) | 377 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 308 |
+| [DineshDSouza](http://twitter.com/DineshDSouza) | 249 |
 
 2015-03-18
-|[FootballFunnys](http://twitter.com/FootballFunnys)|1510|
-|[GeniusFootball](http://twitter.com/GeniusFootball)|971|
-|[MEMMOSdubai](http://twitter.com/MEMMOSdubai)|661|
-|[ThePatriot143](http://twitter.com/ThePatriot143)|588|
-|[Football__Tweet](http://twitter.com/Football__Tweet)|539|
-|[UberFootbalI](http://twitter.com/UberFootbalI)|502|
-|[benshapiro](http://twitter.com/benshapiro)|500|
-|[Forbes](http://twitter.com/Forbes)|494|
-|[KeeganNYC](http://twitter.com/KeeganNYC)|445|
-|[TheRoot](http://twitter.com/TheRoot)|431|
-|[Footy_Jokes](http://twitter.com/Footy_Jokes)|350|
+| [FootballFunnys](http://twitter.com/FootballFunnys) | 1510 |
+| [GeniusFootball](http://twitter.com/GeniusFootball) | 971 |
+| [MEMMOSdubai](http://twitter.com/MEMMOSdubai) | 661 |
+| [ThePatriot143](http://twitter.com/ThePatriot143) | 588 |
+| [Football__Tweet](http://twitter.com/Football__Tweet) | 539 |
+| [UberFootbalI](http://twitter.com/UberFootbalI) | 502 |
+| [benshapiro](http://twitter.com/benshapiro) | 500 |
+| [Forbes](http://twitter.com/Forbes) | 494 |
+| [KeeganNYC](http://twitter.com/KeeganNYC) | 445 |
+| [TheRoot](http://twitter.com/TheRoot) | 431 |
+| [Footy_Jokes](http://twitter.com/Footy_Jokes) | 350 |
 
 2015-03-19
-|[bassem_masri](http://twitter.com/bassem_masri)|564|
-|[johncardillo](http://twitter.com/johncardillo)|325|
-|[weknowwhatsbest](http://twitter.com/weknowwhatsbest)|316|
-|[TheEconomist](http://twitter.com/TheEconomist)|258|
-|[Chris_1791](http://twitter.com/Chris_1791)|187|
-|[ThePatriot143](http://twitter.com/ThePatriot143)|162|
-|[David_EHG](http://twitter.com/David_EHG)|136|
-|[Gimme_A_Break1](http://twitter.com/Gimme_A_Break1)|122|
-|[splcenter](http://twitter.com/splcenter)|120|
-|[DanteB4u](http://twitter.com/DanteB4u)|114|
-|[MikeNBC12](http://twitter.com/MikeNBC12)|102|
+| [bassem_masri](http://twitter.com/bassem_masri) | 564 |
+| [johncardillo](http://twitter.com/johncardillo) | 325 |
+| [weknowwhatsbest](http://twitter.com/weknowwhatsbest) | 316 |
+| [TheEconomist](http://twitter.com/TheEconomist) | 258 |
+| [Chris_1791](http://twitter.com/Chris_1791) | 187 |
+| [ThePatriot143](http://twitter.com/ThePatriot143) | 162 |
+| [David_EHG](http://twitter.com/David_EHG) | 136 |
+| [Gimme_A_Break1](http://twitter.com/Gimme_A_Break1) | 122 |
+| [splcenter](http://twitter.com/splcenter) | 120 |
+| [DanteB4u](http://twitter.com/DanteB4u) | 114 |
+| [MikeNBC12](http://twitter.com/MikeNBC12) | 102 |
 
 2015-03-20
-|[MJBernard](http://twitter.com/MJBernard)|1017|
-|[bassem_masri](http://twitter.com/bassem_masri)|713|
-|[TransferSite](http://twitter.com/TransferSite)|502|
-|[BBCSporf](http://twitter.com/BBCSporf)|487|
-|[TheDailyShow](http://twitter.com/TheDailyShow)|458|
-|[KECruz85](http://twitter.com/KECruz85)|429|
-|[menes676](http://twitter.com/menes676)|422|
-|[TheFix](http://twitter.com/TheFix)|262|
-|[larryelder](http://twitter.com/larryelder)|229|
-|[Chris_1791](http://twitter.com/Chris_1791)|206|
-|[SheriffClarke](http://twitter.com/SheriffClarke)|205|
+| [MJBernard](http://twitter.com/MJBernard) | 1017 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 713 |
+| [TransferSite](http://twitter.com/TransferSite) | 502 |
+| [BBCSporf](http://twitter.com/BBCSporf) | 487 |
+| [TheDailyShow](http://twitter.com/TheDailyShow) | 458 |
+| [KECruz85](http://twitter.com/KECruz85) | 429 |
+| [menes676](http://twitter.com/menes676) | 422 |
+| [TheFix](http://twitter.com/TheFix) | 262 |
+| [larryelder](http://twitter.com/larryelder) | 229 |
+| [Chris_1791](http://twitter.com/Chris_1791) | 206 |
+| [SheriffClarke](http://twitter.com/SheriffClarke) | 205 |
 
 2015-03-21
-|[KWRose](http://twitter.com/KWRose)|981|
-|[keenblackgirl](http://twitter.com/keenblackgirl)|333|
-|[MalcolmXcelsior](http://twitter.com/MalcolmXcelsior)|208|
-|[bassem_masri](http://twitter.com/bassem_masri)|181|
-|[POPSspotSports](http://twitter.com/POPSspotSports)|152|
-|[blackvoices](http://twitter.com/blackvoices)|97|
-|[NationalMemo](http://twitter.com/NationalMemo)|77|
-|[hale_razor](http://twitter.com/hale_razor)|72|
-|[TheDailyShow](http://twitter.com/TheDailyShow)|67|
-|[Futbool_Fotos](http://twitter.com/Futbool_Fotos)|67|
-|[Chris_1791](http://twitter.com/Chris_1791)|66|
+| [KWRose](http://twitter.com/KWRose) | 981 |
+| [keenblackgirl](http://twitter.com/keenblackgirl) | 333 |
+| [MalcolmXcelsior](http://twitter.com/MalcolmXcelsior) | 208 |
+| [bassem_masri](http://twitter.com/bassem_masri) | 181 |
+| [POPSspotSports](http://twitter.com/POPSspotSports) | 152 |
+| [blackvoices](http://twitter.com/blackvoices) | 97 |
+| [NationalMemo](http://twitter.com/NationalMemo) | 77 |
+| [hale_razor](http://twitter.com/hale_razor) | 72 |
+| [TheDailyShow](http://twitter.com/TheDailyShow) | 67 |
+| [Futbool_Fotos](http://twitter.com/Futbool_Fotos) | 67 |
+| [Chris_1791](http://twitter.com/Chris_1791) | 66 |
 
 2015-07-30
-|[BBCSporf](http://twitter.com/BBCSporf)|718|
-|[thedailybeast](http://twitter.com/thedailybeast)|478|
-|[BreeNewsome](http://twitter.com/BreeNewsome)|329|
-|[SeanMcElwee](http://twitter.com/SeanMcElwee)|280|
-|[Doge4ferguson](http://twitter.com/Doge4ferguson)|180|
-|[Everton](http://twitter.com/Everton)|133|
-|[GlobalGrindNews](http://twitter.com/GlobalGrindNews)|114|
-|[SOS1878](http://twitter.com/SOS1878)|106|
-|[LivEchoEFC](http://twitter.com/LivEchoEFC)|79|
-|[Tammysdragonfly](http://twitter.com/Tammysdragonfly)|66|
-|[WesleyLowery](http://twitter.com/WesleyLowery)|60|
+| [BBCSporf](http://twitter.com/BBCSporf) | 718 |
+| [thedailybeast](http://twitter.com/thedailybeast) | 478 |
+| [BreeNewsome](http://twitter.com/BreeNewsome) | 329 |
+| [SeanMcElwee](http://twitter.com/SeanMcElwee) | 280 |
+| [Doge4ferguson](http://twitter.com/Doge4ferguson) | 180 |
+| [Everton](http://twitter.com/Everton) | 133 |
+| [GlobalGrindNews](http://twitter.com/GlobalGrindNews) | 114 |
+| [SOS1878](http://twitter.com/SOS1878) | 106 |
+| [LivEchoEFC](http://twitter.com/LivEchoEFC) | 79 |
+| [Tammysdragonfly](http://twitter.com/Tammysdragonfly) | 66 |
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 60 |
 
 2015-07-31
-|[sarahkendzior](http://twitter.com/sarahkendzior)|3423|
-|[DreadHead_46](http://twitter.com/DreadHead_46)|3317|
-|[seanjjordan](http://twitter.com/seanjjordan)|954|
-|[Delo_Taylor](http://twitter.com/Delo_Taylor)|592|
-|[Doge4ferguson](http://twitter.com/Doge4ferguson)|458|
-|[thedailybeast](http://twitter.com/thedailybeast)|405|
-|[SeanMcElwee](http://twitter.com/SeanMcElwee)|393|
-|[MyCivilRights11](http://twitter.com/MyCivilRights11)|393|
-|[TheAnonMessages](http://twitter.com/TheAnonMessages)|339|
-|[tchop_StL](http://twitter.com/tchop_StL)|298|
-|[Cr7Prince4ever](http://twitter.com/Cr7Prince4ever)|205|
+| [sarahkendzior](http://twitter.com/sarahkendzior) | 3423 |
+| [DreadHead_46](http://twitter.com/DreadHead_46) | 3317 |
+| [seanjjordan](http://twitter.com/seanjjordan) | 954 |
+| [Delo_Taylor](http://twitter.com/Delo_Taylor) | 592 |
+| [Doge4ferguson](http://twitter.com/Doge4ferguson) | 458 |
+| [thedailybeast](http://twitter.com/thedailybeast) | 405 |
+| [SeanMcElwee](http://twitter.com/SeanMcElwee) | 393 |
+| [MyCivilRights11](http://twitter.com/MyCivilRights11) | 393 |
+| [TheAnonMessages](http://twitter.com/TheAnonMessages) | 339 |
+| [tchop_StL](http://twitter.com/tchop_StL) | 298 |
+| [Cr7Prince4ever](http://twitter.com/Cr7Prince4ever) | 205 |
 
 2015-08-01
-|[paddypower](http://twitter.com/paddypower)|867|
-|[ManUtd_ID](http://twitter.com/ManUtd_ID)|403|
-|[johnspatricc](http://twitter.com/johnspatricc)|254|
-|[VIDEOFlLMS](http://twitter.com/VIDEOFlLMS)|213|
-|[Cr7Prince4ever](http://twitter.com/Cr7Prince4ever)|194|
-|[Bolanet](http://twitter.com/Bolanet)|189|
-|[The4th_Duck](http://twitter.com/The4th_Duck)|148|
-|[SaltireComics](http://twitter.com/SaltireComics)|140|
-|[TeamCRonaldo](http://twitter.com/TeamCRonaldo)|138|
-|[DreadHead_46](http://twitter.com/DreadHead_46)|119|
-|[Delo_Taylor](http://twitter.com/Delo_Taylor)|119|
+| [paddypower](http://twitter.com/paddypower) | 867 |
+| [ManUtd_ID](http://twitter.com/ManUtd_ID) | 403 |
+| [johnspatricc](http://twitter.com/johnspatricc) | 254 |
+| [VIDEOFlLMS](http://twitter.com/VIDEOFlLMS) | 213 |
+| [Cr7Prince4ever](http://twitter.com/Cr7Prince4ever) | 194 |
+| [Bolanet](http://twitter.com/Bolanet) | 189 |
+| [The4th_Duck](http://twitter.com/The4th_Duck) | 148 |
+| [SaltireComics](http://twitter.com/SaltireComics) | 140 |
+| [TeamCRonaldo](http://twitter.com/TeamCRonaldo) | 138 |
+| [DreadHead_46](http://twitter.com/DreadHead_46) | 119 |
+| [Delo_Taylor](http://twitter.com/Delo_Taylor) | 119 |
 
 2015-08-02
-|[Squawka](http://twitter.com/Squawka)|709|
-|[ActuFoot_](http://twitter.com/ActuFoot_)|477|
-|[theawayfans](http://twitter.com/theawayfans)|440|
-|[Football__Tweet](http://twitter.com/Football__Tweet)|432|
-|[ManUtdUpdates_](http://twitter.com/ManUtdUpdates_)|368|
-|[Tim_Cahill](http://twitter.com/Tim_Cahill)|364|
-|[paddypower](http://twitter.com/paddypower)|363|
-|[VIDEOFlLMS](http://twitter.com/VIDEOFlLMS)|335|
-|[ManUtdReport_](http://twitter.com/ManUtdReport_)|306|
-|[Everton](http://twitter.com/Everton)|296|
-|[forevruntd](http://twitter.com/forevruntd)|252|
+| [Squawka](http://twitter.com/Squawka) | 709 |
+| [ActuFoot_](http://twitter.com/ActuFoot_) | 477 |
+| [theawayfans](http://twitter.com/theawayfans) | 440 |
+| [Football__Tweet](http://twitter.com/Football__Tweet) | 432 |
+| [ManUtdUpdates_](http://twitter.com/ManUtdUpdates_) | 368 |
+| [Tim_Cahill](http://twitter.com/Tim_Cahill) | 364 |
+| [paddypower](http://twitter.com/paddypower) | 363 |
+| [VIDEOFlLMS](http://twitter.com/VIDEOFlLMS) | 335 |
+| [ManUtdReport_](http://twitter.com/ManUtdReport_) | 306 |
+| [Everton](http://twitter.com/Everton) | 296 |
+| [forevruntd](http://twitter.com/forevruntd) | 252 |
 
 2015-08-03
-|[orafa2](http://twitter.com/orafa2)|3591|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|515|
-|[ChampionsLeague](http://twitter.com/ChampionsLeague)|460|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|401|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|336|
-|[JRehling](http://twitter.com/JRehling)|259|
-|[Doge4ferguson](http://twitter.com/Doge4ferguson)|252|
-|[AntonioFrench](http://twitter.com/AntonioFrench)|200|
-|[mellberr](http://twitter.com/mellberr)|181|
-|[AP](http://twitter.com/AP)|178|
-|[NewYorker](http://twitter.com/NewYorker)|173|
+| [orafa2](http://twitter.com/orafa2) | 3591 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 515 |
+| [ChampionsLeague](http://twitter.com/ChampionsLeague) | 460 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 401 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 336 |
+| [JRehling](http://twitter.com/JRehling) | 259 |
+| [Doge4ferguson](http://twitter.com/Doge4ferguson) | 252 |
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 200 |
+| [mellberr](http://twitter.com/mellberr) | 181 |
+| [AP](http://twitter.com/AP) | 178 |
+| [NewYorker](http://twitter.com/NewYorker) | 173 |
 
 2015-08-04
-|[orafa2](http://twitter.com/orafa2)|813|
-|[mellberr](http://twitter.com/mellberr)|312|
-|[demarkesports](http://twitter.com/demarkesports)|301|
-|[search4swag](http://twitter.com/search4swag)|272|
-|[WillWatt](http://twitter.com/WillWatt)|263|
-|[thinkprogress](http://twitter.com/thinkprogress)|128|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|126|
-|[jbguild](http://twitter.com/jbguild)|111|
-|[AnonCopWatch](http://twitter.com/AnonCopWatch)|90|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|84|
-|[thecoreyholcomb](http://twitter.com/thecoreyholcomb)|82|
+| [orafa2](http://twitter.com/orafa2) | 813 |
+| [mellberr](http://twitter.com/mellberr) | 312 |
+| [demarkesports](http://twitter.com/demarkesports) | 301 |
+| [search4swag](http://twitter.com/search4swag) | 272 |
+| [WillWatt](http://twitter.com/WillWatt) | 263 |
+| [thinkprogress](http://twitter.com/thinkprogress) | 128 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 126 |
+| [jbguild](http://twitter.com/jbguild) | 111 |
+| [AnonCopWatch](http://twitter.com/AnonCopWatch) | 90 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 84 |
+| [thecoreyholcomb](http://twitter.com/thecoreyholcomb) | 82 |
 
 2015-08-05
-|[CNN](http://twitter.com/CNN)|622|
-|[WesleyLowery](http://twitter.com/WesleyLowery)|557|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|416|
-|[nytimes](http://twitter.com/nytimes)|388|
-|[Slate](http://twitter.com/Slate)|262|
-|[crissles](http://twitter.com/crissles)|249|
-|[thinkprogress](http://twitter.com/thinkprogress)|206|
-|[washingtonpost](http://twitter.com/washingtonpost)|203|
-|[MTVNews](http://twitter.com/MTVNews)|203|
-|[WSJ](http://twitter.com/WSJ)|168|
-|[mellberr](http://twitter.com/mellberr)|166|
+| [CNN](http://twitter.com/CNN) | 622 |
+| [WesleyLowery](http://twitter.com/WesleyLowery) | 557 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 416 |
+| [nytimes](http://twitter.com/nytimes) | 388 |
+| [Slate](http://twitter.com/Slate) | 262 |
+| [crissles](http://twitter.com/crissles) | 249 |
+| [thinkprogress](http://twitter.com/thinkprogress) | 206 |
+| [washingtonpost](http://twitter.com/washingtonpost) | 203 |
+| [MTVNews](http://twitter.com/MTVNews) | 203 |
+| [WSJ](http://twitter.com/WSJ) | 168 |
+| [mellberr](http://twitter.com/mellberr) | 166 |
 
 2015-08-06
-|[DreadHead_46](http://twitter.com/DreadHead_46)|679|
-|[CNN](http://twitter.com/CNN)|654|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|643|
-|[POPSspotSports](http://twitter.com/POPSspotSports)|535|
-|[Joke_Jaith](http://twitter.com/Joke_Jaith)|473|
-|[MTVNews](http://twitter.com/MTVNews)|470|
-|[HuffingtonPost](http://twitter.com/HuffingtonPost)|468|
-|[Delo_Taylor](http://twitter.com/Delo_Taylor)|423|
-|[ACLU](http://twitter.com/ACLU)|405|
-|[ajam](http://twitter.com/ajam)|401|
-|[chriskingstl](http://twitter.com/chriskingstl)|278|
+| [DreadHead_46](http://twitter.com/DreadHead_46) | 679 |
+| [CNN](http://twitter.com/CNN) | 654 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 643 |
+| [POPSspotSports](http://twitter.com/POPSspotSports) | 535 |
+| [Joke_Jaith](http://twitter.com/Joke_Jaith) | 473 |
+| [MTVNews](http://twitter.com/MTVNews) | 470 |
+| [HuffingtonPost](http://twitter.com/HuffingtonPost) | 468 |
+| [Delo_Taylor](http://twitter.com/Delo_Taylor) | 423 |
+| [ACLU](http://twitter.com/ACLU) | 405 |
+| [ajam](http://twitter.com/ajam) | 401 |
+| [chriskingstl](http://twitter.com/chriskingstl) | 278 |
 
 2015-08-07
-|[EBONYMag](http://twitter.com/EBONYMag)|619|
-|[MarshallProj](http://twitter.com/MarshallProj)|368|
-|[CNN](http://twitter.com/CNN)|363|
-|[UberFacts](http://twitter.com/UberFacts)|328|
-|[capetownbrown](http://twitter.com/capetownbrown)|311|
-|[AntonioFrench](http://twitter.com/AntonioFrench)|301|
-|[MotherJones](http://twitter.com/MotherJones)|260|
-|[nytimes](http://twitter.com/nytimes)|222|
-|[j_s_mann](http://twitter.com/j_s_mann)|215|
-|[search4swag](http://twitter.com/search4swag)|195|
-|[voxdotcom](http://twitter.com/voxdotcom)|194|
+| [EBONYMag](http://twitter.com/EBONYMag) | 619 |
+| [MarshallProj](http://twitter.com/MarshallProj) | 368 |
+| [CNN](http://twitter.com/CNN) | 363 |
+| [UberFacts](http://twitter.com/UberFacts) | 328 |
+| [capetownbrown](http://twitter.com/capetownbrown) | 311 |
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 301 |
+| [MotherJones](http://twitter.com/MotherJones) | 260 |
+| [nytimes](http://twitter.com/nytimes) | 222 |
+| [j_s_mann](http://twitter.com/j_s_mann) | 215 |
+| [search4swag](http://twitter.com/search4swag) | 195 |
+| [voxdotcom](http://twitter.com/voxdotcom) | 194 |
 
 2015-08-08
-|[AntonioFrench](http://twitter.com/AntonioFrench)|3039|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|1109|
-|[POPSspotSports](http://twitter.com/POPSspotSports)|826|
-|[joelcurrier](http://twitter.com/joelcurrier)|674|
-|[search4swag](http://twitter.com/search4swag)|641|
-|[conradhackett](http://twitter.com/conradhackett)|596|
-|[deray](http://twitter.com/deray)|431|
-|[jonswaine](http://twitter.com/jonswaine)|380|
-|[JamilahLemieux](http://twitter.com/JamilahLemieux)|367|
-|[samswey](http://twitter.com/samswey)|311|
-|[KeeganNYC](http://twitter.com/KeeganNYC)|309|
+| [AntonioFrench](http://twitter.com/AntonioFrench) | 3039 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 1109 |
+| [POPSspotSports](http://twitter.com/POPSspotSports) | 826 |
+| [joelcurrier](http://twitter.com/joelcurrier) | 674 |
+| [search4swag](http://twitter.com/search4swag) | 641 |
+| [conradhackett](http://twitter.com/conradhackett) | 596 |
+| [deray](http://twitter.com/deray) | 431 |
+| [jonswaine](http://twitter.com/jonswaine) | 380 |
+| [JamilahLemieux](http://twitter.com/JamilahLemieux) | 367 |
+| [samswey](http://twitter.com/samswey) | 311 |
+| [KeeganNYC](http://twitter.com/KeeganNYC) | 309 |
 
 2015-08-09
-|[zellieimani](http://twitter.com/zellieimani)|5050|
-|[MichaelSkolnik](http://twitter.com/MichaelSkolnik)|2833|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|2633|
-|[voxdotcom](http://twitter.com/voxdotcom)|2446|
-|[deray](http://twitter.com/deray)|1708|
-|[HistoricalPics](http://twitter.com/HistoricalPics)|1704|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|1161|
-|[ShaunKing](http://twitter.com/ShaunKing)|1129|
-|[kodacohen](http://twitter.com/kodacohen)|1083|
-|[HillaryClinton](http://twitter.com/HillaryClinton)|1038|
-|[samswey](http://twitter.com/samswey)|971|
+| [zellieimani](http://twitter.com/zellieimani) | 5050 |
+| [MichaelSkolnik](http://twitter.com/MichaelSkolnik) | 2833 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 2633 |
+| [voxdotcom](http://twitter.com/voxdotcom) | 2446 |
+| [deray](http://twitter.com/deray) | 1708 |
+| [HistoricalPics](http://twitter.com/HistoricalPics) | 1704 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 1161 |
+| [ShaunKing](http://twitter.com/ShaunKing) | 1129 |
+| [kodacohen](http://twitter.com/kodacohen) | 1083 |
+| [HillaryClinton](http://twitter.com/HillaryClinton) | 1038 |
+| [samswey](http://twitter.com/samswey) | 971 |
 
 2015-08-10
-|[zellieimani](http://twitter.com/zellieimani)|9963|
-|[jonswaine](http://twitter.com/jonswaine)|8805|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|7645|
-|[MichaelSkolnik](http://twitter.com/MichaelSkolnik)|7117|
-|[theonlybacchus](http://twitter.com/theonlybacchus)|5956|
-|[PzFeed](http://twitter.com/PzFeed)|5423|
-|[ryanjreilly](http://twitter.com/ryanjreilly)|4543|
-|[DDotOmen](http://twitter.com/DDotOmen)|4477|
-|[deray](http://twitter.com/deray)|4222|
-|[YourAnonNews](http://twitter.com/YourAnonNews)|4108|
-|[cnnbrk](http://twitter.com/cnnbrk)|3749|
+| [zellieimani](http://twitter.com/zellieimani) | 9963 |
+| [jonswaine](http://twitter.com/jonswaine) | 8805 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 7645 |
+| [MichaelSkolnik](http://twitter.com/MichaelSkolnik) | 7117 |
+| [theonlybacchus](http://twitter.com/theonlybacchus) | 5956 |
+| [PzFeed](http://twitter.com/PzFeed) | 5423 |
+| [ryanjreilly](http://twitter.com/ryanjreilly) | 4543 |
+| [DDotOmen](http://twitter.com/DDotOmen) | 4477 |
+| [deray](http://twitter.com/deray) | 4222 |
+| [YourAnonNews](http://twitter.com/YourAnonNews) | 4108 |
+| [cnnbrk](http://twitter.com/cnnbrk) | 3749 |
 
 2015-08-11
-|[pritchett_dan](http://twitter.com/pritchett_dan)|6156|
-|[deray](http://twitter.com/deray)|5503|
-|[RE_invent_ED](http://twitter.com/RE_invent_ED)|5044|
-|[POPSspotSports](http://twitter.com/POPSspotSports)|3853|
-|[jonswaine](http://twitter.com/jonswaine)|3535|
-|[EliKMBC](http://twitter.com/EliKMBC)|3450|
-|[Bipartisanism](http://twitter.com/Bipartisanism)|2796|
-|[PzFeed](http://twitter.com/PzFeed)|2443|
-|[occupythemob](http://twitter.com/occupythemob)|2326|
-|[Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa)|2283|
-|[theonlybacchus](http://twitter.com/theonlybacchus)|2260|
+| [pritchett_dan](http://twitter.com/pritchett_dan) | 6156 |
+| [deray](http://twitter.com/deray) | 5503 |
+| [RE_invent_ED](http://twitter.com/RE_invent_ED) | 5044 |
+| [POPSspotSports](http://twitter.com/POPSspotSports) | 3853 |
+| [jonswaine](http://twitter.com/jonswaine) | 3535 |
+| [EliKMBC](http://twitter.com/EliKMBC) | 3450 |
+| [Bipartisanism](http://twitter.com/Bipartisanism) | 2796 |
+| [PzFeed](http://twitter.com/PzFeed) | 2443 |
+| [occupythemob](http://twitter.com/occupythemob) | 2326 |
+| [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 2283 |
+| [theonlybacchus](http://twitter.com/theonlybacchus) | 2260 |
 
 ## Hashtags
 | Hashtag | Tweets |

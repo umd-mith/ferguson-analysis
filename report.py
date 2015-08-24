@@ -97,7 +97,7 @@ def users():
         print
         print time
         for tag in stats.zrevrange('users-%s' % time, 0, 10, withscores=True):
-            print '|[%s](http://twitter.com/%s)|%i|' % (tag[0], tag[0], tag[1])
+            print '| [%s](http://twitter.com/%s) | %i |' % (tag[0], tag[0], tag[1])
 
 if __name__ == "__main__":
     main()
