@@ -39,6 +39,7 @@ def hashtags():
     for time in times:
         print
         print "### %s" % time
+        print 
         print "| Hashtag | Tweets |"
         print "| ------- | ------:|"
         for tag in stats.zrevrange('hashtags-%s' % time, 0, 10, withscores=True):

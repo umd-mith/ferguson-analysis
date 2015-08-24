@@ -1403,6 +1403,7 @@ The top ten most retweeted users by day.
 The top ten most used hashtags per day.
 
 ### 2014-08-10
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 244 |
@@ -1418,6 +1419,7 @@ The top ten most used hashtags per day.
 | fergusonshooting | 6 |
 
 ### 2014-08-11
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 51679 |
@@ -1433,6 +1435,7 @@ The top ten most used hashtags per day.
 | uniteblue | 1834 |
 
 ### 2014-08-12
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 27477 |
@@ -1448,6 +1451,7 @@ The top ten most used hashtags per day.
 | anonymous | 1384 |
 
 ### 2014-08-13
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 22453 |
@@ -1463,6 +1467,7 @@ The top ten most used hashtags per day.
 | iftheygunnedmedown | 818 |
 
 ### 2014-08-14
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 160977 |
@@ -1478,6 +1483,7 @@ The top ten most used hashtags per day.
 | myawhite | 10418 |
 
 ### 2014-08-15
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 79710 |
@@ -1493,6 +1499,7 @@ The top ten most used hashtags per day.
 | uniteblue | 4423 |
 
 ### 2014-08-16
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 64150 |
@@ -1508,6 +1515,7 @@ The top ten most used hashtags per day.
 | stl | 3633 |
 
 ### 2014-08-17
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 85790 |
@@ -1523,6 +1531,7 @@ The top ten most used hashtags per day.
 | palestine | 4009 |
 
 ### 2014-08-18
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 137142 |
@@ -1538,6 +1547,7 @@ The top ten most used hashtags per day.
 | opferguson | 5100 |
 
 ### 2014-08-19
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 73534 |
@@ -1553,6 +1563,7 @@ The top ten most used hashtags per day.
 | stl | 7176 |
 
 ### 2014-08-20
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 41334 |
@@ -1568,6 +1579,7 @@ The top ten most used hashtags per day.
 | uniteblue | 5183 |
 
 ### 2014-08-21
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 11156 |
@@ -1583,6 +1595,7 @@ The top ten most used hashtags per day.
 | kajiemepowell | 1895 |
 
 ### 2014-08-22
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 25146 |
@@ -1598,6 +1611,7 @@ The top ten most used hashtags per day.
 | justiceforaaron | 3980 |
 
 ### 2014-08-23
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 20331 |
@@ -1613,6 +1627,7 @@ The top ten most used hashtags per day.
 | uniteblue | 2461 |
 
 ### 2014-08-24
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 14699 |
@@ -1628,6 +1643,7 @@ The top ten most used hashtags per day.
 | uniteblue | 1707 |
 
 ### 2014-08-25
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 30806 |
@@ -1643,6 +1659,7 @@ The top ten most used hashtags per day.
 | mikebrownfuneral | 1968 |
 
 ### 2014-08-26
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 15249 |
@@ -1658,6 +1675,7 @@ The top ten most used hashtags per day.
 | blacklivesmatter | 1108 |
 
 ### 2014-08-27
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 6999 |
@@ -1673,6 +1691,7 @@ The top ten most used hashtags per day.
 | anonymous | 702 |
 
 ### 2014-11-11
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | michaelbrown | 443 |
@@ -1688,6 +1707,7 @@ The top ten most used hashtags per day.
 | pl | 47 |
 
 ### 2014-11-12
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | violencewillnotbetolerated | 6195 |
@@ -1703,6 +1723,7 @@ The top ten most used hashtags per day.
 | blacklivesmatter | 494 |
 
 ### 2014-11-13
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 1702 |
@@ -1718,6 +1739,7 @@ The top ten most used hashtags per day.
 | saf | 531 |
 
 ### 2014-11-14
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 1640 |
@@ -1733,6 +1755,7 @@ The top ten most used hashtags per day.
 | news | 424 |
 
 ### 2014-11-15
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | opkkk | 3941 |
@@ -1748,6 +1771,7 @@ The top ten most used hashtags per day.
 | gossip | 489 |
 
 ### 2014-11-16
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | opkkk | 8578 |
@@ -1763,6 +1787,7 @@ The top ten most used hashtags per day.
 | blacklivesmatter | 475 |
 
 ### 2014-11-17
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | opkkk | 8570 |
@@ -1778,6 +1803,7 @@ The top ten most used hashtags per day.
 | missouri | 1014 |
 
 ### 2014-11-18
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | opkkk | 5521 |
@@ -1793,6 +1819,7 @@ The top ten most used hashtags per day.
 | news | 1477 |
 
 ### 2014-11-19
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | opkkk | 4030 |
@@ -1808,6 +1835,7 @@ The top ten most used hashtags per day.
 | pantsupdontloot | 735 |
 
 ### 2014-11-20
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | opkkk | 4173 |
@@ -1823,6 +1851,7 @@ The top ten most used hashtags per day.
 | opferguson | 924 |
 
 ### 2014-11-21
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | opkkk | 6360 |
@@ -1838,6 +1867,7 @@ The top ten most used hashtags per day.
 | officerwilson | 1125 |
 
 ### 2014-11-22
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | opkkk | 4842 |
@@ -1853,6 +1883,7 @@ The top ten most used hashtags per day.
 | opferguson | 938 |
 
 ### 2014-11-23
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 4271 |
@@ -1868,6 +1899,7 @@ The top ten most used hashtags per day.
 | darrenwilson | 1453 |
 
 ### 2014-11-24
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 11642 |
@@ -1883,6 +1915,7 @@ The top ten most used hashtags per day.
 | anonymous | 2213 |
 
 ### 2014-11-25
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | fergusondecision | 113887 |
@@ -1898,6 +1931,7 @@ The top ten most used hashtags per day.
 | palestine | 12193 |
 
 ### 2014-11-26
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | fergusondecision | 107487 |
@@ -1913,6 +1947,7 @@ The top ten most used hashtags per day.
 | boston | 12580 |
 
 ### 2014-11-27
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | fergusondecision | 40958 |
@@ -1928,6 +1963,7 @@ The top ten most used hashtags per day.
 | lapd | 7913 |
 
 ### 2014-11-28
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 25661 |
@@ -1943,6 +1979,7 @@ The top ten most used hashtags per day.
 | walmart | 6031 |
 
 ### 2014-11-29
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 11701 |
@@ -1958,6 +1995,7 @@ The top ten most used hashtags per day.
 | michaelbrown | 3328 |
 
 ### 2014-11-30
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 11089 |
@@ -1973,6 +2011,7 @@ The top ten most used hashtags per day.
 | handsupdontshoot | 2294 |
 
 ### 2014-12-01
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | handsupwalkout | 41174 |
@@ -1988,6 +2027,7 @@ The top ten most used hashtags per day.
 | stl | 8837 |
 
 ### 2014-12-02
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | tcot | 19432 |
@@ -2003,6 +2043,7 @@ The top ten most used hashtags per day.
 | rams | 5764 |
 
 ### 2014-12-03
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | ericgarner | 52507 |
@@ -2018,6 +2059,7 @@ The top ten most used hashtags per day.
 | handsupdontshoot | 5060 |
 
 ### 2014-12-04
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | ericgarner | 88102 |
@@ -2033,6 +2075,7 @@ The top ten most used hashtags per day.
 | stl | 5336 |
 
 ### 2014-12-05
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | ericgarner | 57126 |
@@ -2048,6 +2091,7 @@ The top ten most used hashtags per day.
 | nypd | 4519 |
 
 ### 2014-12-06
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | ericgarner | 28097 |
@@ -2063,6 +2107,7 @@ The top ten most used hashtags per day.
 | michaelbrown | 1949 |
 
 ### 2014-12-07
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | ericgarner | 39218 |
@@ -2078,6 +2123,7 @@ The top ten most used hashtags per day.
 | tamirrice | 1846 |
 
 ### 2014-12-08
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | ericgarner | 24556 |
@@ -2093,6 +2139,7 @@ The top ten most used hashtags per day.
 | shutitdown | 1792 |
 
 ### 2014-12-09
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | ericgarner | 21325 |
@@ -2108,6 +2155,7 @@ The top ten most used hashtags per day.
 | shutitdown | 1438 |
 
 ### 2014-12-10
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | ericgarner | 3843 |
@@ -2123,6 +2171,7 @@ The top ten most used hashtags per day.
 | tcot | 291 |
 
 ### 2015-02-25
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | blacklivesmatter | 323 |
@@ -2138,6 +2187,7 @@ The top ten most used hashtags per day.
 | asmsg | 66 |
 
 ### 2015-02-26
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | blacklivesmatter | 320 |
@@ -2153,6 +2203,7 @@ The top ten most used hashtags per day.
 | llamas | 89 |
 
 ### 2015-02-27
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | fergusonspring | 341 |
@@ -2168,6 +2219,7 @@ The top ten most used hashtags per day.
 | handsupdontshoot | 71 |
 
 ### 2015-02-28
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mufc | 372 |
@@ -2183,6 +2235,7 @@ The top ten most used hashtags per day.
 | gaza | 60 |
 
 ### 2015-03-01
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | ufc184 | 1903 |
@@ -2198,6 +2251,7 @@ The top ten most used hashtags per day.
 | tcot | 92 |
 
 ### 2015-03-02
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | blacklivesmatter | 515 |
@@ -2213,6 +2267,7 @@ The top ten most used hashtags per day.
 | p2 | 127 |
 
 ### 2015-03-03
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | breaking | 1140 |
@@ -2228,6 +2283,7 @@ The top ten most used hashtags per day.
 | uniteblue | 147 |
 
 ### 2015-03-04
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | fergusonreport | 4209 |
@@ -2243,6 +2299,7 @@ The top ten most used hashtags per day.
 | michaelbrown | 899 |
 
 ### 2015-03-05
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | fergusonreport | 7705 |
@@ -2258,6 +2315,7 @@ The top ten most used hashtags per day.
 | citizenradio | 795 |
 
 ### 2015-03-06
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | scandal | 5715 |
@@ -2273,6 +2331,7 @@ The top ten most used hashtags per day.
 | doj | 555 |
 
 ### 2015-03-07
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | selma50 | 4690 |
@@ -2288,6 +2347,7 @@ The top ten most used hashtags per day.
 | wakeupamerica | 536 |
 
 ### 2015-03-08
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | selma50 | 2080 |
@@ -2303,6 +2363,7 @@ The top ten most used hashtags per day.
 | mlk | 309 |
 
 ### 2015-03-09
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | selma50 | 1080 |
@@ -2318,6 +2379,7 @@ The top ten most used hashtags per day.
 | mikebrown | 243 |
 
 ### 2015-03-10
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | tcot | 3748 |
@@ -2333,6 +2395,7 @@ The top ten most used hashtags per day.
 | selma50 | 268 |
 
 ### 2015-03-11
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | breaking | 2752 |
@@ -2348,6 +2411,7 @@ The top ten most used hashtags per day.
 | breakingnews | 318 |
 
 ### 2015-03-12
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | tcot | 6902 |
@@ -2363,6 +2427,7 @@ The top ten most used hashtags per day.
 | handsupdontshoot | 1878 |
 
 ### 2015-03-13
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | tcot | 5800 |
@@ -2378,6 +2443,7 @@ The top ten most used hashtags per day.
 | gopwantswar | 1382 |
 
 ### 2015-03-14
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | tcot | 1978 |
@@ -2393,6 +2459,7 @@ The top ten most used hashtags per day.
 | pjnet | 427 |
 
 ### 2015-03-15
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | jeffreywilliams | 2335 |
@@ -2408,6 +2475,7 @@ The top ten most used hashtags per day.
 | fergusonreport | 656 |
 
 ### 2015-03-16
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | tcot | 2627 |
@@ -2423,6 +2491,7 @@ The top ten most used hashtags per day.
 | wakeupamerica | 509 |
 
 ### 2015-03-17
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | tcot | 1655 |
@@ -2438,6 +2507,7 @@ The top ten most used hashtags per day.
 | respect | 383 |
 
 ### 2015-03-18
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | racetogether | 1856 |
@@ -2453,6 +2523,7 @@ The top ten most used hashtags per day.
 | starbucks | 232 |
 
 ### 2015-03-19
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | blacklivesmatter | 987 |
@@ -2468,6 +2539,7 @@ The top ten most used hashtags per day.
 | mufc | 166 |
 
 ### 2015-03-20
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | blacklivesmatter | 1875 |
@@ -2483,6 +2555,7 @@ The top ten most used hashtags per day.
 | clayton | 286 |
 
 ### 2015-03-21
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | cnnbelike | 659 |
@@ -2498,6 +2571,7 @@ The top ten most used hashtags per day.
 | starbucks | 49 |
 
 ### 2015-07-30
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | efc | 191 |
@@ -2513,6 +2587,7 @@ The top ten most used hashtags per day.
 | ian1 | 55 |
 
 ### 2015-07-31
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | trishdennison | 1294 |
@@ -2528,6 +2603,7 @@ The top ten most used hashtags per day.
 | mufc | 94 |
 
 ### 2015-08-01
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | didyouknow | 410 |
@@ -2543,6 +2619,7 @@ The top ten most used hashtags per day.
 | everton | 78 |
 
 ### 2015-08-02
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mufc | 1347 |
@@ -2558,6 +2635,7 @@ The top ten most used hashtags per day.
 | throwback | 125 |
 
 ### 2015-08-03
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | blacklivesmatter | 601 |
@@ -2573,6 +2651,7 @@ The top ten most used hashtags per day.
 | michaelbrown | 93 |
 
 ### 2015-08-04
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 526 |
@@ -2588,6 +2667,7 @@ The top ten most used hashtags per day.
 | blacktwitter | 84 |
 
 ### 2015-08-05
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | blacklivesmatter | 584 |
@@ -2603,6 +2683,7 @@ The top ten most used hashtags per day.
 | iartg | 113 |
 
 ### 2015-08-06
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 1103 |
@@ -2618,6 +2699,7 @@ The top ten most used hashtags per day.
 | efc | 227 |
 
 ### 2015-08-07
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | blacklivesmatter | 1410 |
@@ -2633,6 +2715,7 @@ The top ten most used hashtags per day.
 | nufc | 238 |
 
 ### 2015-08-08
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 5305 |
@@ -2648,6 +2731,7 @@ The top ten most used hashtags per day.
 | blackaugust | 328 |
 
 ### 2015-08-09
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | mikebrown | 20053 |
@@ -2663,6 +2747,7 @@ The top ten most used hashtags per day.
 | fergusonforward | 643 |
 
 ### 2015-08-10
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | blacklivesmatter | 20792 |
@@ -2678,6 +2763,7 @@ The top ten most used hashtags per day.
 | stl | 3669 |
 
 ### 2015-08-11
+
 | Hashtag | Tweets |
 | ------- | ------:|
 | blacklivesmatter | 10774 |
