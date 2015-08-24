@@ -106,10 +106,10 @@ they can be counted easily.
 | total | 31657545 |
 
 ## Users
+
+### 2014-08-10
 | Username | Re(tweets) |
 | -------- | ----------:|
-
-2014-08-10
 | [AntonioFrench](http://twitter.com/AntonioFrench) | 80 |
 | [TefPoe](http://twitter.com/TefPoe) | 33 |
 | [MichaelSkolnik](http://twitter.com/MichaelSkolnik) | 32 |
@@ -122,7 +122,9 @@ they can be counted easily.
 | [tariqnasheed](http://twitter.com/tariqnasheed) | 9 |
 | [AD_Humphreys](http://twitter.com/AD_Humphreys) | 9 |
 
-2014-08-11
+### 2014-08-11
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [MichaelSkolnik](http://twitter.com/MichaelSkolnik) | 21551 |
 | [AntonioFrench](http://twitter.com/AntonioFrench) | 16266 |
 | [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 3813 |
@@ -135,7 +137,9 @@ they can be counted easily.
 | [kerrywashington](http://twitter.com/kerrywashington) | 1850 |
 | [KhaledBeydoun](http://twitter.com/KhaledBeydoun) | 1717 |
 
-2014-08-12
+### 2014-08-12
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [AntonioFrench](http://twitter.com/AntonioFrench) | 20547 |
 | [juliebosman](http://twitter.com/juliebosman) | 7580 |
 | [FOX2now](http://twitter.com/FOX2now) | 6711 |
@@ -148,7 +152,9 @@ they can be counted easily.
 | [johnlegend](http://twitter.com/johnlegend) | 2165 |
 | [WesleyLowery](http://twitter.com/WesleyLowery) | 2131 |
 
-2014-08-13
+### 2014-08-13
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [AntonioFrench](http://twitter.com/AntonioFrench) | 7160 |
 | [YourAnonNews](http://twitter.com/YourAnonNews) | 5086 |
 | [ryanjreilly](http://twitter.com/ryanjreilly) | 3581 |
@@ -161,7 +167,9 @@ they can be counted easily.
 | [elonjames](http://twitter.com/elonjames) | 1619 |
 | [mm](http://twitter.com/mm) | 1579 |
 
-2014-08-14
+### 2014-08-14
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [YourAnonNews](http://twitter.com/YourAnonNews) | 45098 |
 | [AntonioFrench](http://twitter.com/AntonioFrench) | 33200 |
 | [jackfrombkln](http://twitter.com/jackfrombkln) | 32151 |
@@ -174,7 +182,9 @@ they can be counted easily.
 | [occupythemob](http://twitter.com/occupythemob) | 12663 |
 | [MichaelSkolnik](http://twitter.com/MichaelSkolnik) | 10635 |
 
-2014-08-15
+### 2014-08-15
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [AntonioFrench](http://twitter.com/AntonioFrench) | 22711 |
 | [WesleyLowery](http://twitter.com/WesleyLowery) | 6436 |
 | [ryanjreilly](http://twitter.com/ryanjreilly) | 6213 |
@@ -187,7 +197,9 @@ they can be counted easily.
 | [cnnbrk](http://twitter.com/cnnbrk) | 3188 |
 | [FergusonUnity](http://twitter.com/FergusonUnity) | 3148 |
 
-2014-08-16
+### 2014-08-16
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [AntonioFrench](http://twitter.com/AntonioFrench) | 13602 |
 | [ShaunKing](http://twitter.com/ShaunKing) | 7814 |
 | [ryanjreilly](http://twitter.com/ryanjreilly) | 7739 |
@@ -200,7 +212,9 @@ they can be counted easily.
 | [michaelcalhoun](http://twitter.com/michaelcalhoun) | 3812 |
 | [YourAnonNews](http://twitter.com/YourAnonNews) | 3613 |
 
-2014-08-17
+### 2014-08-17
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [AntonioFrench](http://twitter.com/AntonioFrench) | 27836 |
 | [ryanjreilly](http://twitter.com/ryanjreilly) | 19640 |
 | [YourAnonNews](http://twitter.com/YourAnonNews) | 15900 |
@@ -213,7 +227,9 @@ they can be counted easily.
 | [PzFeed](http://twitter.com/PzFeed) | 4607 |
 | [alicesperi](http://twitter.com/alicesperi) | 4350 |
 
-2014-08-18
+### 2014-08-18
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [ryanjreilly](http://twitter.com/ryanjreilly) | 28253 |
 | [AntonioFrench](http://twitter.com/AntonioFrench) | 28235 |
 | [FergusonUnity](http://twitter.com/FergusonUnity) | 21893 |
@@ -226,7 +242,9 @@ they can be counted easily.
 | [aterkel](http://twitter.com/aterkel) | 11140 |
 | [thepaulhagan](http://twitter.com/thepaulhagan) | 10240 |
 
-2014-08-19
+### 2014-08-19
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [YourAnonNews](http://twitter.com/YourAnonNews) | 31673 |
 | [AntonioFrench](http://twitter.com/AntonioFrench) | 17097 |
 | [ryanjreilly](http://twitter.com/ryanjreilly) | 15931 |
@@ -239,7 +257,9 @@ they can be counted easily.
 | [alicesperi](http://twitter.com/alicesperi) | 9573 |
 | [BNDJLee](http://twitter.com/BNDJLee) | 9077 |
 
-2014-08-20
+### 2014-08-20
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [ryanjreilly](http://twitter.com/ryanjreilly) | 15119 |
 | [FergusonUnity](http://twitter.com/FergusonUnity) | 12397 |
 | [jelani9](http://twitter.com/jelani9) | 10517 |
@@ -252,7 +272,9 @@ they can be counted easily.
 | [AntonioFrench](http://twitter.com/AntonioFrench) | 5321 |
 | [PeopIe](http://twitter.com/PeopIe) | 4887 |
 
-2014-08-21
+### 2014-08-21
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [ryanjreilly](http://twitter.com/ryanjreilly) | 4438 |
 | [Awkward_Duck](http://twitter.com/Awkward_Duck) | 3061 |
 | [YourAnonNews](http://twitter.com/YourAnonNews) | 2860 |
@@ -265,7 +287,9 @@ they can be counted easily.
 | [YourAnonGlobal](http://twitter.com/YourAnonGlobal) | 1676 |
 | [FergusonUnity](http://twitter.com/FergusonUnity) | 1676 |
 
-2014-08-22
+### 2014-08-22
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [WordofFarrakhan](http://twitter.com/WordofFarrakhan) | 6093 |
 | [hanan_hao](http://twitter.com/hanan_hao) | 4757 |
 | [FergusonUnity](http://twitter.com/FergusonUnity) | 2302 |
@@ -278,7 +302,9 @@ they can be counted easily.
 | [LearnSomethlng](http://twitter.com/LearnSomethlng) | 1264 |
 | [Marmel](http://twitter.com/Marmel) | 1088 |
 
-2014-08-23
+### 2014-08-23
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [FergusonUnity](http://twitter.com/FergusonUnity) | 4018 |
 | [WordofFarrakhan](http://twitter.com/WordofFarrakhan) | 3292 |
 | [AntonioFrench](http://twitter.com/AntonioFrench) | 2580 |
@@ -291,7 +317,9 @@ they can be counted easily.
 | [MichaelSkolnik](http://twitter.com/MichaelSkolnik) | 1258 |
 | [larryelder](http://twitter.com/larryelder) | 1201 |
 
-2014-08-24
+### 2014-08-24
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 7220 |
 | [TalbertSwan](http://twitter.com/TalbertSwan) | 3513 |
 | [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 1963 |
@@ -304,7 +332,9 @@ they can be counted easily.
 | [CassandraRules](http://twitter.com/CassandraRules) | 1368 |
 | [jasiri_x](http://twitter.com/jasiri_x) | 1216 |
 
-2014-08-25
+### 2014-08-25
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [SeanMcElwee](http://twitter.com/SeanMcElwee) | 4594 |
 | [sonsandbros](http://twitter.com/sonsandbros) | 4489 |
 | [TalbertSwan](http://twitter.com/TalbertSwan) | 3427 |
@@ -317,7 +347,9 @@ they can be counted easily.
 | [cnnbrk](http://twitter.com/cnnbrk) | 1406 |
 | [doreeshafrir](http://twitter.com/doreeshafrir) | 1355 |
 
-2014-08-26
+### 2014-08-26
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [SeanMcElwee](http://twitter.com/SeanMcElwee) | 1707 |
 | [TalbertSwan](http://twitter.com/TalbertSwan) | 1485 |
 | [TheBaxterBean](http://twitter.com/TheBaxterBean) | 1388 |
@@ -330,7 +362,9 @@ they can be counted easily.
 | [rolandsmartin](http://twitter.com/rolandsmartin) | 775 |
 | [kodacohen](http://twitter.com/kodacohen) | 716 |
 
-2014-08-27
+### 2014-08-27
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [TalbertSwan](http://twitter.com/TalbertSwan) | 3407 |
 | [ryanjreilly](http://twitter.com/ryanjreilly) | 1144 |
 | [AntonioFrench](http://twitter.com/AntonioFrench) | 919 |
@@ -343,7 +377,9 @@ they can be counted easily.
 | [drgoddess](http://twitter.com/drgoddess) | 375 |
 | [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 314 |
 
-2014-11-11
+### 2014-11-11
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 306 |
 | [zellieimani](http://twitter.com/zellieimani) | 281 |
 | [CNN](http://twitter.com/CNN) | 261 |
@@ -356,7 +392,9 @@ they can be counted easily.
 | [History_Futbol](http://twitter.com/History_Futbol) | 88 |
 | [elonjames](http://twitter.com/elonjames) | 80 |
 
-2014-11-12
+### 2014-11-12
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 9904 |
 | [mettawordlife83](http://twitter.com/mettawordlife83) | 1002 |
 | [FootballFunnys](http://twitter.com/FootballFunnys) | 997 |
@@ -369,7 +407,9 @@ they can be counted easily.
 | [2_Synnseer](http://twitter.com/2_Synnseer) | 490 |
 | [sarahkendzior](http://twitter.com/sarahkendzior) | 482 |
 
-2014-11-13
+### 2014-11-13
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 5861 |
 | [ChristinaKSDK](http://twitter.com/ChristinaKSDK) | 1241 |
 | [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 1071 |
@@ -382,7 +422,9 @@ they can be counted easily.
 | [unitedarmyfc](http://twitter.com/unitedarmyfc) | 487 |
 | [TheRoot](http://twitter.com/TheRoot) | 471 |
 
-2014-11-14
+### 2014-11-14
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 4633 |
 | [vicenews](http://twitter.com/vicenews) | 1347 |
 | [ThatsRacistAF](http://twitter.com/ThatsRacistAF) | 905 |
@@ -395,7 +437,9 @@ they can be counted easily.
 | [TheRoot](http://twitter.com/TheRoot) | 394 |
 | [AnonCopWatch](http://twitter.com/AnonCopWatch) | 370 |
 
-2014-11-15
+### 2014-11-15
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 4362 |
 | [ShaunKing](http://twitter.com/ShaunKing) | 1223 |
 | [voice](http://twitter.com/voice) | 858 |
@@ -408,7 +452,9 @@ they can be counted easily.
 | [KUDUNEWS](http://twitter.com/KUDUNEWS) | 484 |
 | [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 464 |
 
-2014-11-16
+### 2014-11-16
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 7826 |
 | [YourAnonNews](http://twitter.com/YourAnonNews) | 2580 |
 | [Bey_Legion](http://twitter.com/Bey_Legion) | 2378 |
@@ -421,7 +467,9 @@ they can be counted easily.
 | [ShaunKing](http://twitter.com/ShaunKing) | 697 |
 | [mettawordlife83](http://twitter.com/mettawordlife83) | 606 |
 
-2014-11-17
+### 2014-11-17
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 11236 |
 | [YourAnonNews](http://twitter.com/YourAnonNews) | 3470 |
 | [ShaunKing](http://twitter.com/ShaunKing) | 2840 |
@@ -434,7 +482,9 @@ they can be counted easily.
 | [RT_com](http://twitter.com/RT_com) | 1107 |
 | [NBCNews](http://twitter.com/NBCNews) | 971 |
 
-2014-11-18
+### 2014-11-18
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 6643 |
 | [elonjames](http://twitter.com/elonjames) | 4164 |
 | [ShaunKing](http://twitter.com/ShaunKing) | 1829 |
@@ -447,7 +497,9 @@ they can be counted easily.
 | [CNN](http://twitter.com/CNN) | 1066 |
 | [TalbertSwan](http://twitter.com/TalbertSwan) | 958 |
 
-2014-11-19
+### 2014-11-19
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 5528 |
 | [YourAnonNews](http://twitter.com/YourAnonNews) | 1166 |
 | [WayneDupreeShow](http://twitter.com/WayneDupreeShow) | 966 |
@@ -460,7 +512,9 @@ they can be counted easily.
 | [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 656 |
 | [splcenter](http://twitter.com/splcenter) | 602 |
 
-2014-11-20
+### 2014-11-20
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 3010 |
 | [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 2666 |
 | [TheAnonMessage](http://twitter.com/TheAnonMessage) | 2442 |
@@ -473,7 +527,9 @@ they can be counted easily.
 | [brownjenjen](http://twitter.com/brownjenjen) | 1133 |
 | [CassandraRules](http://twitter.com/CassandraRules) | 1084 |
 
-2014-11-21
+### 2014-11-21
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 5885 |
 | [YourAnonNews](http://twitter.com/YourAnonNews) | 4984 |
 | [CassandraRules](http://twitter.com/CassandraRules) | 1866 |
@@ -486,7 +542,9 @@ they can be counted easily.
 | [Bipartisanism](http://twitter.com/Bipartisanism) | 1246 |
 | [bassem_masri](http://twitter.com/bassem_masri) | 1214 |
 
-2014-11-22
+### 2014-11-22
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 6170 |
 | [YourAnonNews](http://twitter.com/YourAnonNews) | 3582 |
 | [piersmorgan](http://twitter.com/piersmorgan) | 3157 |
@@ -499,7 +557,9 @@ they can be counted easily.
 | [Bipartisanism](http://twitter.com/Bipartisanism) | 1175 |
 | [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 1117 |
 
-2014-11-23
+### 2014-11-23
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 8579 |
 | [Bipartisanism](http://twitter.com/Bipartisanism) | 3658 |
 | [ManUtd](http://twitter.com/ManUtd) | 2880 |
@@ -512,7 +572,9 @@ they can be counted easily.
 | [jonswaine](http://twitter.com/jonswaine) | 1385 |
 | [Bidenshairplugs](http://twitter.com/Bidenshairplugs) | 1102 |
 
-2014-11-24
+### 2014-11-24
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 9046 |
 | [cnnbrk](http://twitter.com/cnnbrk) | 8293 |
 | [Bipartisanism](http://twitter.com/Bipartisanism) | 5654 |
@@ -525,7 +587,9 @@ they can be counted easily.
 | [mikebrowncover](http://twitter.com/mikebrowncover) | 2055 |
 | [sarahkendzior](http://twitter.com/sarahkendzior) | 2014 |
 
-2014-11-25
+### 2014-11-25
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [Bipartisanism](http://twitter.com/Bipartisanism) | 48168 |
 | [deray](http://twitter.com/deray) | 38555 |
 | [kobebryant](http://twitter.com/kobebryant) | 26250 |
@@ -538,7 +602,9 @@ they can be counted easily.
 | [Sierra2231](http://twitter.com/Sierra2231) | 10125 |
 | [mikebrowncover](http://twitter.com/mikebrowncover) | 10014 |
 
-2014-11-26
+### 2014-11-26
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 61616 |
 | [Bipartisanism](http://twitter.com/Bipartisanism) | 37133 |
 | [TheAnonMessage](http://twitter.com/TheAnonMessage) | 32952 |
@@ -551,7 +617,9 @@ they can be counted easily.
 | [NewsRevo](http://twitter.com/NewsRevo) | 9191 |
 | [mikebrowncover](http://twitter.com/mikebrowncover) | 7962 |
 
-2014-11-27
+### 2014-11-27
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [MeninistTweet](http://twitter.com/MeninistTweet) | 23289 |
 | [deray](http://twitter.com/deray) | 22712 |
 | [Bipartisanism](http://twitter.com/Bipartisanism) | 14478 |
@@ -564,7 +632,9 @@ they can be counted easily.
 | [FalconRunner1](http://twitter.com/FalconRunner1) | 7658 |
 | [WeLoveRobDyrdek](http://twitter.com/WeLoveRobDyrdek) | 7340 |
 
-2014-11-28
+### 2014-11-28
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 55962 |
 | [Bipartisanism](http://twitter.com/Bipartisanism) | 7795 |
 | [occupythemob](http://twitter.com/occupythemob) | 6555 |
@@ -577,7 +647,9 @@ they can be counted easily.
 | [ChrChristensen](http://twitter.com/ChrChristensen) | 3472 |
 | [handsupunited_](http://twitter.com/handsupunited_) | 3276 |
 
-2014-11-29
+### 2014-11-29
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 22693 |
 | [TheBlackGuyX](http://twitter.com/TheBlackGuyX) | 9587 |
 | [Bipartisanism](http://twitter.com/Bipartisanism) | 6089 |
@@ -590,7 +662,9 @@ they can be counted easily.
 | [AP](http://twitter.com/AP) | 2602 |
 | [akacharleswade](http://twitter.com/akacharleswade) | 2495 |
 
-2014-11-30
+### 2014-11-30
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 27772 |
 | [CNN](http://twitter.com/CNN) | 11986 |
 | [BleacherReport](http://twitter.com/BleacherReport) | 7823 |
@@ -603,7 +677,9 @@ they can be counted easily.
 | [YourAnonNews](http://twitter.com/YourAnonNews) | 2477 |
 | [TooRacist](http://twitter.com/TooRacist) | 2250 |
 
-2014-12-01
+### 2014-12-01
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 20518 |
 | [NBCNews](http://twitter.com/NBCNews) | 16779 |
 | [BleacherReport](http://twitter.com/BleacherReport) | 9387 |
@@ -616,7 +692,9 @@ they can be counted easily.
 | [ABC](http://twitter.com/ABC) | 4829 |
 | [Lnonblonde](http://twitter.com/Lnonblonde) | 4815 |
 
-2014-12-02
+### 2014-12-02
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 15432 |
 | [NBCNews](http://twitter.com/NBCNews) | 12348 |
 | [FoxNews](http://twitter.com/FoxNews) | 6736 |
@@ -629,7 +707,9 @@ they can be counted easily.
 | [TalbertSwan](http://twitter.com/TalbertSwan) | 2949 |
 | [larryelder](http://twitter.com/larryelder) | 2900 |
 
-2014-12-03
+### 2014-12-03
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [TalbertSwan](http://twitter.com/TalbertSwan) | 21471 |
 | [deray](http://twitter.com/deray) | 11033 |
 | [bassem_masri](http://twitter.com/bassem_masri) | 6493 |
@@ -642,7 +722,9 @@ they can be counted easily.
 | [NewsRevo](http://twitter.com/NewsRevo) | 2426 |
 | [rolandsmartin](http://twitter.com/rolandsmartin) | 2242 |
 
-2014-12-04
+### 2014-12-04
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 10046 |
 | [TalbertSwan](http://twitter.com/TalbertSwan) | 9602 |
 | [IGGYAZALEA](http://twitter.com/IGGYAZALEA) | 6358 |
@@ -655,7 +737,9 @@ they can be counted easily.
 | [VivianHo](http://twitter.com/VivianHo) | 2371 |
 | [Bipartisanism](http://twitter.com/Bipartisanism) | 2283 |
 
-2014-12-05
+### 2014-12-05
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 13938 |
 | [TalbertSwan](http://twitter.com/TalbertSwan) | 10093 |
 | [bassem_masri](http://twitter.com/bassem_masri) | 4713 |
@@ -668,7 +752,9 @@ they can be counted easily.
 | [leggeaux](http://twitter.com/leggeaux) | 1583 |
 | [YourAnonNews](http://twitter.com/YourAnonNews) | 1409 |
 
-2014-12-06
+### 2014-12-06
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 8723 |
 | [Bipartisanism](http://twitter.com/Bipartisanism) | 4924 |
 | [homod_vip](http://twitter.com/homod_vip) | 2415 |
@@ -681,7 +767,9 @@ they can be counted easily.
 | [TextingFails___](http://twitter.com/TextingFails___) | 1184 |
 | [VivianHo](http://twitter.com/VivianHo) | 1060 |
 
-2014-12-07
+### 2014-12-07
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 15772 |
 | [Bipartisanism](http://twitter.com/Bipartisanism) | 5065 |
 | [UberFacts](http://twitter.com/UberFacts) | 3883 |
@@ -694,7 +782,9 @@ they can be counted easily.
 | [occupythemob](http://twitter.com/occupythemob) | 1529 |
 | [amajamus](http://twitter.com/amajamus) | 1425 |
 
-2014-12-08
+### 2014-12-08
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 13702 |
 | [bassem_masri](http://twitter.com/bassem_masri) | 3575 |
 | [Bipartisanism](http://twitter.com/Bipartisanism) | 3327 |
@@ -707,7 +797,9 @@ they can be counted easily.
 | [LoveAss_____](http://twitter.com/LoveAss_____) | 1144 |
 | [KWRose](http://twitter.com/KWRose) | 890 |
 
-2014-12-09
+### 2014-12-09
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 7927 |
 | [TalbertSwan](http://twitter.com/TalbertSwan) | 3344 |
 | [Bipartisanism](http://twitter.com/Bipartisanism) | 2666 |
@@ -720,7 +812,9 @@ they can be counted easily.
 | [TextingFails___](http://twitter.com/TextingFails___) | 1287 |
 | [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 1242 |
 
-2014-12-10
+### 2014-12-10
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 2306 |
 | [TrollTollTax](http://twitter.com/TrollTollTax) | 1622 |
 | [Bipartisanism](http://twitter.com/Bipartisanism) | 1045 |
@@ -733,7 +827,9 @@ they can be counted easily.
 | [LisaBloom](http://twitter.com/LisaBloom) | 272 |
 | [Ignore_MrWhite](http://twitter.com/Ignore_MrWhite) | 269 |
 
-2015-02-25
+### 2015-02-25
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [BBCSporf](http://twitter.com/BBCSporf) | 700 |
 | [FootballFunnys](http://twitter.com/FootballFunnys) | 565 |
 | [TSBible](http://twitter.com/TSBible) | 434 |
@@ -746,7 +842,9 @@ they can be counted easily.
 | [PENNewEngland](http://twitter.com/PENNewEngland) | 178 |
 | [CentreTransfer](http://twitter.com/CentreTransfer) | 158 |
 
-2015-02-26
+### 2015-02-26
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [GeniusFootball](http://twitter.com/GeniusFootball) | 411 |
 | [HarvardBiz](http://twitter.com/HarvardBiz) | 320 |
 | [ESPNNFL](http://twitter.com/ESPNNFL) | 160 |
@@ -759,7 +857,9 @@ they can be counted easily.
 | [Footy_Jokes](http://twitter.com/Footy_Jokes) | 98 |
 | [piesportsbooze](http://twitter.com/piesportsbooze) | 90 |
 
-2015-02-27
+### 2015-02-27
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [FootballFunnys](http://twitter.com/FootballFunnys) | 952 |
 | [Footy_Jokes](http://twitter.com/Footy_Jokes) | 547 |
 | [UberFootFact](http://twitter.com/UberFootFact) | 474 |
@@ -772,7 +872,9 @@ they can be counted easily.
 | [deray](http://twitter.com/deray) | 123 |
 | [handsupunited_](http://twitter.com/handsupunited_) | 113 |
 
-2015-02-28
+### 2015-02-28
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [UberFootFact](http://twitter.com/UberFootFact) | 1886 |
 | [GeniusFootball](http://twitter.com/GeniusFootball) | 373 |
 | [FootbalIStuff](http://twitter.com/FootbalIStuff) | 367 |
@@ -785,7 +887,9 @@ they can be counted easily.
 | [TheAncelottiWay](http://twitter.com/TheAncelottiWay) | 126 |
 | [handsupunited_](http://twitter.com/handsupunited_) | 115 |
 
-2015-03-01
+### 2015-03-01
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [8Fact_Footballl](http://twitter.com/8Fact_Footballl) | 558 |
 | [FootballFunnys](http://twitter.com/FootballFunnys) | 520 |
 | [bassem_masri](http://twitter.com/bassem_masri) | 453 |
@@ -798,7 +902,9 @@ they can be counted easily.
 | [MMAFighting](http://twitter.com/MMAFighting) | 112 |
 | [GeniusFootball](http://twitter.com/GeniusFootball) | 102 |
 
-2015-03-02
+### 2015-03-02
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [nytimes](http://twitter.com/nytimes) | 707 |
 | [dailydot](http://twitter.com/dailydot) | 667 |
 | [mattdpearce](http://twitter.com/mattdpearce) | 464 |
@@ -811,7 +917,9 @@ they can be counted easily.
 | [bassem_masri](http://twitter.com/bassem_masri) | 180 |
 | [josh_nelson](http://twitter.com/josh_nelson) | 129 |
 
-2015-03-03
+### 2015-03-03
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [LisaBloom](http://twitter.com/LisaBloom) | 3113 |
 | [AntonioFrench](http://twitter.com/AntonioFrench) | 1487 |
 | [nytimes](http://twitter.com/nytimes) | 1476 |
@@ -824,7 +932,9 @@ they can be counted easily.
 | [amnesty](http://twitter.com/amnesty) | 626 |
 | [jonswaine](http://twitter.com/jonswaine) | 511 |
 
-2015-03-04
+### 2015-03-04
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [WesleyLowery](http://twitter.com/WesleyLowery) | 13638 |
 | [AdamSerwer](http://twitter.com/AdamSerwer) | 6854 |
 | [LisaBloom](http://twitter.com/LisaBloom) | 4800 |
@@ -837,7 +947,9 @@ they can be counted easily.
 | [nytimes](http://twitter.com/nytimes) | 1895 |
 | [MEMMOSdubai](http://twitter.com/MEMMOSdubai) | 1474 |
 
-2015-03-05
+### 2015-03-05
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [WesleyLowery](http://twitter.com/WesleyLowery) | 5849 |
 | [nytimes](http://twitter.com/nytimes) | 3973 |
 | [AntonioFrench](http://twitter.com/AntonioFrench) | 2662 |
@@ -850,7 +962,9 @@ they can be counted easily.
 | [AdamSerwer](http://twitter.com/AdamSerwer) | 1310 |
 | [AnnCoulter](http://twitter.com/AnnCoulter) | 1241 |
 
-2015-03-06
+### 2015-03-06
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [ShaunKing](http://twitter.com/ShaunKing) | 4590 |
 | [itsgabrielleu](http://twitter.com/itsgabrielleu) | 1572 |
 | [WesleyLowery](http://twitter.com/WesleyLowery) | 1283 |
@@ -863,7 +977,9 @@ they can be counted easily.
 | [ryanjreilly](http://twitter.com/ryanjreilly) | 704 |
 | [ChaoticBeauT](http://twitter.com/ChaoticBeauT) | 658 |
 
-2015-03-07
+### 2015-03-07
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [DineshDSouza](http://twitter.com/DineshDSouza) | 1350 |
 | [ShaunKing](http://twitter.com/ShaunKing) | 911 |
 | [WesleyLowery](http://twitter.com/WesleyLowery) | 638 |
@@ -876,7 +992,9 @@ they can be counted easily.
 | [LisaBloom](http://twitter.com/LisaBloom) | 416 |
 | [thinkprogress](http://twitter.com/thinkprogress) | 381 |
 
-2015-03-08
+### 2015-03-08
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [MEMMOSdubai](http://twitter.com/MEMMOSdubai) | 860 |
 | [nytimes](http://twitter.com/nytimes) | 681 |
 | [lizzzbrown](http://twitter.com/lizzzbrown) | 552 |
@@ -889,7 +1007,9 @@ they can be counted easily.
 | [occupythemob](http://twitter.com/occupythemob) | 259 |
 | [Kimberly_Canete](http://twitter.com/Kimberly_Canete) | 251 |
 
-2015-03-09
+### 2015-03-09
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 732 |
 | [itsgabrielleu](http://twitter.com/itsgabrielleu) | 719 |
 | [WesleyLowery](http://twitter.com/WesleyLowery) | 685 |
@@ -902,7 +1022,9 @@ they can be counted easily.
 | [AntonioFrench](http://twitter.com/AntonioFrench) | 306 |
 | [Delo_Taylor](http://twitter.com/Delo_Taylor) | 278 |
 
-2015-03-10
+### 2015-03-10
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [TexasQuagmire](http://twitter.com/TexasQuagmire) | 3373 |
 | [ShaunKing](http://twitter.com/ShaunKing) | 1622 |
 | [deray](http://twitter.com/deray) | 908 |
@@ -915,7 +1037,9 @@ they can be counted easily.
 | [FergusonUnity](http://twitter.com/FergusonUnity) | 341 |
 | [AaronWBanks](http://twitter.com/AaronWBanks) | 333 |
 
-2015-03-11
+### 2015-03-11
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 3073 |
 | [ShaunKing](http://twitter.com/ShaunKing) | 2823 |
 | [WesleyLowery](http://twitter.com/WesleyLowery) | 2097 |
@@ -928,7 +1052,9 @@ they can be counted easily.
 | [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 721 |
 | [AntonioFrench](http://twitter.com/AntonioFrench) | 700 |
 
-2015-03-12
+### 2015-03-12
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 14434 |
 | [AP](http://twitter.com/AP) | 3242 |
 | [BBCBreaking](http://twitter.com/BBCBreaking) | 3027 |
@@ -941,7 +1067,9 @@ they can be counted easily.
 | [mattdpearce](http://twitter.com/mattdpearce) | 2435 |
 | [stlcountypd](http://twitter.com/stlcountypd) | 2353 |
 
-2015-03-13
+### 2015-03-13
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [MikeeThaGod](http://twitter.com/MikeeThaGod) | 2388 |
 | [deray](http://twitter.com/deray) | 2349 |
 | [brownjenjen](http://twitter.com/brownjenjen) | 1790 |
@@ -954,7 +1082,9 @@ they can be counted easily.
 | [AmyMek](http://twitter.com/AmyMek) | 1112 |
 | [WesleyLowery](http://twitter.com/WesleyLowery) | 1090 |
 
-2015-03-14
+### 2015-03-14
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [brownjenjen](http://twitter.com/brownjenjen) | 1915 |
 | [larryelder](http://twitter.com/larryelder) | 1161 |
 | [voice](http://twitter.com/voice) | 851 |
@@ -967,7 +1097,9 @@ they can be counted easily.
 | [ThePatriot143](http://twitter.com/ThePatriot143) | 384 |
 | [fergusonaction](http://twitter.com/fergusonaction) | 371 |
 
-2015-03-15
+### 2015-03-15
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 3554 |
 | [UberFootbalI](http://twitter.com/UberFootbalI) | 1634 |
 | [stlcountypd](http://twitter.com/stlcountypd) | 1289 |
@@ -980,7 +1112,9 @@ they can be counted easily.
 | [UtdIndonesia](http://twitter.com/UtdIndonesia) | 698 |
 | [larryelder](http://twitter.com/larryelder) | 671 |
 
-2015-03-16
+### 2015-03-16
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [deray](http://twitter.com/deray) | 1762 |
 | [DineshDSouza](http://twitter.com/DineshDSouza) | 970 |
 | [ThePatriot143](http://twitter.com/ThePatriot143) | 659 |
@@ -993,7 +1127,9 @@ they can be counted easily.
 | [ChuckCJohnson](http://twitter.com/ChuckCJohnson) | 453 |
 | [SheriffClarke](http://twitter.com/SheriffClarke) | 440 |
 
-2015-03-17
+### 2015-03-17
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [GeniusFootball](http://twitter.com/GeniusFootball) | 1032 |
 | [TheEconomist](http://twitter.com/TheEconomist) | 878 |
 | [CitizenRadio](http://twitter.com/CitizenRadio) | 653 |
@@ -1006,7 +1142,9 @@ they can be counted easily.
 | [ryanjreilly](http://twitter.com/ryanjreilly) | 308 |
 | [DineshDSouza](http://twitter.com/DineshDSouza) | 249 |
 
-2015-03-18
+### 2015-03-18
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [FootballFunnys](http://twitter.com/FootballFunnys) | 1510 |
 | [GeniusFootball](http://twitter.com/GeniusFootball) | 971 |
 | [MEMMOSdubai](http://twitter.com/MEMMOSdubai) | 661 |
@@ -1019,7 +1157,9 @@ they can be counted easily.
 | [TheRoot](http://twitter.com/TheRoot) | 431 |
 | [Footy_Jokes](http://twitter.com/Footy_Jokes) | 350 |
 
-2015-03-19
+### 2015-03-19
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [bassem_masri](http://twitter.com/bassem_masri) | 564 |
 | [johncardillo](http://twitter.com/johncardillo) | 325 |
 | [weknowwhatsbest](http://twitter.com/weknowwhatsbest) | 316 |
@@ -1032,7 +1172,9 @@ they can be counted easily.
 | [DanteB4u](http://twitter.com/DanteB4u) | 114 |
 | [MikeNBC12](http://twitter.com/MikeNBC12) | 102 |
 
-2015-03-20
+### 2015-03-20
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [MJBernard](http://twitter.com/MJBernard) | 1017 |
 | [bassem_masri](http://twitter.com/bassem_masri) | 713 |
 | [TransferSite](http://twitter.com/TransferSite) | 502 |
@@ -1045,7 +1187,9 @@ they can be counted easily.
 | [Chris_1791](http://twitter.com/Chris_1791) | 206 |
 | [SheriffClarke](http://twitter.com/SheriffClarke) | 205 |
 
-2015-03-21
+### 2015-03-21
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [KWRose](http://twitter.com/KWRose) | 981 |
 | [keenblackgirl](http://twitter.com/keenblackgirl) | 333 |
 | [MalcolmXcelsior](http://twitter.com/MalcolmXcelsior) | 208 |
@@ -1058,7 +1202,9 @@ they can be counted easily.
 | [Futbool_Fotos](http://twitter.com/Futbool_Fotos) | 67 |
 | [Chris_1791](http://twitter.com/Chris_1791) | 66 |
 
-2015-07-30
+### 2015-07-30
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [BBCSporf](http://twitter.com/BBCSporf) | 718 |
 | [thedailybeast](http://twitter.com/thedailybeast) | 478 |
 | [BreeNewsome](http://twitter.com/BreeNewsome) | 329 |
@@ -1071,7 +1217,9 @@ they can be counted easily.
 | [Tammysdragonfly](http://twitter.com/Tammysdragonfly) | 66 |
 | [WesleyLowery](http://twitter.com/WesleyLowery) | 60 |
 
-2015-07-31
+### 2015-07-31
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [sarahkendzior](http://twitter.com/sarahkendzior) | 3423 |
 | [DreadHead_46](http://twitter.com/DreadHead_46) | 3317 |
 | [seanjjordan](http://twitter.com/seanjjordan) | 954 |
@@ -1084,7 +1232,9 @@ they can be counted easily.
 | [tchop_StL](http://twitter.com/tchop_StL) | 298 |
 | [Cr7Prince4ever](http://twitter.com/Cr7Prince4ever) | 205 |
 
-2015-08-01
+### 2015-08-01
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [paddypower](http://twitter.com/paddypower) | 867 |
 | [ManUtd_ID](http://twitter.com/ManUtd_ID) | 403 |
 | [johnspatricc](http://twitter.com/johnspatricc) | 254 |
@@ -1097,7 +1247,9 @@ they can be counted easily.
 | [DreadHead_46](http://twitter.com/DreadHead_46) | 119 |
 | [Delo_Taylor](http://twitter.com/Delo_Taylor) | 119 |
 
-2015-08-02
+### 2015-08-02
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [Squawka](http://twitter.com/Squawka) | 709 |
 | [ActuFoot_](http://twitter.com/ActuFoot_) | 477 |
 | [theawayfans](http://twitter.com/theawayfans) | 440 |
@@ -1110,7 +1262,9 @@ they can be counted easily.
 | [Everton](http://twitter.com/Everton) | 296 |
 | [forevruntd](http://twitter.com/forevruntd) | 252 |
 
-2015-08-03
+### 2015-08-03
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [orafa2](http://twitter.com/orafa2) | 3591 |
 | [Bipartisanism](http://twitter.com/Bipartisanism) | 515 |
 | [ChampionsLeague](http://twitter.com/ChampionsLeague) | 460 |
@@ -1123,7 +1277,9 @@ they can be counted easily.
 | [AP](http://twitter.com/AP) | 178 |
 | [NewYorker](http://twitter.com/NewYorker) | 173 |
 
-2015-08-04
+### 2015-08-04
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [orafa2](http://twitter.com/orafa2) | 813 |
 | [mellberr](http://twitter.com/mellberr) | 312 |
 | [demarkesports](http://twitter.com/demarkesports) | 301 |
@@ -1136,7 +1292,9 @@ they can be counted easily.
 | [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 84 |
 | [thecoreyholcomb](http://twitter.com/thecoreyholcomb) | 82 |
 
-2015-08-05
+### 2015-08-05
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [CNN](http://twitter.com/CNN) | 622 |
 | [WesleyLowery](http://twitter.com/WesleyLowery) | 557 |
 | [ryanjreilly](http://twitter.com/ryanjreilly) | 416 |
@@ -1149,7 +1307,9 @@ they can be counted easily.
 | [WSJ](http://twitter.com/WSJ) | 168 |
 | [mellberr](http://twitter.com/mellberr) | 166 |
 
-2015-08-06
+### 2015-08-06
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [DreadHead_46](http://twitter.com/DreadHead_46) | 679 |
 | [CNN](http://twitter.com/CNN) | 654 |
 | [ryanjreilly](http://twitter.com/ryanjreilly) | 643 |
@@ -1162,7 +1322,9 @@ they can be counted easily.
 | [ajam](http://twitter.com/ajam) | 401 |
 | [chriskingstl](http://twitter.com/chriskingstl) | 278 |
 
-2015-08-07
+### 2015-08-07
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [EBONYMag](http://twitter.com/EBONYMag) | 619 |
 | [MarshallProj](http://twitter.com/MarshallProj) | 368 |
 | [CNN](http://twitter.com/CNN) | 363 |
@@ -1175,7 +1337,9 @@ they can be counted easily.
 | [search4swag](http://twitter.com/search4swag) | 195 |
 | [voxdotcom](http://twitter.com/voxdotcom) | 194 |
 
-2015-08-08
+### 2015-08-08
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [AntonioFrench](http://twitter.com/AntonioFrench) | 3039 |
 | [Nettaaaaaaaa](http://twitter.com/Nettaaaaaaaa) | 1109 |
 | [POPSspotSports](http://twitter.com/POPSspotSports) | 826 |
@@ -1188,7 +1352,9 @@ they can be counted easily.
 | [samswey](http://twitter.com/samswey) | 311 |
 | [KeeganNYC](http://twitter.com/KeeganNYC) | 309 |
 
-2015-08-09
+### 2015-08-09
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [zellieimani](http://twitter.com/zellieimani) | 5050 |
 | [MichaelSkolnik](http://twitter.com/MichaelSkolnik) | 2833 |
 | [YourAnonNews](http://twitter.com/YourAnonNews) | 2633 |
@@ -1201,7 +1367,9 @@ they can be counted easily.
 | [HillaryClinton](http://twitter.com/HillaryClinton) | 1038 |
 | [samswey](http://twitter.com/samswey) | 971 |
 
-2015-08-10
+### 2015-08-10
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [zellieimani](http://twitter.com/zellieimani) | 9963 |
 | [jonswaine](http://twitter.com/jonswaine) | 8805 |
 | [Bipartisanism](http://twitter.com/Bipartisanism) | 7645 |
@@ -1214,7 +1382,9 @@ they can be counted easily.
 | [YourAnonNews](http://twitter.com/YourAnonNews) | 4108 |
 | [cnnbrk](http://twitter.com/cnnbrk) | 3749 |
 
-2015-08-11
+### 2015-08-11
+| Username | Re(tweets) |
+| -------- | ----------:|
 | [pritchett_dan](http://twitter.com/pritchett_dan) | 6156 |
 | [deray](http://twitter.com/deray) | 5503 |
 | [RE_invent_ED](http://twitter.com/RE_invent_ED) | 5044 |
@@ -1228,10 +1398,10 @@ they can be counted easily.
 | [theonlybacchus](http://twitter.com/theonlybacchus) | 2260 |
 
 ## Hashtags
+
+### 2014-08-10
 | Hashtag | Tweets |
 | ------- | ------:|
-
-2014-08-10
 | mikebrown | 244 |
 | michaelbrown | 26 |
 | stl | 23 |
@@ -1244,7 +1414,9 @@ they can be counted easily.
 | medialiteracy | 6 |
 | fergusonshooting | 6 |
 
-2014-08-11
+### 2014-08-11
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 51679 |
 | stl | 10235 |
 | michaelbrown | 5293 |
@@ -1257,7 +1429,9 @@ they can be counted easily.
 | retweet | 2422 |
 | uniteblue | 1834 |
 
-2014-08-12
+### 2014-08-12
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 27477 |
 | stl | 9038 |
 | opferguson | 3083 |
@@ -1270,7 +1444,9 @@ they can be counted easily.
 | enough | 1576 |
 | anonymous | 1384 |
 
-2014-08-13
+### 2014-08-13
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 22453 |
 | stl | 5042 |
 | michaelbrown | 3767 |
@@ -1283,7 +1459,9 @@ they can be counted easily.
 | dontshoot | 891 |
 | iftheygunnedmedown | 818 |
 
-2014-08-14
+### 2014-08-14
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 160977 |
 | mediablackout | 53754 |
 | gaza | 44209 |
@@ -1296,7 +1474,9 @@ they can be counted easily.
 | stl | 11322 |
 | myawhite | 10418 |
 
-2014-08-15
+### 2014-08-15
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 79710 |
 | nmos14 | 28402 |
 | michaelbrown | 19529 |
@@ -1309,7 +1489,9 @@ they can be counted easily.
 | stl | 4723 |
 | uniteblue | 4423 |
 
-2014-08-16
+### 2014-08-16
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 64150 |
 | michaelbrown | 11672 |
 | justiceformikebrown | 9190 |
@@ -1322,7 +1504,9 @@ they can be counted easily.
 | news | 3667 |
 | stl | 3633 |
 
-2014-08-17
+### 2014-08-17
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 85790 |
 | michaelbrown | 21270 |
 | justiceformikebrown | 14003 |
@@ -1335,7 +1519,9 @@ they can be counted easily.
 | whiteprivilege | 4239 |
 | palestine | 4009 |
 
-2014-08-18
+### 2014-08-18
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 137142 |
 | michaelbrown | 33237 |
 | tcot | 16166 |
@@ -1348,7 +1534,9 @@ they can be counted easily.
 | gaza | 5651 |
 | opferguson | 5100 |
 
-2014-08-19
+### 2014-08-19
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 73534 |
 | michaelbrown | 27308 |
 | tcot | 18943 |
@@ -1361,7 +1549,9 @@ they can be counted easily.
 | gaza | 7235 |
 | stl | 7176 |
 
-2014-08-20
+### 2014-08-20
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 41334 |
 | tcot | 14775 |
 | michaelbrown | 13821 |
@@ -1374,7 +1564,9 @@ they can be counted easily.
 | stl | 5691 |
 | uniteblue | 5183 |
 
-2014-08-21
+### 2014-08-21
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 11156 |
 | tcot | 5807 |
 | oakland | 5461 |
@@ -1387,7 +1579,9 @@ they can be counted easily.
 | handsupdontshoot | 2054 |
 | kajiemepowell | 1895 |
 
-2014-08-22
+### 2014-08-22
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 25146 |
 | michaelbrown | 6427 |
 | hiphop | 6356 |
@@ -1400,7 +1594,9 @@ they can be counted easily.
 | tcot | 4270 |
 | justiceforaaron | 3980 |
 
-2014-08-23
+### 2014-08-23
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 20331 |
 | michaelbrown | 7375 |
 | tcot | 6777 |
@@ -1413,7 +1609,9 @@ they can be counted easily.
 | p2 | 2483 |
 | uniteblue | 2461 |
 
-2014-08-24
+### 2014-08-24
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 14699 |
 | michaelbrown | 5521 |
 | handsupdontshoot | 5282 |
@@ -1426,7 +1624,9 @@ they can be counted easily.
 | nerdland | 1934 |
 | uniteblue | 1707 |
 
-2014-08-25
+### 2014-08-25
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 30806 |
 | michaelbrown | 14255 |
 | vmas | 9447 |
@@ -1439,7 +1639,9 @@ they can be counted easily.
 | uniteblue | 2008 |
 | mikebrownfuneral | 1968 |
 
-2014-08-26
+### 2014-08-26
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 15249 |
 | michaelbrown | 7274 |
 | tcot | 3070 |
@@ -1452,7 +1654,9 @@ they can be counted easily.
 | iftheygunnedmedown | 1225 |
 | blacklivesmatter | 1108 |
 
-2014-08-27
+### 2014-08-27
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 6999 |
 | handsupdontshoot | 3873 |
 | supportdarrenwilson | 3448 |
@@ -1465,7 +1669,9 @@ they can be counted easily.
 | darrenwilson | 718 |
 | anonymous | 702 |
 
-2014-11-11
+### 2014-11-11
+| Hashtag | Tweets |
+| ------- | ------:|
 | michaelbrown | 443 |
 | mikebrown | 183 |
 | fergusontogeneva | 155 |
@@ -1478,7 +1684,9 @@ they can be counted easily.
 | stl | 47 |
 | pl | 47 |
 
-2014-11-12
+### 2014-11-12
+| Hashtag | Tweets |
+| ------- | ------:|
 | violencewillnotbetolerated | 6195 |
 | mikebrown | 2308 |
 | michaelbrown | 1684 |
@@ -1491,7 +1699,9 @@ they can be counted easily.
 | p2 | 503 |
 | blacklivesmatter | 494 |
 
-2014-11-13
+### 2014-11-13
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 1702 |
 | tcot | 1580 |
 | michaelbrown | 1255 |
@@ -1504,7 +1714,9 @@ they can be counted easily.
 | stl | 578 |
 | saf | 531 |
 
-2014-11-14
+### 2014-11-14
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 1640 |
 | opkkk | 1592 |
 | tcot | 1516 |
@@ -1517,7 +1729,9 @@ they can be counted easily.
 | arrestdarrenwilson | 431 |
 | news | 424 |
 
-2014-11-15
+### 2014-11-15
+| Hashtag | Tweets |
+| ------- | ------:|
 | opkkk | 3941 |
 | darrenwilson | 2351 |
 | mikebrown | 1849 |
@@ -1530,7 +1744,9 @@ they can be counted easily.
 | news | 518 |
 | gossip | 489 |
 
-2014-11-16
+### 2014-11-16
+| Hashtag | Tweets |
+| ------- | ------:|
 | opkkk | 8578 |
 | hoodsoff | 4436 |
 | mikebrown | 3086 |
@@ -1543,7 +1759,9 @@ they can be counted easily.
 | 100days | 613 |
 | blacklivesmatter | 475 |
 
-2014-11-17
+### 2014-11-17
+| Hashtag | Tweets |
+| ------- | ------:|
 | opkkk | 8570 |
 | mikebrown | 3937 |
 | anonymous | 3833 |
@@ -1556,7 +1774,9 @@ they can be counted easily.
 | stl | 1078 |
 | missouri | 1014 |
 
-2014-11-18
+### 2014-11-18
+| Hashtag | Tweets |
+| ------- | ------:|
 | opkkk | 5521 |
 | mikebrown | 3890 |
 | tcot | 3803 |
@@ -1569,7 +1789,9 @@ they can be counted easily.
 | pantsupdontloot | 1804 |
 | news | 1477 |
 
-2014-11-19
+### 2014-11-19
+| Hashtag | Tweets |
+| ------- | ------:|
 | opkkk | 4030 |
 | tcot | 3725 |
 | mikebrown | 3440 |
@@ -1582,7 +1804,9 @@ they can be counted easily.
 | blacklivesmatter | 780 |
 | pantsupdontloot | 735 |
 
-2014-11-20
+### 2014-11-20
+| Hashtag | Tweets |
+| ------- | ------:|
 | opkkk | 4173 |
 | darrenwilson | 3145 |
 | tcot | 2815 |
@@ -1595,7 +1819,9 @@ they can be counted easily.
 | update | 1219 |
 | opferguson | 924 |
 
-2014-11-21
+### 2014-11-21
+| Hashtag | Tweets |
+| ------- | ------:|
 | opkkk | 6360 |
 | hoodsoff | 3833 |
 | mikebrown | 3640 |
@@ -1608,7 +1834,9 @@ they can be counted easily.
 | stl | 1297 |
 | officerwilson | 1125 |
 
-2014-11-22
+### 2014-11-22
+| Hashtag | Tweets |
+| ------- | ------:|
 | opkkk | 4842 |
 | tcot | 3357 |
 | obstinate | 3235 |
@@ -1621,7 +1849,9 @@ they can be counted easily.
 | stl | 1012 |
 | opferguson | 938 |
 
-2014-11-23
+### 2014-11-23
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 4271 |
 | anonymous | 3417 |
 | akaigurley | 3370 |
@@ -1634,7 +1864,9 @@ they can be counted easily.
 | foxnews | 1694 |
 | darrenwilson | 1453 |
 
-2014-11-24
+### 2014-11-24
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 11642 |
 | michaelbrown | 8663 |
 | darrenwilson | 5781 |
@@ -1647,7 +1879,9 @@ they can be counted easily.
 | blacklivesmatter | 2714 |
 | anonymous | 2213 |
 
-2014-11-25
+### 2014-11-25
+| Hashtag | Tweets |
+| ------- | ------:|
 | fergusondecision | 113887 |
 | michaelbrown | 69255 |
 | mikebrown | 58420 |
@@ -1660,7 +1894,9 @@ they can be counted easily.
 | usa | 12687 |
 | palestine | 12193 |
 
-2014-11-26
+### 2014-11-26
+| Hashtag | Tweets |
+| ------- | ------:|
 | fergusondecision | 107487 |
 | mikebrown | 72716 |
 | blacklivesmatter | 56362 |
@@ -1673,7 +1909,9 @@ they can be counted easily.
 | news | 13430 |
 | boston | 12580 |
 
-2014-11-27
+### 2014-11-27
+| Hashtag | Tweets |
+| ------- | ------:|
 | fergusondecision | 40958 |
 | mikebrown | 38245 |
 | tcot | 23342 |
@@ -1686,7 +1924,9 @@ they can be counted easily.
 | oakland | 14716 |
 | lapd | 7913 |
 
-2014-11-28
+### 2014-11-28
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 25661 |
 | blackfriday | 20923 |
 | blackoutblackfriday | 20807 |
@@ -1699,7 +1939,9 @@ they can be counted easily.
 | michaelbrown | 6304 |
 | walmart | 6031 |
 
-2014-11-29
+### 2014-11-29
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 11701 |
 | blacklivesmatter | 10199 |
 | tcot | 9312 |
@@ -1712,7 +1954,9 @@ they can be counted easily.
 | dcferguson | 3364 |
 | michaelbrown | 3328 |
 
-2014-11-30
+### 2014-11-30
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 11089 |
 | darrenwilson | 9129 |
 | tcot | 8999 |
@@ -1725,7 +1969,9 @@ they can be counted easily.
 | stl | 2585 |
 | handsupdontshoot | 2294 |
 
-2014-12-01
+### 2014-12-01
+| Hashtag | Tweets |
+| ------- | ------:|
 | handsupwalkout | 41174 |
 | mikebrown | 34215 |
 | tcot | 23716 |
@@ -1738,7 +1984,9 @@ they can be counted easily.
 | michaelbrown | 10086 |
 | stl | 8837 |
 
-2014-12-02
+### 2014-12-02
+| Hashtag | Tweets |
+| ------- | ------:|
 | tcot | 19432 |
 | handsupwalkout | 18512 |
 | mikebrown | 16669 |
@@ -1751,7 +1999,9 @@ they can be counted easily.
 | seattle | 6428 |
 | rams | 5764 |
 
-2014-12-03
+### 2014-12-03
+| Hashtag | Tweets |
+| ------- | ------:|
 | ericgarner | 52507 |
 | michaelbrown | 27734 |
 | mikebrown | 22285 |
@@ -1764,7 +2014,9 @@ they can be counted easily.
 | nyc | 6594 |
 | handsupdontshoot | 5060 |
 
-2014-12-04
+### 2014-12-04
+| Hashtag | Tweets |
+| ------- | ------:|
 | ericgarner | 88102 |
 | icantbreathe | 28731 |
 | blacklivesmatter | 28415 |
@@ -1777,7 +2029,9 @@ they can be counted easily.
 | tamirrice | 6163 |
 | stl | 5336 |
 
-2014-12-05
+### 2014-12-05
+| Hashtag | Tweets |
+| ------- | ------:|
 | ericgarner | 57126 |
 | blacklivesmatter | 26629 |
 | icantbreathe | 26527 |
@@ -1790,7 +2044,9 @@ they can be counted easily.
 | nyc | 4713 |
 | nypd | 4519 |
 
-2014-12-06
+### 2014-12-06
+| Hashtag | Tweets |
+| ------- | ------:|
 | ericgarner | 28097 |
 | icantbreathe | 17837 |
 | blacklivesmatter | 12142 |
@@ -1803,7 +2059,9 @@ they can be counted easily.
 | tamirrice | 1952 |
 | michaelbrown | 1949 |
 
-2014-12-07
+### 2014-12-07
+| Hashtag | Tweets |
+| ------- | ------:|
 | ericgarner | 39218 |
 | icantbreathe | 24099 |
 | blacklivesmatter | 17018 |
@@ -1816,7 +2074,9 @@ they can be counted easily.
 | michaelbrown | 2110 |
 | tamirrice | 1846 |
 
-2014-12-08
+### 2014-12-08
+| Hashtag | Tweets |
+| ------- | ------:|
 | ericgarner | 24556 |
 | icantbreathe | 23186 |
 | blacklivesmatter | 11749 |
@@ -1829,7 +2089,9 @@ they can be counted easily.
 | dcprotest | 1972 |
 | shutitdown | 1792 |
 
-2014-12-09
+### 2014-12-09
+| Hashtag | Tweets |
+| ------- | ------:|
 | ericgarner | 21325 |
 | icantbreathe | 20034 |
 | blacklivesmatter | 14052 |
@@ -1842,7 +2104,9 @@ they can be counted easily.
 | handsupdontshoot | 1902 |
 | shutitdown | 1438 |
 
-2014-12-10
+### 2014-12-10
+| Hashtag | Tweets |
+| ------- | ------:|
 | ericgarner | 3843 |
 | icantbreathe | 3181 |
 | blacklivesmatter | 2702 |
@@ -1855,7 +2119,9 @@ they can be counted easily.
 | berkeley | 309 |
 | tcot | 291 |
 
-2015-02-25
+### 2015-02-25
+| Hashtag | Tweets |
+| ------- | ------:|
 | blacklivesmatter | 323 |
 | acapulco | 237 |
 | blacktwitter | 113 |
@@ -1868,7 +2134,9 @@ they can be counted easily.
 | fergusonspring | 71 |
 | asmsg | 66 |
 
-2015-02-26
+### 2015-02-26
+| Hashtag | Tweets |
+| ------- | ------:|
 | blacklivesmatter | 320 |
 | mufc | 288 |
 | mikebrown | 250 |
@@ -1881,7 +2149,9 @@ they can be counted easily.
 | obama | 94 |
 | llamas | 89 |
 
-2015-02-27
+### 2015-02-27
+| Hashtag | Tweets |
+| ------- | ------:|
 | fergusonspring | 341 |
 | blacklivesmatter | 337 |
 | mufc | 320 |
@@ -1894,7 +2164,9 @@ they can be counted easily.
 | ericgarner | 74 |
 | handsupdontshoot | 71 |
 
-2015-02-28
+### 2015-02-28
+| Hashtag | Tweets |
+| ------- | ------:|
 | mufc | 372 |
 | blacklivesmatter | 323 |
 | fergusonspring | 205 |
@@ -1907,7 +2179,9 @@ they can be counted easily.
 | tcot | 82 |
 | gaza | 60 |
 
-2015-03-01
+### 2015-03-01
+| Hashtag | Tweets |
+| ------- | ------:|
 | ufc184 | 1903 |
 | rockville3 | 754 |
 | tamirrice | 295 |
@@ -1920,7 +2194,9 @@ they can be counted easily.
 | palestine | 112 |
 | tcot | 92 |
 
-2015-03-02
+### 2015-03-02
+| Hashtag | Tweets |
+| ------- | ------:|
 | blacklivesmatter | 515 |
 | lapdshooting | 260 |
 | lapd | 253 |
@@ -1933,7 +2209,9 @@ they can be counted easily.
 | fergusonspring | 159 |
 | p2 | 127 |
 
-2015-03-03
+### 2015-03-03
+| Hashtag | Tweets |
+| ------- | ------:|
 | breaking | 1140 |
 | blacklivesmatter | 704 |
 | news | 479 |
@@ -1946,7 +2224,9 @@ they can be counted easily.
 | nieuwstwitter | 151 |
 | uniteblue | 147 |
 
-2015-03-04
+### 2015-03-04
+| Hashtag | Tweets |
+| ------- | ------:|
 | fergusonreport | 4209 |
 | doj | 2332 |
 | news | 1781 |
@@ -1959,7 +2239,9 @@ they can be counted easily.
 | breaking | 984 |
 | michaelbrown | 899 |
 
-2015-03-05
+### 2015-03-05
+| Hashtag | Tweets |
+| ------- | ------:|
 | fergusonreport | 7705 |
 | blacklivesmatter | 1830 |
 | uae | 1420 |
@@ -1972,7 +2254,9 @@ they can be counted easily.
 | tcot | 944 |
 | citizenradio | 795 |
 
-2015-03-06
+### 2015-03-06
+| Hashtag | Tweets |
+| ------- | ------:|
 | scandal | 5715 |
 | fergusonreport | 2549 |
 | blacklivesmatter | 2309 |
@@ -1985,7 +2269,9 @@ they can be counted easily.
 | scandai | 603 |
 | doj | 555 |
 
-2015-03-07
+### 2015-03-07
+| Hashtag | Tweets |
+| ------- | ------:|
 | selma50 | 4690 |
 | blacklivesmatter | 1663 |
 | fergusonreport | 1650 |
@@ -1998,7 +2284,9 @@ they can be counted easily.
 | news | 611 |
 | wakeupamerica | 536 |
 
-2015-03-08
+### 2015-03-08
+| Hashtag | Tweets |
+| ------- | ------:|
 | selma50 | 2080 |
 | blacklivesmatter | 962 |
 | uae | 866 |
@@ -2011,7 +2299,9 @@ they can be counted easily.
 | tonyrobinson | 319 |
 | mlk | 309 |
 
-2015-03-09
+### 2015-03-09
+| Hashtag | Tweets |
+| ------- | ------:|
 | selma50 | 1080 |
 | blacklivesmatter | 919 |
 | fergusonreport | 693 |
@@ -2024,7 +2314,9 @@ they can be counted easily.
 | news | 276 |
 | mikebrown | 243 |
 
-2015-03-10
+### 2015-03-10
+| Hashtag | Tweets |
+| ------- | ------:|
 | tcot | 3748 |
 | darrenwilson | 3612 |
 | qarlive | 3435 |
@@ -2037,7 +2329,9 @@ they can be counted easily.
 | tonyrobinson | 301 |
 | selma50 | 268 |
 
-2015-03-11
+### 2015-03-11
+| Hashtag | Tweets |
+| ------- | ------:|
 | breaking | 2752 |
 | blacklivesmatter | 1642 |
 | news | 1066 |
@@ -2050,7 +2344,9 @@ they can be counted easily.
 | mufc | 326 |
 | breakingnews | 318 |
 
-2015-03-12
+### 2015-03-12
+| Hashtag | Tweets |
+| ------- | ------:|
 | tcot | 6902 |
 | bluelivesmatter | 5055 |
 | blacklivesmatter | 4362 |
@@ -2063,7 +2359,9 @@ they can be counted easily.
 | mikebrown | 1927 |
 | handsupdontshoot | 1878 |
 
-2015-03-13
+### 2015-03-13
+| Hashtag | Tweets |
+| ------- | ------:|
 | tcot | 5800 |
 | blacklivesmatter | 2762 |
 | bluelivesmatter | 2291 |
@@ -2076,7 +2374,9 @@ they can be counted easily.
 | obama | 1407 |
 | gopwantswar | 1382 |
 
-2015-03-14
+### 2015-03-14
+| Hashtag | Tweets |
+| ------- | ------:|
 | tcot | 1978 |
 | news | 1002 |
 | bluelivesmatter | 937 |
@@ -2089,7 +2389,9 @@ they can be counted easily.
 | kellyfile | 435 |
 | pjnet | 427 |
 
-2015-03-15
+### 2015-03-15
+| Hashtag | Tweets |
+| ------- | ------:|
 | jeffreywilliams | 2335 |
 | tcot | 2158 |
 | fergusonshooting | 1616 |
@@ -2102,7 +2404,9 @@ they can be counted easily.
 | breaking | 794 |
 | fergusonreport | 656 |
 
-2015-03-16
+### 2015-03-16
+| Hashtag | Tweets |
+| ------- | ------:|
 | tcot | 2627 |
 | jeffreywilliams | 2550 |
 | blacklivesmatter | 1525 |
@@ -2115,7 +2419,9 @@ they can be counted easily.
 | pjnet | 551 |
 | wakeupamerica | 509 |
 
-2015-03-17
+### 2015-03-17
+| Hashtag | Tweets |
+| ------- | ------:|
 | tcot | 1655 |
 | blacklivesmatter | 774 |
 | jeffreywilliams | 756 |
@@ -2128,7 +2434,9 @@ they can be counted easily.
 | fergusonhysteria | 393 |
 | respect | 383 |
 
-2015-03-18
+### 2015-03-18
+| Hashtag | Tweets |
+| ------- | ------:|
 | racetogether | 1856 |
 | tcot | 1014 |
 | blacklivesmatter | 745 |
@@ -2141,7 +2449,9 @@ they can be counted easily.
 | uniteblue | 248 |
 | starbucks | 232 |
 
-2015-03-19
+### 2015-03-19
+| Hashtag | Tweets |
+| ------- | ------:|
 | blacklivesmatter | 987 |
 | racetogether | 642 |
 | tcot | 421 |
@@ -2154,7 +2464,9 @@ they can be counted easily.
 | selectivehistory | 166 |
 | mufc | 166 |
 
-2015-03-20
+### 2015-03-20
+| Hashtag | Tweets |
+| ------- | ------:|
 | blacklivesmatter | 1875 |
 | tcot | 1635 |
 | stl | 1101 |
@@ -2167,7 +2479,9 @@ they can be counted easily.
 | mufc | 365 |
 | clayton | 286 |
 
-2015-03-21
+### 2015-03-21
+| Hashtag | Tweets |
+| ------- | ------:|
 | cnnbelike | 659 |
 | tcot | 302 |
 | blacklivesmatter | 264 |
@@ -2180,7 +2494,9 @@ they can be counted easily.
 | mufc | 55 |
 | starbucks | 49 |
 
-2015-07-30
+### 2015-07-30
+| Hashtag | Tweets |
+| ------- | ------:|
 | efc | 191 |
 | oursignaturesmatter | 157 |
 | samdubose | 137 |
@@ -2193,7 +2509,9 @@ they can be counted easily.
 | mikebrown | 58 |
 | ian1 | 55 |
 
-2015-07-31
+### 2015-07-31
+| Hashtag | Tweets |
+| ------- | ------:|
 | trishdennison | 1294 |
 | blacklivesmatter | 434 |
 | efc | 321 |
@@ -2206,7 +2524,9 @@ they can be counted easily.
 | missionimpossibleroguenation | 96 |
 | mufc | 94 |
 
-2015-08-01
+### 2015-08-01
+| Hashtag | Tweets |
+| ------- | ------:|
 | didyouknow | 410 |
 | trishdennison | 312 |
 | efc | 296 |
@@ -2219,7 +2539,9 @@ they can be counted easily.
 | michaelbrown | 100 |
 | everton | 78 |
 
-2015-08-02
+### 2015-08-02
+| Hashtag | Tweets |
+| ------- | ------:|
 | mufc | 1347 |
 | efc | 1182 |
 | bigdunc | 590 |
@@ -2232,7 +2554,9 @@ they can be counted easily.
 | asmsg | 130 |
 | throwback | 125 |
 
-2015-08-03
+### 2015-08-03
+| Hashtag | Tweets |
+| ------- | ------:|
 | blacklivesmatter | 601 |
 | mikebrown | 527 |
 | ucl | 472 |
@@ -2245,7 +2569,9 @@ they can be counted easily.
 | fotohistóricadeldía | 141 |
 | michaelbrown | 93 |
 
-2015-08-04
+### 2015-08-04
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 526 |
 | blacklivesmatter | 495 |
 | demarkesözler | 302 |
@@ -2258,7 +2584,9 @@ they can be counted easily.
 | ohlord | 95 |
 | blacktwitter | 84 |
 
-2015-08-05
+### 2015-08-05
+| Hashtag | Tweets |
+| ------- | ------:|
 | blacklivesmatter | 584 |
 | mikebrown | 373 |
 | fergusonsummer | 258 |
@@ -2271,7 +2599,9 @@ they can be counted easily.
 | michaelbrown | 120 |
 | iartg | 113 |
 
-2015-08-06
+### 2015-08-06
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 1103 |
 | blacklivesmatter | 1054 |
 | mi5tomorrow | 960 |
@@ -2284,7 +2614,9 @@ they can be counted easily.
 | unitedwefight | 327 |
 | efc | 227 |
 
-2015-08-07
+### 2015-08-07
+| Hashtag | Tweets |
+| ------- | ------:|
 | blacklivesmatter | 1410 |
 | goroguewithvh1 | 1065 |
 | gopdebate | 844 |
@@ -2297,7 +2629,9 @@ they can be counted easily.
 | theroot4justice | 239 |
 | nufc | 238 |
 
-2015-08-08
+### 2015-08-08
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 5305 |
 | blacklivesmatter | 2233 |
 | unitedwefight | 1955 |
@@ -2310,7 +2644,9 @@ they can be counted easily.
 | baltimore | 342 |
 | blackaugust | 328 |
 
-2015-08-09
+### 2015-08-09
+| Hashtag | Tweets |
+| ------- | ------:|
 | mikebrown | 20053 |
 | blacklivesmatter | 7248 |
 | michaelbrown | 3383 |
@@ -2323,7 +2659,9 @@ they can be counted easily.
 | ripmikebrown | 813 |
 | fergusonforward | 643 |
 
-2015-08-10
+### 2015-08-10
+| Hashtag | Tweets |
+| ------- | ------:|
 | blacklivesmatter | 20792 |
 | mikebrown | 17894 |
 | michaelbrown | 6520 |
@@ -2336,7 +2674,9 @@ they can be counted easily.
 | fergusonlootcrew | 4247 |
 | stl | 3669 |
 
-2015-08-11
+### 2015-08-11
+| Hashtag | Tweets |
+| ------- | ------:|
 | blacklivesmatter | 10774 |
 | worldwatchesferguson | 4559 |
 | whichemergency | 3739 |
@@ -2350,10 +2690,10 @@ they can be counted easily.
 | blacktwitter | 1051 |
 
 ## Media
+
+### 2014-08-10
 | Media | Tweets |
 | ----- | ------:|
-
-2014-08-10
 | http://pbs.twimg.com/media/Bupvcy8IQAERghU.jpg | 22 |
 | http://pbs.twimg.com/media/ButZljXCYAA6Pbs.jpg | 14 |
 | http://pbs.twimg.com/media/ButkUSDCAAA2mbS.jpg | 13 |
@@ -2361,7 +2701,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/BusCV1_CIAIqwCy.jpg | 12 |
 | http://pbs.twimg.com/media/ButxLShIEAAFoH2.jpg | 11 |
 
-2014-08-11
+### 2014-08-11
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/Buu2CQGIUAEqJPU.jpg | 3641 |
 | http://pbs.twimg.com/media/Buu_PijIYAAyF4v.jpg | 3581 |
 | http://pbs.twimg.com/media/Buu2_cGCIAEroat.jpg | 2868 |
@@ -2369,7 +2711,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/But465LCIAE9AM8.jpg | 2462 |
 | http://pbs.twimg.com/media/BusbXcMCEAAJKtS.jpg | 2378 |
 
-2014-08-12
+### 2014-08-12
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/BuzkUDwCYAAj6U0.jpg | 5669 |
 | http://pbs.twimg.com/media/BuzQ8c0CMAAmYVN.jpg | 4571 |
 | http://pbs.twimg.com/media/BuyKCtiIAAIkqIO.jpg | 4090 |
@@ -2377,7 +2721,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/BuzVYgHIIAAWg0m.jpg | 3072 |
 | http://pbs.twimg.com/media/BuznqP4CIAAYIkR.jpg | 2554 |
 
-2014-08-13
+### 2014-08-13
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/Bu9A0J6CYAIR4Jq.jpg | 3314 |
 | http://pbs.twimg.com/media/Bu9Bb8JCYAExXrn.jpg | 2473 |
 | http://pbs.twimg.com/media/Bu798dxIgAAx6QR.jpg | 1465 |
@@ -2385,7 +2731,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/Bu3VqZZIYAA1ep-.jpg | 1385 |
 | http://pbs.twimg.com/media/Bu9Dwo5IgAA5C8f.jpg | 1029 |
 
-2014-08-14
+### 2014-08-14
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/Bu6xrXrCYAE5rbP.png | 36597 |
 | http://pbs.twimg.com/media/Bu9_0MDCMAAQ02t.png | 14671 |
 | http://pbs.twimg.com/media/Bu-P7ozCYAAzK5p.png | 14066 |
@@ -2393,7 +2741,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/Bu_hma8CAAIbq95.jpg | 12677 |
 | http://pbs.twimg.com/media/Bu9XsGMIAAAO_xN.jpg | 10396 |
 
-2014-08-15
+### 2014-08-15
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/BvF21IXCQAE9lyP.jpg | 4702 |
 | http://pbs.twimg.com/media/BvCsSlsIYAApM1n.jpg | 4670 |
 | http://pbs.twimg.com/media/BvCT1lrCUAEXe4W.jpg | 3762 |
@@ -2401,7 +2751,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/BvGQAWOIYAAkKcg.png | 3175 |
 | http://pbs.twimg.com/media/BvGdDifIQAEN7qW.png | 2948 |
 
-2014-08-16
+### 2014-08-16
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/BvF21IXCQAE9lyP.jpg | 4945 |
 | http://pbs.twimg.com/media/BvLPZ0cCcAA4H0J.jpg | 2491 |
 | http://pbs.twimg.com/media/BvHlUNPCIAEYxgD.jpg | 2351 |
@@ -2409,7 +2761,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/BvLsADxCcAACfZY.jpg | 2047 |
 | http://pbs.twimg.com/media/BvHNjHCCIAE-nCX.jpg | 2004 |
 
-2014-08-17
+### 2014-08-17
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/BvROlxsIUAA632n.jpg | 9983 |
 | http://pbs.twimg.com/media/BvPzaasIgAA1hgF.jpg | 4629 |
 | http://pbs.twimg.com/media/BvRT-MNIAAEJMeW.jpg | 4074 |
@@ -2417,7 +2771,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/BvPKvfAIcAAvUF5.jpg | 3604 |
 | http://pbs.twimg.com/media/BvPtkRKCAAMZNeN.jpg | 3558 |
 
-2014-08-18
+### 2014-08-18
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/BvSVYWKIIAAGPhB.jpg | 22229 |
 | http://pbs.twimg.com/media/BvSlV60CUAAEPhU.jpg | 11562 |
 | http://pbs.twimg.com/media/BvUSCd4CMAEiZ-u.jpg | 8213 |
@@ -2425,7 +2781,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/BvSCBxhCMAAz_dm.jpg | 7102 |
 | http://pbs.twimg.com/media/BvThbf7CAAAbdHH.jpg | 6526 |
 
-2014-08-19
+### 2014-08-19
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/BvW1ghYIYAASwC_.jpg | 15025 |
 | http://pbs.twimg.com/media/BvWocP6IAAEVd5Y.jpg | 10139 |
 | http://pbs.twimg.com/media/BvX0O1XCEAAMw6z.jpg | 8811 |
@@ -2433,7 +2791,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/BvYC9z9IgAAlV-i.jpg | 8046 |
 | http://pbs.twimg.com/media/BvbQhPSIgAA1DIs.png | 6599 |
 
-2014-08-20
+### 2014-08-20
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/Bvafj45IUAAXAHR.jpg | 7983 |
 | http://pbs.twimg.com/media/BvbQhPSIgAA1DIs.png | 6364 |
 | http://pbs.twimg.com/media/BvbZZZnCYAA_7QG.jpg | 5338 |
@@ -2441,7 +2801,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/Bvc4iY4CIAAT-0H.jpg | 3703 |
 | http://pbs.twimg.com/media/BvaqBthIcAA_F2f.jpg | 3560 |
 
-2014-08-21
+### 2014-08-21
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/Bvafj45IUAAXAHR.jpg | 2379 |
 | http://pbs.twimg.com/media/BvhljeuCAAEWwQ2.jpg | 2080 |
 | http://pbs.twimg.com/media/BvhkGbSCQAAxTP4.jpg | 2005 |
@@ -2449,7 +2811,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/Bvf4_dPIEAATEoQ.jpg | 1402 |
 | http://pbs.twimg.com/media/Bvgo_7-IEAAsHOS.jpg | 1276 |
 
-2014-08-22
+### 2014-08-22
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/BvpCnscCcAE5f6T.jpg | 4759 |
 | http://pbs.twimg.com/media/Bvmom0tIQAAx6Xc.jpg | 2002 |
 | http://pbs.twimg.com/media/Bvafj45IUAAXAHR.jpg | 1826 |
@@ -2457,7 +2821,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/BvmnrGfIQAAdCMf.jpg | 1343 |
 | http://pbs.twimg.com/media/BvnHZddCIAIp5t4.jpg | 1280 |
 
-2014-08-23
+### 2014-08-23
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/BvriicZCEAAoeQv.jpg | 1531 |
 | http://pbs.twimg.com/media/Bvafj45IUAAXAHR.jpg | 1216 |
 | http://pbs.twimg.com/media/Bvm7P68IMAEOkXD.jpg | 1032 |
@@ -2465,7 +2831,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/Bvr-eHhIQAAZ_LF.jpg | 962 |
 | http://pbs.twimg.com/media/BvttJcBCAAEkz0z.jpg | 897 |
 
-2014-08-24
+### 2014-08-24
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/Bvwx9rIIIAA-LMJ.jpg | 1150 |
 | http://pbs.twimg.com/media/BvyIdZiIgAAy4B2.jpg | 1139 |
 | http://pbs.twimg.com/media/BvcdJ4uCMAAC49p.jpg | 1081 |
@@ -2473,7 +2841,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/BvvQwKmIQAA5jOc.jpg | 945 |
 | http://pbs.twimg.com/media/Bvww1hWIQAADR2c.jpg | 862 |
 
-2014-08-25
+### 2014-08-25
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/Bv2ybJ8IYAArLDo.jpg | 4679 |
 | http://pbs.twimg.com/media/Bv5b-x0CMAARBm0.jpg | 3319 |
 | http://pbs.twimg.com/media/Bv2S__VIQAA2yue.png | 1999 |
@@ -2481,7 +2851,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/Bv5YjT8IcAErMwW.png | 1073 |
 | http://pbs.twimg.com/media/Bv19q_SIYAEK80T.jpg | 925 |
 
-2014-08-26
+### 2014-08-26
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/Bvrrg_8CQAAvzra.jpg | 964 |
 | http://pbs.twimg.com/media/Bvo40O5CEAAGnXm.png | 935 |
 | http://pbs.twimg.com/media/Bv53OtUCAAAoGCa.jpg | 809 |
@@ -2489,7 +2861,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/Bv-y7geIMAAGu0s.jpg | 605 |
 | http://pbs.twimg.com/media/Bv5dTjuIYAA-ndR.png | 464 |
 
-2014-08-27
+### 2014-08-27
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/Bv_0ZU-IYAAMWlX.jpg | 3409 |
 | http://pbs.twimg.com/media/BwAkTspIgAAZF21.jpg | 704 |
 | http://pbs.twimg.com/media/Bv8bokMCMAA4o5G.jpg | 632 |
@@ -2497,7 +2871,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/BwBQu2EIMAAjKL4.jpg | 247 |
 | http://pbs.twimg.com/media/BwAMlCdIUAAPl44.jpg | 229 |
 
-2014-11-11
+### 2014-11-11
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B2MHB_bIAAAbztF.jpg | 285 |
 | http://pbs.twimg.com/media/B2L_6WdIAAMVQ0M.jpg | 171 |
 | http://pbs.twimg.com/media/B1uTq3ECEAA_o77.jpg | 106 |
@@ -2505,7 +2881,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B2MLhYrCcAAW7E_.jpg | 68 |
 | http://pbs.twimg.com/media/B2MHw2TCMAAFMuE.png | 48 |
 
-2014-11-12
+### 2014-11-12
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B2LPtZbCUAAyC8z.jpg | 1096 |
 | http://pbs.twimg.com/media/B2P0EFsCMAAqbEw.jpg | 996 |
 | http://pbs.twimg.com/media/B2MxnO6IUAA0NT9.jpg | 725 |
@@ -2513,7 +2891,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B2MylgGCMAAUUjE.jpg | 653 |
 | http://pbs.twimg.com/media/B2P2UFzCMAETJFq.jpg | 487 |
 
-2014-11-13
+### 2014-11-13
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B2VJXVIIYAA_hQC.jpg | 734 |
 | http://pbs.twimg.com/media/B2V_D0YCMAA9sEd.jpg | 579 |
 | http://pbs.twimg.com/media/B2VKB-JIQAESJS5.jpg | 572 |
@@ -2521,7 +2901,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B2UZhWlCIAEy3tc.jpg | 525 |
 | http://pbs.twimg.com/media/B2MHB_bIAAAbztF.jpg | 511 |
 
-2014-11-14
+### 2014-11-14
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B2XJ17GIAAE1SJc.jpg | 797 |
 | http://pbs.twimg.com/media/B1uTq3ECEAA_o77.jpg | 702 |
 | http://pbs.twimg.com/media/B2aIWvtIIAAzRiP.jpg | 637 |
@@ -2529,7 +2911,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B2abvXMIMAAziuD.jpg | 347 |
 | http://pbs.twimg.com/media/B2V_D0YCMAA9sEd.jpg | 309 |
 
-2014-11-15
+### 2014-11-15
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B2ceTPOCEAAxfsG.jpg | 1243 |
 | http://pbs.twimg.com/media/B1uTq3ECEAA_o77.jpg | 863 |
 | http://pbs.twimg.com/media/B2c1udRIYAAgjKd.png | 825 |
@@ -2537,7 +2921,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B2abvXMIMAAziuD.jpg | 538 |
 | http://pbs.twimg.com/media/B2b18P_CIAAwku9.jpg | 397 |
 
-2014-11-16
+### 2014-11-16
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B2mFN_3CYAEBsit.png | 2595 |
 | http://pbs.twimg.com/media/B2lnV3JIEAABhom.jpg | 1206 |
 | http://pbs.twimg.com/media/B2kWCSoIUAAnIZh.jpg | 1120 |
@@ -2545,7 +2931,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B2lOQBIIgAA2TBM.jpg | 854 |
 | http://pbs.twimg.com/media/B2hifCCCYAA26Vt.png | 746 |
 
-2014-11-17
+### 2014-11-17
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B2lnV3JIEAABhom.jpg | 1673 |
 | http://pbs.twimg.com/media/B2q9V0fCUAEn8Qp.jpg | 1026 |
 | http://pbs.twimg.com/media/B2mbKXuCYAAX87T.jpg | 930 |
@@ -2553,7 +2941,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B2qfXqBIgAALePN.jpg | 828 |
 | http://pbs.twimg.com/media/B2q6skSIQAAVG6I.jpg | 687 |
 
-2014-11-18
+### 2014-11-18
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B2lnV3JIEAABhom.jpg | 1446 |
 | http://pbs.twimg.com/media/B1uTq3ECEAA_o77.jpg | 1291 |
 | http://pbs.twimg.com/media/B2rBfv0CQAA22JP.jpg | 705 |
@@ -2561,7 +2951,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B2rXjYSCEAAkLBk.jpg | 601 |
 | http://pbs.twimg.com/media/B2sF0zHCYAA9kxq.jpg | 567 |
 
-2014-11-19
+### 2014-11-19
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B1uTq3ECEAA_o77.jpg | 802 |
 | http://pbs.twimg.com/media/B2wfzSZCUAEzMkl.jpg | 595 |
 | http://pbs.twimg.com/media/B2w5zbXCEAAH6u7.jpg | 384 |
@@ -2569,7 +2961,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B2zvFPWCMAA7snM.jpg | 328 |
 | http://pbs.twimg.com/media/B207x81CYAEY4-u.jpg | 317 |
 
-2014-11-20
+### 2014-11-20
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B249jlxIAAE9cV-.jpg | 1558 |
 | http://pbs.twimg.com/media/B20mqH5IQAAQXkX.jpg | 1237 |
 | http://pbs.twimg.com/media/B251mC5IYAAMIxc.jpg | 757 |
@@ -2577,7 +2971,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B25J-UaCAAALwpX.jpg | 653 |
 | http://pbs.twimg.com/media/B21uKAWIQAEAvKz.jpg | 593 |
 
-2014-11-21
+### 2014-11-21
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B2-YS_2CQAADPDw.jpg | 1163 |
 | http://pbs.twimg.com/media/B28WSXICAAEMS3l.png | 814 |
 | http://pbs.twimg.com/media/B2776UTCYAEPubc.jpg | 749 |
@@ -2585,7 +2981,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B2_jeYxCYAA-XPW.jpg | 648 |
 | http://pbs.twimg.com/media/B2-YwrVCUAAfAwY.jpg | 569 |
 
-2014-11-22
+### 2014-11-22
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B3C-5zoCcAAa4_S.png | 1489 |
 | http://pbs.twimg.com/media/B3AQwLcCUAAOwd2.jpg | 1056 |
 | http://pbs.twimg.com/media/B3BRrIOIYAAjT_P.png | 895 |
@@ -2593,7 +2991,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B3DpDIrIgAAtUEH.png | 743 |
 | http://pbs.twimg.com/media/B2_jeYxCYAA-XPW.jpg | 551 |
 
-2014-11-23
+### 2014-11-23
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B3IG6rlIgAAM-wc.jpg | 2946 |
 | http://pbs.twimg.com/media/B3FoknfIYAA4vAZ.jpg | 1504 |
 | http://pbs.twimg.com/media/B3J9cSvCYAAwLTS.jpg | 1368 |
@@ -2601,7 +3001,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B3C-5zoCcAAa4_S.png | 748 |
 | http://pbs.twimg.com/media/B3FdrVbCUAIqAj8.jpg | 716 |
 
-2014-11-24
+### 2014-11-24
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B3LWL9tCYAAIxOS.jpg | 5738 |
 | http://pbs.twimg.com/media/B3Nt5IVIEAArnPN.jpg | 4201 |
 | http://pbs.twimg.com/media/B3LkO3KCEAAzhfv.jpg | 3735 |
@@ -2609,7 +3011,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B3Kh5M6IcAAOgWp.jpg | 2694 |
 | http://pbs.twimg.com/media/B3J9cSvCYAAwLTS.jpg | 2645 |
 
-2014-11-25
+### 2014-11-25
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B3QvVlWCMAAIywz.jpg | 16873 |
 | http://pbs.twimg.com/media/B3S-EmbIcAEfEUB.jpg | 12990 |
 | http://pbs.twimg.com/media/B3QPEpBCAAAD1c_.jpg | 12443 |
@@ -2617,7 +3021,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B3PZsKWIQAIm3Bq.jpg | 10219 |
 | http://pbs.twimg.com/media/B3QkkbHCAAAPhJW.jpg | 9625 |
 
-2014-11-26
+### 2014-11-26
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B3YZC_8IgAAsXN9.jpg | 17727 |
 | http://pbs.twimg.com/media/B3Ve0q5IQAAI_kM.jpg | 12482 |
 | http://pbs.twimg.com/media/B3Vve1BCQAA47Dh.jpg | 8973 |
@@ -2625,7 +3031,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B3YnVqyIgAA_8o9.jpg | 7805 |
 | http://pbs.twimg.com/media/B3Vq3svCcAEmqVg.png | 7659 |
 
-2014-11-27
+### 2014-11-27
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B3a_FyOCAAAmLxp.jpg | 23824 |
 | http://pbs.twimg.com/media/B3Z-LUNCAAA_1P4.jpg | 19509 |
 | http://pbs.twimg.com/media/B3ZvKNxCUAE9A1B.jpg | 12483 |
@@ -2633,7 +3041,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B3dG8JFIgAMBoId.jpg | 8603 |
 | http://pbs.twimg.com/media/B3bGPONCAAEnUx7.jpg | 8096 |
 
-2014-11-28
+### 2014-11-28
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B3ZzWTjIAAAkHwC.jpg | 6708 |
 | http://pbs.twimg.com/media/B3jDp_8CAAAppVO.jpg | 6610 |
 | http://pbs.twimg.com/media/B3gSSGxIgAA25HB.jpg | 5362 |
@@ -2641,7 +3051,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B3d_ROfCcAAWLKY.jpg | 3353 |
 | http://pbs.twimg.com/media/B3i4lcZCYAAQgHX.jpg | 2959 |
 
-2014-11-29
+### 2014-11-29
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B3oCfhAIMAIhMLe.jpg | 10216 |
 | http://pbs.twimg.com/media/B3kpgwRCUAEXDqZ.jpg | 3586 |
 | http://pbs.twimg.com/media/B3m-NoeCYAMbAh8.jpg | 3199 |
@@ -2649,7 +3061,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B3ljJHmCEAAmgkv.jpg | 1996 |
 | http://pbs.twimg.com/media/B3ko1OjIIAA6xQd.jpg | 1891 |
 
-2014-11-30
+### 2014-11-30
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B3qe80-CEAAWikm.jpg | 13412 |
 | http://pbs.twimg.com/media/B3oCfhAIMAIhMLe.jpg | 9949 |
 | http://pbs.twimg.com/media/B3tjyXiCUAE3OZt.png | 8029 |
@@ -2657,7 +3071,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B3pOHaFCYAAV40E.jpg | 5959 |
 | http://pbs.twimg.com/media/B3ss5RxIUAAQTmC.jpg | 2720 |
 
-2014-12-01
+### 2014-12-01
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B3ylZB1IQAA_hQB.jpg | 14293 |
 | http://pbs.twimg.com/media/B3u5qRdIEAEwSPF.jpg | 12241 |
 | http://pbs.twimg.com/media/B3v1QgdCMAAjwo8.jpg | 7988 |
@@ -2665,7 +3081,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B3oCfhAIMAIhMLe.jpg | 3828 |
 | http://pbs.twimg.com/media/B3t1jC6CIAAiLy0.jpg | 3744 |
 
-2014-12-02
+### 2014-12-02
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B3ylZB1IQAA_hQB.jpg | 10786 |
 | http://pbs.twimg.com/media/B33PGJSIIAARqS-.jpg | 6231 |
 | http://pbs.twimg.com/media/B3u5qRdIEAEwSPF.jpg | 4479 |
@@ -2673,7 +3091,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B32ctskCMAEBV8e.jpg | 3220 |
 | http://pbs.twimg.com/media/B3zMiHPCIAAwKzJ.jpg | 3204 |
 
-2014-12-03
+### 2014-12-03
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B39G1ypCEAAUDIR.jpg | 8475 |
 | http://pbs.twimg.com/media/B3ginLnCIAEXnYD.jpg | 3693 |
 | http://pbs.twimg.com/media/B34KLH-IcAIFVTT.jpg | 3134 |
@@ -2681,7 +3101,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B37aSsGIMAAhk2D.jpg | 1853 |
 | http://pbs.twimg.com/media/B334okrCQAA0d9v.png | 1568 |
 
-2014-12-04
+### 2014-12-04
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B3_Sw_-CUAEm-no.jpg | 6710 |
 | http://pbs.twimg.com/media/B4C4ElzIUAAKc0j.jpg | 4659 |
 | http://pbs.twimg.com/media/B3_BTg5IQAA3TIc.jpg | 3746 |
@@ -2689,7 +3111,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B3_P-mrCEAAcSPS.jpg | 2123 |
 | http://pbs.twimg.com/media/B4Cg_tpIEAAzNDY.jpg | 1921 |
 
-2014-12-05
+### 2014-12-05
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B4DIo-hIUAEAcsM.jpg | 6756 |
 | http://pbs.twimg.com/media/B4DvVqlIUAArZ1o.jpg | 4569 |
 | http://pbs.twimg.com/media/B3_Sw_-CUAEm-no.jpg | 3376 |
@@ -2697,7 +3121,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B4C4ElzIUAAKc0j.jpg | 2714 |
 | http://pbs.twimg.com/media/B4DeQFvCIAA1Ddc.jpg | 2138 |
 
-2014-12-06
+### 2014-12-06
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B4JlVoeIAAEH1MN.jpg | 2236 |
 | http://pbs.twimg.com/media/B4EHmefCYAE0Cde.jpg | 1420 |
 | http://pbs.twimg.com/media/B4M31LiCQAEdb1o.jpg | 1301 |
@@ -2705,7 +3131,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B4JvjFSIIAAHwWD.jpg | 1166 |
 | http://pbs.twimg.com/media/B4I7IUeIQAABbjz.jpg | 873 |
 
-2014-12-07
+### 2014-12-07
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B4OTpEXIAAEPEPN.png | 3952 |
 | http://pbs.twimg.com/media/B4Nz9RXCEAIn9m_.jpg | 2361 |
 | http://pbs.twimg.com/media/B4M31LiCQAEdb1o.jpg | 2315 |
@@ -2713,7 +3141,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B4R2LNgIUAEYb7w.jpg | 1735 |
 | http://pbs.twimg.com/media/B4NVsdKIUAAc6J0.jpg | 1453 |
 
-2014-12-08
+### 2014-12-08
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B4TZjrACUAAT23A.jpg | 2142 |
 | http://pbs.twimg.com/media/B4XDkZ4CIAAqopf.jpg | 1637 |
 | http://pbs.twimg.com/media/B4EHmefCYAE0Cde.jpg | 1146 |
@@ -2721,7 +3151,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B4RASgvIcAECg-8.jpg | 1000 |
 | http://pbs.twimg.com/media/B4EHh_qCMAElN9Q.jpg | 870 |
 
-2014-12-09
+### 2014-12-09
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B4XFFXVIcAAKKVW.jpg | 3349 |
 | http://pbs.twimg.com/media/B4EHmefCYAE0Cde.jpg | 1555 |
 | http://pbs.twimg.com/media/B4a-CAMCcAEjRHX.jpg | 1502 |
@@ -2729,7 +3161,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B4EHh_qCMAElN9Q.jpg | 1289 |
 | http://pbs.twimg.com/media/B4Y2NebCIAAj8nT.jpg | 1067 |
 
-2014-12-10
+### 2014-12-10
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B4dME_jCUAIhgCy.jpg | 482 |
 | http://pbs.twimg.com/media/B4EHmefCYAE0Cde.jpg | 428 |
 | http://pbs.twimg.com/media/B4bvWPXCQAAjiiU.jpg | 389 |
@@ -2737,7 +3171,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B4a-CAMCcAEjRHX.jpg | 303 |
 | http://pbs.twimg.com/media/B3tFWAvCUAI7wnE.jpg | 281 |
 
-2015-02-25
+### 2015-02-25
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B-tQ3K4XIAAacnT.jpg | 780 |
 | http://pbs.twimg.com/media/B-tTVWwWsAEhyw8.jpg | 629 |
 | http://pbs.twimg.com/media/B-tfW2qXAAEgY1A.jpg | 460 |
@@ -2745,7 +3181,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B-trd3bVIAEbNr9.jpg | 291 |
 | http://pbs.twimg.com/media/B-o94ztUAAEsGjR.png | 206 |
 
-2015-02-26
+### 2015-02-26
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B-yXiuLUYAAnftd.jpg | 473 |
 | http://pbs.twimg.com/media/B-vHRz6UYAA__CV.jpg | 109 |
 | http://pbs.twimg.com/media/B-trd3bVIAEbNr9.jpg | 105 |
@@ -2753,7 +3191,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B-tTVWwWsAEhyw8.jpg | 91 |
 | http://pbs.twimg.com/media/B-uhnUfW0AAHbcc.jpg | 82 |
 
-2015-02-27
+### 2015-02-27
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B-3IUVnWwAABjPB.jpg | 710 |
 | http://pbs.twimg.com/media/B-yXiuLUYAAnftd.jpg | 566 |
 | http://pbs.twimg.com/media/B-1WZ7tW0AArZ_w.jpg | 504 |
@@ -2761,7 +3201,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B-z0K42WsAEZT--.jpg | 245 |
 | http://pbs.twimg.com/media/B-eV9DIIgAA16vc.jpg | 147 |
 
-2015-02-28
+### 2015-02-28
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B-8GSIiW4AAOQDn.jpg | 2327 |
 | http://pbs.twimg.com/media/B-8QpyyU4AA3Q8o.jpg | 422 |
 | http://pbs.twimg.com/media/B-8W9hDU4AEsx3h.jpg | 370 |
@@ -2769,7 +3211,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B-3QGc1UYAA2VVe.png | 181 |
 | http://pbs.twimg.com/media/B-8XGpWUwAENfgp.jpg | 113 |
 
-2015-03-01
+### 2015-03-01
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B-yXiuLUYAAnftd.jpg | 505 |
 | http://pbs.twimg.com/media/B-8tRqGUoAA-F8G.jpg | 263 |
 | http://pbs.twimg.com/media/B_An8vQW0AAwEce.jpg | 153 |
@@ -2777,7 +3221,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B_CgRrCVAAANG-T.jpg | 99 |
 | http://pbs.twimg.com/media/B-9nM-9UoAAIpGg.jpg | 86 |
 
-2015-03-02
+### 2015-03-02
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B_HP_cLW8AIo8Q0.jpg | 671 |
 | http://pbs.twimg.com/media/B_D55J7UoAEfSOj.jpg | 419 |
 | http://pbs.twimg.com/media/B_GKlBhXIAIb03F.jpg | 171 |
@@ -2785,7 +3231,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B_Hh51MXAAAe66G.jpg | 109 |
 | http://pbs.twimg.com/media/B_FjOHUUQAAF1t2.jpg | 108 |
 
-2015-03-03
+### 2015-03-03
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B_MwpkfVIAUEZwg.jpg | 1371 |
 | http://pbs.twimg.com/media/B_NJLIiU8AAY0KR.jpg | 700 |
 | http://pbs.twimg.com/media/B_M2XfNW0AAOdLO.jpg | 326 |
@@ -2793,7 +3241,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B_MqyAeUoAA9GgB.jpg | 274 |
 | http://pbs.twimg.com/media/B_I2o-AU4AEaKF1.jpg | 273 |
 
-2015-03-04
+### 2015-03-04
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B_RXNsKUwAEKwgQ.png | 3327 |
 | http://pbs.twimg.com/media/B_RbNHZUoAAk0fa.png | 2446 |
 | http://pbs.twimg.com/media/B_RYYijWsAEqmOs.png | 1375 |
@@ -2801,7 +3251,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B_RU0ZyVEAEBOmV.jpg | 1053 |
 | http://pbs.twimg.com/media/B_R4d_7UwAAHv79.jpg | 1027 |
 
-2015-03-05
+### 2015-03-05
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/ext_tw_video_thumb/573331155811889153/pu/img/XlyYUnQ5O-x_29Rm.jpg | 1403 |
 | http://pbs.twimg.com/media/B_XLxpxWcAIyAPp.png | 915 |
 | http://pbs.twimg.com/ext_tw_video_thumb/573331331460931584/pu/img/_UKRkMTEVdKnXzv7.jpg | 838 |
@@ -2809,7 +3261,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B_RbNHZUoAAk0fa.png | 603 |
 | http://pbs.twimg.com/media/B_Ss5RXUwAAO3LI.jpg | 557 |
 
-2015-03-06
+### 2015-03-06
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B_YUr51XAAEZJpd.jpg | 796 |
 | http://pbs.twimg.com/media/B_YYmNnXEAEj2F0.jpg | 765 |
 | http://pbs.twimg.com/media/B_a5SeIVEAI7gxe.jpg | 585 |
@@ -2817,7 +3271,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B_cQ81GUYAA_rnW.jpg | 375 |
 | http://pbs.twimg.com/media/B_WTznVWcAA-TOm.jpg | 335 |
 
-2015-03-07
+### 2015-03-07
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B_d8EI_WcAADfZM.png | 507 |
 | http://pbs.twimg.com/media/B_deE0BW8AEVABA.jpg | 493 |
 | http://pbs.twimg.com/media/BvZ5oXNCIAEVuxC.jpg | 397 |
@@ -2825,7 +3281,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B_eE1wbWIAAifF3.jpg | 350 |
 | http://pbs.twimg.com/media/B_eGAnXUwAAziOb.jpg | 324 |
 
-2015-03-08
+### 2015-03-08
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B_arr6aUcAEJGMU.jpg | 685 |
 | http://pbs.twimg.com/media/B_jdvfMWIAApGtr.png | 456 |
 | http://pbs.twimg.com/media/B_mdVuBUIAA0e2m.png | 316 |
@@ -2833,7 +3291,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B_imrB3WAAA-G6N.jpg | 254 |
 | http://pbs.twimg.com/media/B_a5SeIVEAI7gxe.jpg | 210 |
 
-2015-03-09
+### 2015-03-09
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B_mdVuBUIAA0e2m.png | 245 |
 | http://pbs.twimg.com/media/B_sRBZXU0AAbB0G.jpg | 217 |
 | http://pbs.twimg.com/media/B_mgdLhXEAEHiX9.jpg | 215 |
@@ -2841,7 +3301,9 @@ they can be counted easily.
 | http://pbs.twimg.com/ext_tw_video_thumb/574716315300052992/pu/img/H-O92L6cxZEA514Y.jpg | 170 |
 | http://pbs.twimg.com/media/B_sU1XLUIAAQNcx.jpg | 150 |
 
-2015-03-10
+### 2015-03-10
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B_ssmqxXEAARmTF.jpg | 1265 |
 | http://pbs.twimg.com/media/B_tcMvaWAAAnsw9.jpg | 653 |
 | http://pbs.twimg.com/media/B_skYBeVEAAqCh-.jpg | 494 |
@@ -2849,7 +3311,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B_tG1WRU8AAjpLk.jpg | 383 |
 | http://pbs.twimg.com/media/B_sRBZXU0AAbB0G.jpg | 378 |
 
-2015-03-11
+### 2015-03-11
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B_RbNHZUoAAk0fa.png | 638 |
 | http://pbs.twimg.com/media/B_12STzWAAAE5Fm.jpg | 498 |
 | http://pbs.twimg.com/media/B_xvwpBVAAAwFPJ.jpg | 333 |
@@ -2857,7 +3321,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B_yeJF4WwAA7eN_.jpg | 288 |
 | http://pbs.twimg.com/media/B_tcMvaWAAAnsw9.jpg | 284 |
 
-2015-03-12
+### 2015-03-12
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B_6AsyQUIAAaD3K.png | 1292 |
 | http://pbs.twimg.com/media/B_5syxYWYAAb2w3.jpg | 1024 |
 | http://pbs.twimg.com/media/B_4cfT6UcAAs-wu.jpg | 861 |
@@ -2865,7 +3331,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B_4AET4WAAAwv6-.jpg | 642 |
 | http://pbs.twimg.com/media/B_36iorU0AAqkrJ.png | 557 |
 
-2015-03-13
+### 2015-03-13
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B_7uZfHU8AAaHFM.jpg | 2491 |
 | http://pbs.twimg.com/media/B__v-eEUkAAYMCR.jpg | 1768 |
 | http://pbs.twimg.com/media/B_5syxYWYAAb2w3.jpg | 788 |
@@ -2873,7 +3341,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/B_72CaqUQAAenqF.jpg | 373 |
 | http://pbs.twimg.com/media/B_8TGxjWgAAleco.jpg | 325 |
 
-2015-03-14
+### 2015-03-14
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/B1uTq3ECEAA_o77.jpg | 852 |
 | http://pbs.twimg.com/media/CAEvJuAWMAIgF_V.jpg | 602 |
 | http://pbs.twimg.com/media/CAD_ymWWEAAQP2L.jpg | 598 |
@@ -2881,7 +3351,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CAE3wKlWsAAZbrl.jpg | 370 |
 | http://pbs.twimg.com/media/CABjzIhUkAAzeNc.jpg | 345 |
 
-2015-03-15
+### 2015-03-15
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CAGbtFxUgAA99il.jpg | 2612 |
 | http://pbs.twimg.com/media/CAJNUNpW4AER1t3.jpg | 1074 |
 | http://pbs.twimg.com/media/CAGm9PbXEAEN0A2.jpg | 1047 |
@@ -2889,7 +3361,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CAJsL5mUsAAcG5A.png | 631 |
 | http://pbs.twimg.com/media/CAJBx11W4AEXBCj.jpg | 613 |
 
-2015-03-16
+### 2015-03-16
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CAGbtFxUgAA99il.jpg | 569 |
 | http://pbs.twimg.com/media/CAL3lk8U8AEjto8.jpg | 551 |
 | http://pbs.twimg.com/media/B_16votWYAAPCv_.jpg | 317 |
@@ -2897,7 +3371,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CAPBJ3CUcAEzdl9.png | 297 |
 | http://pbs.twimg.com/media/CAPmoldWYAEmI_J.jpg | 253 |
 
-2015-03-17
+### 2015-03-17
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CAT76m6UUAAQnxk.jpg | 1124 |
 | http://pbs.twimg.com/media/CAR4R2aXIAA2-Ps.jpg | 657 |
 | http://pbs.twimg.com/media/CAUnqWaWcAAS6go.jpg | 654 |
@@ -2905,7 +3381,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CAR2VyGWQAAUBEY.jpg | 383 |
 | http://pbs.twimg.com/media/CARRPuuUYAAhUQC.jpg | 330 |
 
-2015-03-18
+### 2015-03-18
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CAWYYCYW4AAlFdZ.jpg | 1824 |
 | http://pbs.twimg.com/media/CAGm9PbXEAEN0A2.jpg | 683 |
 | http://pbs.twimg.com/media/CAYiedXWAAApIpt.jpg | 581 |
@@ -2913,7 +3391,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CAZ-vMUWAAAad4U.jpg | 509 |
 | http://pbs.twimg.com/media/CAUnqWaWcAAS6go.jpg | 403 |
 
-2015-03-19
+### 2015-03-19
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CAcuJYwWsAAfIBf.jpg | 250 |
 | http://pbs.twimg.com/media/CAWYYCYW4AAlFdZ.jpg | 215 |
 | http://pbs.twimg.com/media/CAbioG1UkAAuNLt.jpg | 179 |
@@ -2921,7 +3401,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CAbBFdAUwAADNXA.png | 137 |
 | http://pbs.twimg.com/media/CAagS35U0AENwh2.jpg | 104 |
 
-2015-03-20
+### 2015-03-20
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CAQP_PQW8AECMDs.jpg | 541 |
 | http://pbs.twimg.com/media/CAiKu5JWsAEyUJa.jpg | 538 |
 | http://pbs.twimg.com/media/CAfY57RUQAEn7k5.jpg | 409 |
@@ -2929,7 +3411,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CAgHufTXIAEdsOX.jpg | 148 |
 | http://pbs.twimg.com/media/CAfw831UgAA_Hy_.jpg | 147 |
 
-2015-03-21
+### 2015-03-21
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CAlB4bZUkAAYP5q.jpg | 951 |
 | http://pbs.twimg.com/media/CAkyvu8U0AAdAA6.jpg | 315 |
 | http://pbs.twimg.com/media/CAlRH2CVAAEW6yH.jpg | 203 |
@@ -2937,7 +3421,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CAlKCQJVEAAv-MM.jpg | 74 |
 | http://pbs.twimg.com/media/CAPrHrnUYAAezn4.jpg | 67 |
 
-2015-07-30
+### 2015-07-30
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CLGk6ykWsAAXPJS.jpg | 369 |
 | http://pbs.twimg.com/media/CLG3aLcXAAAAH7d.png | 282 |
 | http://pbs.twimg.com/media/CLKh0zbWsAAZxp3.jpg | 142 |
@@ -2945,7 +3431,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CLLEs37WEAAZtoJ.jpg | 103 |
 | http://pbs.twimg.com/media/CLK_ot1WEAEQAtG.jpg | 60 |
 
-2015-07-31
+### 2015-07-31
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CLNGX-iUcAAiexi.jpg | 1799 |
 | http://pbs.twimg.com/media/CLNBJusUYAAbdwh.jpg | 823 |
 | http://pbs.twimg.com/media/CLNHlzNUkAAS_50.jpg | 523 |
@@ -2953,7 +3441,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CLNA00qUsAEi1RQ.jpg | 466 |
 | http://pbs.twimg.com/media/CLG3aLcXAAAAH7d.png | 395 |
 
-2015-08-01
+### 2015-08-01
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CLMT_L4W8AE6aW_.jpg | 139 |
 | http://pbs.twimg.com/media/CLV7NXqWwAAzbiP.jpg | 138 |
 | http://pbs.twimg.com/media/CLT-iESUsAA-AkS.jpg | 108 |
@@ -2961,7 +3451,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CLNGX-iUcAAiexi.jpg | 98 |
 | http://pbs.twimg.com/media/CLWLYNyUwAAj-yY.jpg | 97 |
 
-2015-08-02
+### 2015-08-02
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CLatK5kWgAEDXfK.jpg | 478 |
 | http://pbs.twimg.com/media/CLaJ7xsWIAAXs-X.jpg | 373 |
 | http://pbs.twimg.com/media/CLafmijWcAAMSCl.jpg | 365 |
@@ -2969,7 +3461,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CLaZIceUwAIK32g.jpg | 203 |
 | http://pbs.twimg.com/media/CLaDW-wWoAAWdB2.jpg | 202 |
 
-2015-08-03
+### 2015-08-03
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CLgCZtgUsAAIvsQ.jpg | 517 |
 | http://pbs.twimg.com/media/CLeNtyuWwAA783V.jpg | 485 |
 | http://pbs.twimg.com/media/CLfc330UkAAhCrO.png | 262 |
@@ -2977,7 +3471,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CLft7vmWoAA4-Gr.png | 117 |
 | http://pbs.twimg.com/media/CLfsCHlUMAAY5Hv.jpg | 83 |
 
-2015-08-04
+### 2015-08-04
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CLlFn6YWEAAtPpB.jpg | 302 |
 | http://pbs.twimg.com/media/CLgCZtgUsAAIvsQ.jpg | 125 |
 | http://pbs.twimg.com/media/CLk7o9cWIAAq3j3.jpg | 109 |
@@ -2985,7 +3481,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CLmWa1eUAAAMgeS.jpg | 75 |
 | http://pbs.twimg.com/media/CLlTKdPUcAALPfC.jpg | 74 |
 
-2015-08-05
+### 2015-08-05
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CLrR0C5UcAA1Jgp.jpg | 736 |
 | http://pbs.twimg.com/ext_tw_video_thumb/628980057202143235/pu/img/81ybj7NSx8hPu2Lu.jpg | 374 |
 | http://pbs.twimg.com/media/CLm5FbvUcAQqUKe.jpg | 275 |
@@ -2993,7 +3491,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CLpZ92WUAAAPnBv.jpg | 187 |
 | http://pbs.twimg.com/media/CLo2XdWVAAEqE3G.jpg | 170 |
 
-2015-08-06
+### 2015-08-06
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CLrR0C5UcAA1Jgp.jpg | 520 |
 | http://pbs.twimg.com/media/CLr7onXWsAQyVyT.jpg | 479 |
 | http://pbs.twimg.com/media/CLtejldUsAAGogP.jpg | 474 |
@@ -3001,7 +3501,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CLvp3l1W8AAj-k-.jpg | 414 |
 | http://pbs.twimg.com/media/CLvBQVZUEAAyRM9.jpg | 257 |
 
-2015-08-07
+### 2015-08-07
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CL0s8N0WUAAofS9.jpg | 379 |
 | http://pbs.twimg.com/media/CLz_TcmUMAAAyh6.png | 370 |
 | http://pbs.twimg.com/media/CL084GYWEAAhOtN.jpg | 208 |
@@ -3009,7 +3511,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CLzch6rWEAAgQnR.jpg | 155 |
 | http://pbs.twimg.com/media/CL0mN89UEAAJvNb.jpg | 154 |
 
-2015-08-08
+### 2015-08-08
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CL3H6D9UkAA12im.jpg | 835 |
 | http://pbs.twimg.com/media/Bvg4YPICMAAKK7v.png | 576 |
 | http://pbs.twimg.com/media/CL5IPMlUwAAVMED.jpg | 493 |
@@ -3017,7 +3521,9 @@ they can be counted easily.
 | http://pbs.twimg.com/ext_tw_video_thumb/630034628632518656/pu/img/wo3NUdlpK6h3itZD.jpg | 303 |
 | http://pbs.twimg.com/media/CL5axg4WEAADkBH.jpg | 268 |
 
-2015-08-09
+### 2015-08-09
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CL-tKDFUYAAC-Sw.jpg | 5221 |
 | http://pbs.twimg.com/media/CL-TlLPWcAAs2nD.png | 2871 |
 | http://pbs.twimg.com/media/CL8qyhTUYAAAWFi.jpg | 1954 |
@@ -3025,7 +3531,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CL-5uGCXAAAOmeS.jpg | 1707 |
 | http://pbs.twimg.com/media/CL-6ltCUAAAdMdT.jpg | 885 |
 
-2015-08-10
+### 2015-08-10
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/ext_tw_video_thumb/630594985469947904/pu/img/MfJWVIml4qAIu9-C.jpg | 19331 |
 | http://pbs.twimg.com/ext_tw_video_thumb/630600278975348736/pu/img/eK85XtIYffecol2r.jpg | 6451 |
 | http://pbs.twimg.com/media/CMBeMAyUEAELocp.jpg | 4697 |
@@ -3033,7 +3541,9 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CMBiXD4UEAAweMl.jpg | 3438 |
 | http://pbs.twimg.com/media/CMBd5p7WEAEvRHx.jpg | 3253 |
 
-2015-08-11
+### 2015-08-11
+| Media | Tweets |
+| ----- | ------:|
 | http://pbs.twimg.com/media/CMGM7arVEAAJSII.jpg | 8180 |
 | http://pbs.twimg.com/media/CMGMUYvUsAAVNid.jpg | 4695 |
 | http://pbs.twimg.com/tweet_video_thumb/CMFQWvpWEAAEewT.png | 2375 |
@@ -3042,10 +3552,10 @@ they can be counted easily.
 | http://pbs.twimg.com/media/CMGQRIjWIAAIoO2.jpg | 1571 |
 
 ## URLs
+
+### 2014-08-10
 | URL | Tweets |
 | --- | ------:|
-
-2014-08-10
 |https://vine.co/v/MVEjLJdplx3|15|
 |http://bit.ly/1sNIYTy|10|
 |https://vine.co/v/MV9ahi2z0j9|8|
@@ -3058,7 +3568,9 @@ they can be counted easily.
 |https://vine.co/v/MV9ztxYQqDx|3|
 |http://www.stltoday.com/news/local/crime-and-courts/police-ferguson-teen-struggled-over-officer-s-gun-before-being/article_f9d627dc-e3c8-5bde-b2ab-7f0a3d36a083.html|3|
 
-2014-08-11
+### 2014-08-11
+| URL | Tweets |
+| --- | ------:|
 |http://pzfeed.com/2014/08/09/ferguson-mo-police-fatally-shoot-a-st-louis-teen-multiple-times/|3266|
 |http://ago.mo.gov/VehicleStops/2013/reports/161.pdf|1528|
 |https://www.youtube.com/watch?v=eOSRQ-c1XW0|1244|
@@ -3071,7 +3583,9 @@ they can be counted easily.
 |http://nbcnews.to/1mDcUwJ|597|
 |https://vine.co/v/MVYHJUgKVa9|572|
 
-2014-08-12
+### 2014-08-12
+| URL | Tweets |
+| --- | ------:|
 |https://vine.co/v/MYZmwD9Dqhu|5731|
 |https://vine.co/v/MYZZnHvrlq6|4745|
 |http://vimeo.com/103109438|3365|
@@ -3084,7 +3598,9 @@ they can be counted easily.
 |http://cnn.it/1vA478g|881|
 |http://www.msnbc.com/msnbc/eyewitness-michael-brown-fatal-shooting-missouri|802|
 
-2014-08-13
+### 2014-08-13
+| URL | Tweets |
+| --- | ------:|
 |https://vine.co/v/MYXPAb9XIqZ|4103|
 |http://www.businessinsider.com/police-militarization-ferguson-2014-8|1868|
 |https://vine.co/v/MYH3tmYBn9X|1670|
@@ -3097,7 +3613,9 @@ they can be counted easily.
 |http://www.motherjones.com/politics/2014/08/10-insane-numbers-ferguson-killing|601|
 |https://www.youtube.com/watch?v=zta9FyoA7TU|564|
 
-2014-08-14
+### 2014-08-14
+| URL | Tweets |
+| --- | ------:|
 |http://new.livestream.com/accounts/9035483/events/3271930|30891|
 |http://wapo.st/1sXk4Sj|9158|
 |http://www.washingtonpost.com/politics/in-ferguson-washington-post-reporter-wesley-lowery-gives-account-of-his-arrest/2014/08/13/0fe25c0e-2359-11e4-86ca-6f03cbd15c1a_story.html|8786|
@@ -3110,7 +3628,9 @@ they can be counted easily.
 |http://bit.ly/1sXgcAT|4358|
 |https://vine.co/v/MYdrMdbVwWP|4342|
 
-2014-08-15
+### 2014-08-15
+| URL | Tweets |
+| --- | ------:|
 |http://www.thedailybeast.com/articles/2014/08/15/the-day-ferguson-cops-were-caught-in-a-bloody-lie.html|6624|
 |http://thebea.st/1l8uDRK|5331|
 |https://twitter.com/7im/timelines/499639344613695488|5239|
@@ -3123,7 +3643,9 @@ they can be counted easily.
 |http://nbcnews.to/XnCErp|1357|
 |http://on.rt.com/n1sgn2|1165|
 
-2014-08-16
+### 2014-08-16
+| URL | Tweets |
+| --- | ------:|
 |http://thebea.st/1l8uDRK|4999|
 |http://news.yahoo.com/photos-ferguson-officer-darren-wilson-received-police-award-earlier-this-year-021255893.html?soc_src=mediacontentstory|3022|
 |http://cnn.it/1rDJilR|2561|
@@ -3136,7 +3658,9 @@ they can be counted easily.
 |http://bit.ly/1rGcwAA|1028|
 |https://petitions.whitehouse.gov/petition/mike-brown-law-requires-all-state-county-and-local-police-wear-camera/8tlS5czf|1025|
 
-2014-08-17
+### 2014-08-17
+| URL | Tweets |
+| --- | ------:|
 |https://news.vice.com/article/vice-news-live-from-the-streets-of-ferguson-missouri|4303|
 |http://new.livestream.com/accounts/9035483/events/3271930|3084|
 |http://www.ijreview.com/2014/08/168698-eyewitness-recalls-important-detail-background-video-mins-ferguson-shooting/|2781|
@@ -3149,7 +3673,9 @@ they can be counted easily.
 |http://aclu.org/kyr-protest|1768|
 |http://www.livestream.com/activistworldnewsnow|1749|
 
-2014-08-18
+### 2014-08-18
+| URL | Tweets |
+| --- | ------:|
 |https://vine.co/v/M3rWtqnrHi9|13695|
 |http://new.livestream.com/accounts/9035483/events/3271930|10777|
 |http://bzfd.it/1mZtFSN|10109|
@@ -3162,7 +3688,9 @@ they can be counted easily.
 |http://d1.islamhouse.com/data/en/ih_videos/mp4/single/en_309242.mp4|3010|
 |http://www.nytimes.com/2014/08/18/us/michael-brown-autopsy-shows-he-was-shot-at-least-6-times.html?smid=tw-bna&_r=0|2890|
 
-2014-08-19
+### 2014-08-19
+| URL | Tweets |
+| --- | ------:|
 |http://bbc.in/1uS3tSd|9393|
 |http://new.livestream.com/accounts/9035483/events/3271930|7557|
 |https://news.vice.com/article/live-from-ferguson-missouri|6777|
@@ -3175,7 +3703,9 @@ they can be counted easily.
 |http://stlouis.cbslocal.com/2014/03/19/missouri-schools-suffer-due-to-funding-shortfall/|3576|
 |http://trib.al/Ty6iP5i|3499|
 
-2014-08-20
+### 2014-08-20
+| URL | Tweets |
+| --- | ------:|
 |http://bzfd.it/VDlPH8|7414|
 |http://bit.ly/XyGj5K|4148|
 |https://vine.co/v/M3rWtqnrHi9|3643|
@@ -3188,7 +3718,9 @@ they can be counted easily.
 |http://on.mash.to/1tmSoVe|2277|
 |http://www.cnn.com/2014/08/19/us/ferguson-journalists-arrested/|2248|
 
-2014-08-21
+### 2014-08-21
+| URL | Tweets |
+| --- | ------:|
 |http://bzfd.it/VDlPH8|1650|
 |http://huff.to/1AyMrJd|1479|
 |https://vine.co/v/MLmXFZVJEwK|1359|
@@ -3201,7 +3733,9 @@ they can be counted easily.
 |http://ow.ly/AvE6d|611|
 |http://huff.to/1BDTgKY|589|
 
-2014-08-22
+### 2014-08-22
+| URL | Tweets |
+| --- | ------:|
 |http://youtu.be/nAh9y1k6HqE|6113|
 |http://youtu.be/tJduZmDuOJc|4763|
 |http://twitter.com/bakedalaska/status/502600381646798848/photo/1|2026|
@@ -3214,7 +3748,9 @@ they can be counted easily.
 |https://www.aclu.org/aclu-response-ferguson|595|
 |http://nbcnews.to/XFKSeD|505|
 
-2014-08-23
+### 2014-08-23
+| URL | Tweets |
+| --- | ------:|
 |http://youtu.be/nAh9y1k6HqE|3303|
 |http://www.metafilter.com/142029/Escalating-Tensions-in-Ferguson-Missouri#5699301|1747|
 |http://ow.ly/ADgCF|1656|
@@ -3227,7 +3763,9 @@ they can be counted easily.
 |http://english.al-akhbar.com/content/struggling-against-white-supremacy-defiant-dispatches-ferguson-and-beyond|584|
 |http://news.artnet.com/in-brief/beloved-illustrator-blasted-by-fans-over-ferguson-artwork-83486|571|
 
-2014-08-24
+### 2014-08-24
+| URL | Tweets |
+| --- | ------:|
 |http://ow.ly/ADgCF|3202|
 |http://huff.to/VN7Q1w|3199|
 |http://news.artnet.com/in-brief/beloved-illustrator-blasted-by-fans-over-ferguson-artwork-83486|1120|
@@ -3240,7 +3778,9 @@ they can be counted easily.
 |http://twitter.com/bakedalaska/status/502600381646798848/photo/1|624|
 |http://www.huffingtonpost.com/2014/08/24/justin-cosma-ferguson-police_n_5705409.html?utm_hp_ref=tw|590|
 
-2014-08-25
+### 2014-08-25
+| URL | Tweets |
+| --- | ------:|
 |http://twitter.com/bakedalaska/status/502600381646798848/photo/1|2803|
 |http://ow.ly/ADgCF|2254|
 |http://huff.to/VN7Q1w|1622|
@@ -3253,7 +3793,9 @@ they can be counted easily.
 |http://www.huffingtonpost.com/2014/08/24/justin-cosma-ferguson-police_n_5705409.html|546|
 |http://m.huffpost.com/us/entry/5705409?utm_hp_ref=tw|514|
 
-2014-08-26
+### 2014-08-26
+| URL | Tweets |
+| --- | ------:|
 |http://ywzr.a.boysofts.com/Tm0|1854|
 |http://ywzr.a.boysofts.com/Tly|1379|
 |http://vine.co/v/M3Z6rY3gUl9|1196|
@@ -3266,7 +3808,9 @@ they can be counted easily.
 |http://www.cnn.com/2014/08/26/us/michael-brown-ferguson-shooting/?c=&page=1|591|
 |http://fw.to/IWj4GtF|524|
 
-2014-08-27
+### 2014-08-27
+| URL | Tweets |
+| --- | ------:|
 |http://ywzr.a.boysofts.com/Tm0|1320|
 |http://ywzr.a.boysofts.com/Tly|996|
 |http://www.motherjones.com/politics/2014/08/ferguson-st-louis-police-tactics-dogs-michael-brown|547|
@@ -3279,7 +3823,9 @@ they can be counted easily.
 |http://edduardprinceblog.blogspot.com/2014/08/jail-for-randal-nardone-and-wesley-edens.html?m=1|199|
 |http://www.telegraph.co.uk/sport/football/teams/manchester-united/11058490/Manchester-United-turmoil-is-partly-down-to-Sir-Alex-Ferguson-and-the-clubs-transfer-policy.html|178|
 
-2014-11-11
+### 2014-11-11
+| URL | Tweets |
+| --- | ------:|
 |http://cnn.it/1zhSUY6|289|
 |http://on.mash.to/1B4u0zF|232|
 |http://bit.ly/1xJApL8|178|
@@ -3292,7 +3838,9 @@ they can be counted easily.
 |http://on.mash.to/1oIlAZm|50|
 |http://drudge.tw/1oIgVXl|46|
 
-2014-11-12
+### 2014-11-12
+| URL | Tweets |
+| --- | ------:|
 |http://thkpr.gs/3591240|757|
 |http://cnn.it/1zhSUY6|662|
 |http://www.cnn.com/2014/11/10/us/ferguson-michael-brown-shooting/index.html?c=&page=2|659|
@@ -3305,7 +3853,9 @@ they can be counted easily.
 |https://soundcloud.com/bwaidbeats/theposterchild7laborday|191|
 |http://wapo.st/1EyR8Vs|182|
 
-2014-11-13
+### 2014-11-13
+| URL | Tweets |
+| --- | ------:|
 |http://bit.ly/1wsUenN|605|
 |http://www.politicususa.com/2014/11/12/kkk-passing-fliers-promising-lethal-force-ferguson-protesters.html|539|
 |http://www.rawstory.com/rs/2014/11/ku-klux-klan-leader-defends-threat-of-lethal-force-against-ferguson-terrorists/|521|
@@ -3318,7 +3868,9 @@ they can be counted easily.
 |http://bit.ly/1v4tWNe|310|
 |http://bit.ly/1v7uKAX|293|
 
-2014-11-14
+### 2014-11-14
+| URL | Tweets |
+| --- | ------:|
 |http://bit.ly/1yDGIjh|1446|
 |http://bit.ly/1BoBvSm|575|
 |http://bit.ly/1wsUenN|474|
@@ -3331,7 +3883,9 @@ they can be counted easily.
 |http://url9.co/sB|234|
 |http://bit.ly/1tMoo3j|225|
 
-2014-11-15
+### 2014-11-15
+| URL | Tweets |
+| --- | ------:|
 |http://on.rt.com/3t9y1t|1511|
 |http://www.dailykos.com/story/2014/10/20/1337083/-Echoes-of-COINTELPRO-in-Ferguson|848|
 |http://on.ksdk.com/1sQWUcy|704|
@@ -3344,7 +3898,9 @@ they can be counted easily.
 |http://bit.ly/1vfPNBb|295|
 |http://youtu.be/6wAkbovfTeA|218|
 
-2014-11-16
+### 2014-11-16
+| URL | Tweets |
+| --- | ------:|
 |http://gu.com/p/43bmt/stw|1385|
 |http://bit.ly/14qNrEk|836|
 |http://bit.ly/11d2dwg|793|
@@ -3357,7 +3913,9 @@ they can be counted easily.
 |http://crooksandliars.com/2014/11/new-police-videos-released-show-uninjured|425|
 |http://www.liberalamerica.org/2014/11/15/anonymous-kkk-ferguson/|422|
 
-2014-11-17
+### 2014-11-17
+| URL | Tweets |
+| --- | ------:|
 |http://cnn.it/1EW08E5|1777|
 |http://governor.mo.gov/news/executive-orders/executive-order-14-14|1467|
 |http://www.bizjournals.com/stlouis/news/2014/11/17/ferguson-police-officer-raped-woman-in-jail.html?ana=twt&r=full|1435|
@@ -3370,7 +3928,9 @@ they can be counted easily.
 |http://bbc.in/1xfyD6f|689|
 |http://bit.ly/1xwYCYc|682|
 
-2014-11-18
+### 2014-11-18
+| URL | Tweets |
+| --- | ------:|
 |http://www.dailykos.com/story/2014/11/17/1345568/-Ferguson-officer-arrested-for-rape-Read-the-legal-filing-here|998|
 |http://huff.to/1qPDepD|977|
 |http://fusion.net/video/27964/how-ferguson-showed-us-the-truth-about-police/|892|
@@ -3383,7 +3943,9 @@ they can be counted easily.
 |http://abcn.ws/1vlc1BW|534|
 |http://www.thegatewaypundit.com/2014/11/ferguson-protest-leader-has-car-stolen-during-the-fck-the-police-rally/|503|
 
-2014-11-19
+### 2014-11-19
+| URL | Tweets |
+| --- | ------:|
 |https://vine.co/v/MOpHEjBtHw3|927|
 |http://www.usatoday.com/story/news/nation/2014/11/18/ferguson-black-arrest-rates/19043207/|833|
 |http://usat.ly/1uMOs3u|742|
@@ -3396,7 +3958,9 @@ they can be counted easily.
 |http://bit.ly/GJText|313|
 |http://www.dailymail.co.uk/news/article-2840003/Militant-group-offers-cash-rewards-location-Ferguson-police-officer-Darren-Wilson-says-ammunition-solve-lot-problems.html#ixzz3JTdxQ7vE|312|
 
-2014-11-20
+### 2014-11-20
+| URL | Tweets |
+| --- | ------:|
 |http://www.ksdk.com/story/news/local/ferguson/2014/11/19/ferguson-police-deleted-e-mails-and-search-questioned/19304949/|864|
 |http://buff.ly/1vtleZL|840|
 |http://wearecitizenradio.com/20141120-jamie-and-his-white-tiger-nickelbacks-ferguson-song-state-of-emergency-declared-in-missouri/|766|
@@ -3409,7 +3973,9 @@ they can be counted easily.
 |http://bit.ly/11iP7Ox|342|
 |http://ustre.am/HbME|306|
 
-2014-11-21
+### 2014-11-21
+| URL | Tweets |
+| --- | ------:|
 |http://cnn.it/1xvWLSc|1734|
 |http://www.dailykos.com/story/2014/11/20/1346374/-BREAKING-VIDEO-Police-Lied-Mike-Brown-was-killed-148-feet-away-from-Darren-Wilson-s-SUV?detail=twitter|1246|
 |http://bit.ly/14UQ9T3|821|
@@ -3422,7 +3988,9 @@ they can be counted easily.
 |http://bit.ly/1t91bt4|562|
 |http://abcn.ws/11DppnE|548|
 
-2014-11-22
+### 2014-11-22
+| URL | Tweets |
+| --- | ------:|
 |http://cnn.it/1xZEzj2|1279|
 |http://cbsn.ws/1FaIA5s|719|
 |https://news.vice.com/article/private-military-contractors-hired-to-move-guns-and-gold-out-of-ferguson|707|
@@ -3435,7 +4003,9 @@ they can be counted easily.
 |http://abcnews.go.com/WNT/video/president-obama-ferguson-excuse-violence-27094954|582|
 |http://www.reuters.com/article/2014/11/22/us-usa-missouri-shooting-explosives-idUSKCN0J602N20141122|534|
 
-2014-11-23
+### 2014-11-23
+| URL | Tweets |
+| --- | ------:|
 |http://www.latimes.com/nation/la-na-ferguson-women-protests-20141122-story.html|1777|
 |http://on.rt.com/bu1iy9|1126|
 |http://youtu.be/d26cAW9oRj8|736|
@@ -3448,7 +4018,9 @@ they can be counted easily.
 |http://qz.com/301180/why-ferguson-has-been-in-a-state-of-emergency-for-years/|402|
 |http://www.buzzfeed.com/joelanderson/everyone-wants-to-get-out-of-michael-browns-ferguson-neighbo|339|
 
-2014-11-24
+### 2014-11-24
+| URL | Tweets |
+| --- | ------:|
 |http://thkpr.gs/3596130|7150|
 |http://bit.ly/1vFrMUx|4209|
 |http://cnn.it/1zgA5UB|2604|
@@ -3461,7 +4033,9 @@ they can be counted easily.
 |http://wapo.st/1tf2giS|1177|
 |http://owl.li/ELhJm|1031|
 
-2014-11-25
+### 2014-11-25
+| URL | Tweets |
+| --- | ------:|
 |http://www.ferguson.lib.mo.us/|10936|
 |http://fivethirtyeight.com/datalab/ferguson-michael-brown-indictment-darren-wilson/|10711|
 |https://vine.co/v/O1He3xnavlr|8604|
@@ -3474,7 +4048,9 @@ they can be counted easily.
 |https://vine.co/v/OAgPgXQnmKT|4389|
 |https://vine.co/v/OAt2EpWulla|4303|
 
-2014-11-26
+### 2014-11-26
+| URL | Tweets |
+| --- | ------:|
 |http://nbcnews.to/1HFgzXS|9221|
 |http://BipartisanReport.com|7887|
 |http://nyp.st/1vjOX47|7816|
@@ -3487,7 +4063,9 @@ they can be counted easily.
 |http://cnn.it/go|3978|
 |http://cnn.it/1yaeQUU|3957|
 
-2014-11-27
+### 2014-11-27
+| URL | Tweets |
+| --- | ------:|
 |http://nyp.st/1vjOX47|9841|
 |http://abcn.ws/1tjBPIX|6843|
 |http://cnb.cx/1yclJW0|5988|
@@ -3500,7 +4078,9 @@ they can be counted easily.
 |https://m.facebook.com/BenjaminWatsonOfficial/posts/602172116576590|2268|
 |http://www.buzzfeed.com/hannahjewell/ferguson-protest-london?bftw|2068|
 
-2014-11-28
+### 2014-11-28
+| URL | Tweets |
+| --- | ------:|
 |http://bit.ly/128kfAm|5871|
 |http://invst.rs/7f2xJB|3993|
 |http://www.huffingtonpost.com/2014/11/25/ray-lewis-ferguson-protests_n_6223102.html?&ncid=tweetlnkushpmg00000016|3346|
@@ -3513,7 +4093,9 @@ they can be counted easily.
 |http://bit.ly/1d5qTtO|2242|
 |http://boingboing.net/2014/11/28/professor-who-assisted-i.html|1896|
 
-2014-11-29
+### 2014-11-29
+| URL | Tweets |
+| --- | ------:|
 |http://vine.co/v/On1x6iUuwxK|7042|
 |http://abcn.ws/1zFvfQL|6304|
 |http://invst.rs/7f2xJB|2542|
@@ -3526,7 +4108,9 @@ they can be counted easily.
 |http://fxn.ws/1xWJRJw|1332|
 |http://bit.ly/15J7AWU|1285|
 
-2014-11-30
+### 2014-11-30
+| URL | Tweets |
+| --- | ------:|
 |http://cnn.it/1tAZkMJ|13428|
 |http://ble.ac/1B376rD|8027|
 |http://cbsn.ws/1vzqR5B|7439|
@@ -3539,7 +4123,9 @@ they can be counted easily.
 |http://xtra.liverpoolfc.com/listicles/totti-ferguson-suarez-kaka-henry-torres-owen-and-zidane-on-steven-gerrard-26-special-tributes|1971|
 |http://www.buzzfeed.com/jobarrow/boy-and-cop-hug-at-ferguson-protest?bftw=main|1768|
 
-2014-12-01
+### 2014-12-01
+| URL | Tweets |
+| --- | ------:|
 |http://nbcnews.to/12fXQ5f|14349|
 |http://ble.ac/1B376rD|7675|
 |http://es.pn/1vDESPH|6785|
@@ -3552,7 +4138,9 @@ they can be counted easily.
 |http://vrge.co/12fWkzT|3036|
 |http://invst.rs/7g7jPC|2665|
 
-2014-12-02
+### 2014-12-02
+| URL | Tweets |
+| --- | ------:|
 |http://nbcnews.to/12fXQ5f|10775|
 |http://fxn.ws/1HUzdeu|3236|
 |http://fxn.ws/1CzgIMl|3233|
@@ -3565,7 +4153,9 @@ they can be counted easily.
 |http://cs.pn/1A9jAKQ|1607|
 |https://sports.vice.com/article/hands-up-dont-shoot-is-bigger-than-ferguson-and-bigger-than-the-rams|1589|
 
-2014-12-03
+### 2014-12-03
+| URL | Tweets |
+| --- | ------:|
 |http://fb.me/2RBLLvpj4|9054|
 |http://bit.ly/11PTqB4|2541|
 |http://fb.me/2H1GmCw9L|2398|
@@ -3578,7 +4168,9 @@ they can be counted easily.
 |http://cnn.it/1BdiRfb|1190|
 |http://townhall.com/tipsheet/katiepavlich/2014/12/02/watch-sheriff-david-clarke-destroy-eric-holder-for-fanning-ferguson-flames-n1926054|1049|
 
-2014-12-04
+### 2014-12-04
+| URL | Tweets |
+| --- | ------:|
 |http://www.bustle.com/articles/36153-5-ways-you-can-help-ferguson-its-protesters-and-mike-browns-family|6704|
 |http://usat.ly/1yQT8qm|2213|
 |http://ftw.usatoday.com/2014/12/kenny-smith-charles-barkley-ferguson-open-letter-exclusive|2042|
@@ -3591,7 +4183,9 @@ they can be counted easily.
 |http://huff.to/1vRVHaT|1249|
 |http://shar.es/13n6hw|1152|
 
-2014-12-05
+### 2014-12-05
+| URL | Tweets |
+| --- | ------:|
 |http://globalgrind.com/2014/12/05/dave-chappelle-hands-up-gq-men-of-the-year-red-carpet-photos/?utm_source=Twitter|1791|
 |http://devswithferguson.itch.io/bundle|1237|
 |http://on.wsj.com/1zqIhSq|1155|
@@ -3604,7 +4198,9 @@ they can be counted easily.
 |http://cnn.it/1z1JlOu|580|
 |http://wapo.st/1FR1XRs|578|
 
-2014-12-06
+### 2014-12-06
+| URL | Tweets |
+| --- | ------:|
 |http://www.wav14.socialpostss.tv/#!mikebrown/csg9|2607|
 |http://devswithferguson.itch.io/bundle|847|
 |http://globalgrind.com/2014/12/05/dave-chappelle-hands-up-gq-men-of-the-year-red-carpet-photos/?utm_source=Twitter|800|
@@ -3617,7 +4213,9 @@ they can be counted easily.
 |http://www.nytimes.com/2014/12/06/us/police-killings-reveal-chasms-between-races.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news|365|
 |http://bit.ly/1q0g81h|348|
 
-2014-12-07
+### 2014-12-07
+| URL | Tweets |
+| --- | ------:|
 |http://www.wav14.socialpostss.tv/#!mikebrown/csg9|3102|
 |http://www.berkeleyside.com/2014/12/06/breaking-post-ferguson-demo-in-downtown-berkeley-march-continues-to-berkeley-police-hq/|803|
 |http://j.mp/1sP9Wwr|552|
@@ -3630,7 +4228,9 @@ they can be counted easily.
 |http://bit.ly/1wkflhf|301|
 |http://usat.ly/1yeSZNy|300|
 
-2014-12-08
+### 2014-12-08
+| URL | Tweets |
+| --- | ------:|
 |http://www.wav14.socialpostss.tv/#!mikebrown/csg9|2017|
 |http://vimeo.com/112466141|1258|
 |http://bit.ly/1zG2bJd|759|
@@ -3643,7 +4243,9 @@ they can be counted easily.
 |http://www.usatoday.com/story/news/nation/2014/12/08/ferguson-grand-jury-documents-withheld/20072311/|339|
 |http://bit.ly/1zD3ubO|333|
 
-2014-12-09
+### 2014-12-09
+| URL | Tweets |
+| --- | ------:|
 |http://www.wav14.socialpostss.tv/#!mikebrown/csg9|2841|
 |http://www.nbcnews.com/storyline/michael-brown-shooting/justice-departments-autopsy-michael-brown-released-n264361|1818|
 |http://youtu.be/vD6p_t6Cqcw|604|
@@ -3656,7 +4258,9 @@ they can be counted easily.
 |http://www.awdnews.com/top-news/10312-ferguson-s-inferno,-sets-the-nation-the-state-to-fire.html|337|
 |http://bit.ly/1yH7hXx|298|
 
-2014-12-10
+### 2014-12-10
+| URL | Tweets |
+| --- | ------:|
 |http://pastebin.com/gEYPB7gY|1622|
 |http://www.wav14.socialpostss.tv/#!mikebrown/csg9|576|
 |http://www.nbcnews.com/storyline/michael-brown-shooting/justice-departments-autopsy-michael-brown-released-n264361|324|
@@ -3669,7 +4273,9 @@ they can be counted easily.
 |http://ift.tt/1D6s3no|73|
 |http://dailycurrant.com/2014/11/26/ferguson-protester-accidentally-burns-down-own-house/|67|
 
-2015-02-25
+### 2015-02-25
+| URL | Tweets |
+| --- | ------:|
 |http://www.pen-ne.org/the-howard-zinn-award/|260|
 |http://bit.ly/1LF2vPg|180|
 |http://bit.ly/1ahku0F|149|
@@ -3682,7 +4288,9 @@ they can be counted easily.
 |https://www.facebook.com/KissedByFate?ref=hl|62|
 |http://s.hbr.org/18lMGim|62|
 
-2015-02-26
+### 2015-02-26
+| URL | Tweets |
+| --- | ------:|
 |http://s.hbr.org/1DreE6t|328|
 |http://bit.ly/1C1nIB8|146|
 |http://bit.ly/1BBq3Db|104|
@@ -3695,7 +4303,9 @@ they can be counted easily.
 |http://gu.com/p/466p3/stw|61|
 |http://babb.telegraph.co.uk/2015/02/david-beckham-reveals-sir-alex-ferguson-made-him-shave-off-mohawk-in-wembley-toilet/|56|
 
-2015-02-27
+### 2015-02-27
+| URL | Tweets |
+| --- | ------:|
 |http://bit.ly/1zmB7g5|231|
 |http://youtu.be/X7TPMTXmaAo?a|221|
 |http://bit.ly/1C5M2BY|198|
@@ -3708,7 +4318,9 @@ they can be counted easily.
 |http://huff.to/1Ai1pAp|84|
 |https://www.facebook.com/pages/Tamara-Ferguson/579374595502809|76|
 
-2015-02-28
+### 2015-02-28
+| URL | Tweets |
+| --- | ------:|
 |http://youtu.be/X7TPMTXmaAo?a|195|
 |http://bit.ly/1ARu9DN|181|
 |http://bbc.in/1C85AFL|170|
@@ -3721,7 +4333,9 @@ they can be counted easily.
 |http://ift.tt/1DkPq7o|55|
 |http://ift.tt/1wt48qb|52|
 
-2015-03-01
+### 2015-03-01
+| URL | Tweets |
+| --- | ------:|
 |http://listher.com/site/post/508|79|
 |http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&toolid=10044&campid=5337478835&customid=&lgeo=1&vectorid=229508&item=361222497720&pub=5575041009|66|
 |http://bit.ly/1E5cr1O|58|
@@ -3734,7 +4348,9 @@ they can be counted easily.
 |http://youtu.be/X7TPMTXmaAo?a|48|
 |http://nyti.ms/1BIRDhX|48|
 
-2015-03-02
+### 2015-03-02
+| URL | Tweets |
+| --- | ------:|
 |http://trib.al/dSas1lr|671|
 |http://mobile.nytimes.com/2015/03/02/us/justice-department-report-to-fault-police-in-ferguson.html?_r=0&referrer=|639|
 |http://nyti.ms/1E88auo|588|
@@ -3747,7 +4363,9 @@ they can be counted easily.
 |http://mobile.nytimes.com/2015/03/02/us/justice-department-report-to-fault-police-in-ferguson.html?referrer=|163|
 |http://nyti.ms/1GGj5LN|155|
 
-2015-03-03
+### 2015-03-03
+| URL | Tweets |
+| --- | ------:|
 |http://www.huffingtonpost.com/2015/03/03/doj-ferguson-investigation_n_6787804.html|1491|
 |http://www.washingtonpost.com/world/national-security/justice-dept-review-finds-pattern-of-racial-bias-among-ferguson-police/2015/03/03/27535390-c1c7-11e4-9271-610273846239_story.html?tid=HP_more?tid=HP_more|1140|
 |http://nyti.ms/1ADm8yO|1124|
@@ -3760,7 +4378,9 @@ they can be counted easily.
 |http://cnn.it/1B5pU7C|531|
 |http://wpo.st/VsC60|467|
 
-2015-03-04
+### 2015-03-04
+| URL | Tweets |
+| --- | ------:|
 |http://www.washingtonpost.com/world/national-security/justice-dept-review-finds-pattern-of-racial-bias-among-ferguson-police/2015/03/03/27535390-c1c7-11e4-9271-610273846239_story.html|3915|
 |http://www.huffingtonpost.com/2015/03/03/doj-ferguson-investigation_n_6787804.html|1855|
 |http://owl.li/JTvE1|1247|
@@ -3773,7 +4393,9 @@ they can be counted easily.
 |http://www.washingtonpost.com/news/post-nation/wp/2015/03/04/the-12-key-highlights-from-the-dojs-scathing-ferguson-report/|804|
 |http://cnn.it/1B7qHVz|792|
 
-2015-03-05
+### 2015-03-05
+| URL | Tweets |
+| --- | ------:|
 |http://www.theonion.com/articles/justice-department-calls-on-ferguson-to-align-leve,38155/|1029|
 |http://ift.tt/1BbuUb0|866|
 |http://wapo.st/1DVQ51G|862|
@@ -3786,7 +4408,9 @@ they can be counted easily.
 |http://nyti.ms/1GUMH8d|522|
 |http://nyti.ms/1M9bjLo|501|
 
-2015-03-06
+### 2015-03-06
+| URL | Tweets |
+| --- | ------:|
 |http://gu.com/p/46dge/stw|1664|
 |http://www.dailykos.com/story/2015/03/06/1368959/-Meet-3-Ferguson-employees-cited-by-DOJ-for-racism-corruption-now-in-charge-of-cleaning-up-the-city|1069|
 |http://www.buzzfeed.com/jimdalrympleii/fergusons-top-court-clerk-has-been-fired-for-sending-racist|779|
@@ -3799,7 +4423,9 @@ they can be counted easily.
 |http://www.theonion.com/articles/justice-department-calls-on-ferguson-to-align-leve,38155/|408|
 |http://theatln.tc/1H1kH2M|407|
 
-2015-03-07
+### 2015-03-07
+| URL | Tweets |
+| --- | ------:|
 |http://gu.com/p/46dge/stw|965|
 |http://www.theguardian.com/us-news/2015/mar/06/ferguson-judge-owes-unpaid-taxes-ronald-brockmeyer|650|
 |http://theatln.tc/1BQjlrG|552|
@@ -3812,7 +4438,9 @@ they can be counted easily.
 |http://bit.ly/1H9PISe|281|
 |http://boingboing.net/2015/03/06/judge-who-invented-fergusons.html|279|
 
-2015-03-08
+### 2015-03-08
+| URL | Tweets |
+| --- | ------:|
 |http://ift.tt/1wS2pAD|1130|
 |http://thkpr.gs/3631113|502|
 |http://nyti.ms/1BWS4oW|458|
@@ -3825,7 +4453,9 @@ they can be counted easily.
 |https://www.youtube.com/watch?v=4hacXCZ2vzQ&spfreload=10|259|
 |http://www.nytimes.com/2015/03/08/us/ferguson-became-symbol-but-bias-knows-no-border.html?_r=0|242|
 
-2015-03-09
+### 2015-03-09
+| URL | Tweets |
+| --- | ------:|
 |http://www.washingtonpost.com/blogs/post-politics/wp/2015/03/09/in-response-to-ferguson-probe-cleaver-to-introduce-bill-to-curb-policing-for-revenue/|603|
 |http://www.nytimes.com/2015/03/08/us/ferguson-became-symbol-but-bias-knows-no-border.html?hp&action=click&pgtype=Homepage&module=first-column-region&region=top-news&WT.nav=top-news|252|
 |http://dailycaller.com/2015/03/08/ny-times-crops-bush-out-of-selma-picture-highlights-ferguson/|241|
@@ -3838,7 +4468,9 @@ they can be counted easily.
 |http://nyti.ms/1FC3P1r|136|
 |http://m.stltoday.com/news/local/crime-and-courts/missouri-supreme-court-takes-over-cases-in-ferguson-judge-resigns/article_7442c873-a1a1-581f-b4b4-20f93972d91e.html?mobile_touch=true|133|
 
-2015-03-10
+### 2015-03-10
+| URL | Tweets |
+| --- | ------:|
 |http://ow.ly/K5mHF|3396|
 |http://www.dailykos.com/story/2015/03/10/1369758/-Yes-the-justice-system-in-Ferguson-is-broken-but-studies-show-how-surrounding-towns-are-too|894|
 |http://eluni.mx/1EOKWKk|686|
@@ -3851,7 +4483,9 @@ they can be counted easily.
 |http://www.usatoday.com/story/news/nation/2014/11/18/ferguson-black-arrest-rates/19043207/|284|
 |http://eluni.mx/1EOKZFV|277|
 
-2015-03-11
+### 2015-03-11
+| URL | Tweets |
+| --- | ------:|
 |http://eluni.mx/1AkTNgN|1131|
 |http://www.bbc.co.uk/news/world-us-canada-31827253#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa|956|
 |http://cnn.it/1KXzxgu|933|
@@ -3864,7 +4498,9 @@ they can be counted easily.
 |http://huff.to/1KXPXFF|377|
 |http://cnn.it/1Ea9RGU|374|
 
-2015-03-12
+### 2015-03-12
+| URL | Tweets |
+| --- | ------:|
 |http://cnn.it/1b3zHms|2684|
 |http://www.latimes.com/nation/la-na-hots-protests-ferguson-20150311-story.html|1725|
 |http://bbc.in/1BtQJnt|1514|
@@ -3877,7 +4513,9 @@ they can be counted easily.
 |http://bbc.in/1AkKLAh|904|
 |http://www.buzzfeed.com/jimdalrympleii/two-police-officers-reportedly-shot-at-ferguson-protest|875|
 
-2015-03-13
+### 2015-03-13
+| URL | Tweets |
+| --- | ------:|
 |http://bit.ly/1Av62Hz|1629|
 |http://fb.me/40sOmlZTK|1305|
 |http://ift.tt/1MwrP8y|828|
@@ -3890,7 +4528,9 @@ they can be counted easily.
 |http://eluni.mx/1HS5fqi|349|
 |http://NBCNews.com|343|
 
-2015-03-14
+### 2015-03-14
+| URL | Tweets |
+| --- | ------:|
 |http://bit.ly/1F2MVsp|516|
 |http://ift.tt/1AC4cVx|395|
 |http://bit.ly/1b3NU2G|347|
@@ -3903,7 +4543,9 @@ they can be counted easily.
 |http://www.huffingtonpost.com/nathan-robinson/the-shocking-finding-from-the-doj-ferguson_b_6858388.html|152|
 |http://www.npr.org/blogs/thetwo-way/2015/03/13/392835913/ferguson-mayor-ferguson-mayor-slams-hostile-language-from-eric-holder|147|
 
-2015-03-15
+### 2015-03-15
+| URL | Tweets |
+| --- | ------:|
 |http://m.huffpost.com/us/entry/6858388|2782|
 |http://cnn.it/18PeFpV|1287|
 |http://ift.tt/1HUxt3q|897|
@@ -3916,7 +4558,9 @@ they can be counted easily.
 |http://www.dailymail.co.uk/news/article-2913625/Billionaire-George-Soros-spent-33MILLION-bankrolling-Ferguson-demonstrators-create-echo-chamber-drive-national-protests.html|329|
 |http://www.washingtonpost.com/politics/police-suspect-arrested-in-shooting-of-two-officers-in-ferguson/2015/03/15/eb3140c2-cb38-11e4-8a46-b1dc9be5a8ff_story.html|317|
 
-2015-03-16
+### 2015-03-16
+| URL | Tweets |
+| --- | ------:|
 |http://www.redstate.com/2015/03/15/many-conservatives-blowing-it-ferguson-doj-report/|1213|
 |http://nbcnews.to/1GIcvDM|645|
 |http://www.dailykos.com/story/2015/03/16/1371220/-Ferguson-an-Apartheid-Police-State-21-000-residents-w-a-staggering-16-000-open-arrest-warrants|606|
@@ -3929,7 +4573,9 @@ they can be counted easily.
 |http://metrotvn.ws/A371746|244|
 |http://trib.al/F3Tged4|216|
 
-2015-03-17
+### 2015-03-17
+| URL | Tweets |
+| --- | ------:|
 |http://eluni.mx/1DvmXB3|797|
 |http://wearecitizenradio.com/20150317-alleged-ferguson-shooter-says-he-was-not-targeting-police-planet-fitness-stands-up-for-trans-woman-utah-passes-bill-allowing-firing-squads/|668|
 |http://econ.st/1wPCSaX|660|
@@ -3942,7 +4588,9 @@ they can be counted easily.
 |http://m.apnews.com/ap/db_289563/contentdetail.htm?contentguid=ZlAgytgx|185|
 |http://fortune.com/2015/03/16/starbucks-baristas-race-talk/|177|
 
-2015-03-18
+### 2015-03-18
+| URL | Tweets |
+| --- | ------:|
 |http://ift.tt/1F3nQRN|683|
 |http://www.breitbart.com/big-government/2015/03/17/officer-darren-wilson-receives-standing-ovation-at-local-event/|565|
 |http://www.vice.com/read/how-does-the-ferguson-police-department-compare-to-the-nypd-316|414|
@@ -3955,7 +4603,9 @@ they can be counted easily.
 |http://www.newrepublic.com/article/121309/oklahoma-frat-and-ferguson-shooter-expose-racial-double-standard|165|
 |http://on.mash.to/1FABmvd|159|
 
-2015-03-19
+### 2015-03-19
+| URL | Tweets |
+| --- | ------:|
 |http://econ.st/1CppBH4|253|
 |http://ift.tt/1H4A51h|178|
 |http://www.cbsnews.com/news/video-shows-mass-police-officer-choking-woman-during-arrest/|177|
@@ -3968,7 +4618,9 @@ they can be counted easily.
 |http://blogs.riverfronttimes.com/dailyrft/2015/03/woman_sues_florissant_police_in_federal_court_for_wrongful_arrest_excessive_force.php|80|
 |http://www.newrepublic.com/article/121309/oklahoma-frat-and-ferguson-shooter-expose-racial-double-standard|78|
 
-2015-03-20
+### 2015-03-20
+| URL | Tweets |
+| --- | ------:|
 |http://thehilltalk.com/2015/03/12/two-ferguson-missouri-police-officers-shot-protest/|1017|
 |https://vine.co/v/OiQ9uub00IT|698|
 |http://on.cc.com/1BF6MdF|461|
@@ -3981,7 +4633,9 @@ they can be counted easily.
 |http://mm4a.org/1MTHvCX|139|
 |http://tinyurl.com/esrail|111|
 
-2015-03-21
+### 2015-03-21
+| URL | Tweets |
+| --- | ------:|
 |http://bit.ly/1BFcJY7|89|
 |http://www.nationalmemo.com/late-night-roundup-fox-news-ferguson-and-benghazi/|81|
 |http://weaselzippers.us/217917-racist-starbucks-doesnt-have-any-shops-in-selma-or-ferguson/|81|
@@ -3994,7 +4648,9 @@ they can be counted easily.
 |http://rover.ebay.com/rover/1/710-53481-19255-0/1?ff3=2&toolid=10044&campid=5337478835&customid=&lgeo=1&vectorid=229508&item=381197215305&pub=5575041009|41|
 |http://zite.to/1Oe2nby|39|
 
-2015-07-30
+### 2015-07-30
+| URL | Tweets |
+| --- | ------:|
 |http://twitter.com/AlamMUFC/status/612264791340646400/photo/1|721|
 |http://thebea.st/1D7RGoI|370|
 |http://thebea.st/1SMyb6R|293|
@@ -4007,7 +4663,9 @@ they can be counted easily.
 |http://listher.com/site/post/508|64|
 |http://bit.ly/1DSOk3G|58|
 
-2015-07-31
+### 2015-07-31
+| URL | Tweets |
+| --- | ------:|
 |http://www.thedailybeast.com/articles/2015/07/29/ferguson-prisoner-beaten-by-cops-has-won-his-appeal.html?source=socialflow&via=twitter_page&account=thedailybeast&medium=twitter|415|
 |http://thebea.st/1D7RGoI|318|
 |https://twitter.com/Bob_Hudgins/status/626920022435192833|281|
@@ -4020,7 +4678,9 @@ they can be counted easily.
 |http://bit.ly/1fNZGAc|125|
 |https://twitter.com/DreadHead_46/status/626922157793087488|112|
 
-2015-08-01
+### 2015-08-01
+| URL | Tweets |
+| --- | ------:|
 |https://amp.twimg.com/v/5d85eda1-56de-4809-81ad-3a178ecb57b5|1029|
 |https://vine.co/v/MVteITtFVj7|334|
 |http://www.aunewse.com/2015/07/rogue-nation-preserves-stand-alone-fun_31.html|261|
@@ -4033,7 +4693,9 @@ they can be counted easily.
 |http://usat.ly/1Sqkakm|112|
 |http://mdk.to/0CnI-oki|103|
 
-2015-08-02
+### 2015-08-02
+| URL | Tweets |
+| --- | ------:|
 |https://vine.co/v/eHOZwQataqj|443|
 |http://vine.co/v/eHh0iF2vhwb|441|
 |https://instagram.com/p/54WrNAikmG/|365|
@@ -4046,7 +4708,9 @@ they can be counted easily.
 |http://www.usnewse.com/2015/08/review-impossible-rogue-nation-with-tom.html|98|
 |http://fnd.us/c/d11eX0/tw/750oha|75|
 
-2015-08-03
+### 2015-08-03
+| URL | Tweets |
+| --- | ------:|
 |http://www.slate.com/articles/news_and_politics/politics/2015/08/the_ferguson_anniversary_michael_brown_s_death_12_months_ago_led_to_america.html|311|
 |http://www.huffingtonpost.com/entry/trey-yingst-journalist-arrested-in-ferguson-wins-settlement-from-st-louis-county_55b7f4bfe4b0224d88345c7d?j4gkqpvi|269|
 |http://huff.to/1gEx7X8|225|
@@ -4059,7 +4723,9 @@ they can be counted easily.
 |http://gu.com/p/4b82j/stw|131|
 |http://apne.ws/1UhDmyd|112|
 
-2015-08-04
+### 2015-08-04
+| URL | Tweets |
+| --- | ------:|
 |http://www.uknewse.com/2015/08/wayne-rooney-makes-his-everton-return_4.html|319|
 |http://goo.gl/PZKjcd|154|
 |http://thkpr.gs/3687750|130|
@@ -4072,7 +4738,9 @@ they can be counted easily.
 |http://bit.ly/1RvS9SI|67|
 |http://fxn.ws/1KNoEdO|65|
 
-2015-08-05
+### 2015-08-05
+| URL | Tweets |
+| --- | ------:|
 |http://cnn.it/1hjSBse|672|
 |http://wapo.st/backstory_ferguson|379|
 |http://www.huffingtonpost.com/entry/ferguson-protests-municipal-court-reform_55a90e4be4b0c5f0322d0cf1|315|
@@ -4085,7 +4753,9 @@ they can be counted easily.
 |http://thkpr.gs/3687679|165|
 |http://www.amazon.com/Ferguson-Minutes-Changed-America-Kindle-ebook/dp/B013C8Q4WE/|160|
 
-2015-08-06
+### 2015-08-06
+| URL | Tweets |
+| --- | ------:|
 |http://huff.to/1InRrF0|656|
 |http://cnn.it/1hjSBse|544|
 |http://on.mtv.com/1W1nvFN|472|
@@ -4098,7 +4768,9 @@ they can be counted easily.
 |http://nyti.ms/1Ik1AT6|175|
 |http://cnn.it/1HrO640|160|
 
-2015-08-07
+### 2015-08-07
+| URL | Tweets |
+| --- | ------:|
 |http://money.cnn.com/2015/08/06/news/ferguson-arrest-warrants/index.html|406|
 |http://bit.ly/1MfqHe6|379|
 |http://cnnmon.ie/1OUSqOK|370|
@@ -4111,7 +4783,9 @@ they can be counted easily.
 |http://www.theguardian.com/us-news/2015/aug/06/ferguson-radical-knitters-talk-justice-race-issues|153|
 |http://nyti.ms/1OVs1jG|153|
 
-2015-08-08
+### 2015-08-08
+| URL | Tweets |
+| --- | ------:|
 |http://bit.ly/FergStorify|284|
 |http://www.refinery29.com/2015/08/92023/ferguson-anniversary-black-people-killed-by-police-officers#.eov7cs:KEGq|269|
 |http://bit.ly/1DxQpHV|269|
@@ -4124,7 +4798,9 @@ they can be counted easily.
 |http://thkpr.gs/3687750|175|
 |https://vine.co/v/ewrLT9O06qM|165|
 
-2015-08-09
+### 2015-08-09
+| URL | Tweets |
+| --- | ------:|
 |http://bit.ly/1T9vuBR|2866|
 |http://www.theguardian.com/commentisfree/2015/aug/09/ferguson-civil-rights-movement-deray-mckesson-protest|970|
 |http://nyti.ms/1IC07pp|890|
@@ -4137,7 +4813,9 @@ they can be counted easily.
 |http://glo.bo/1Tb3YnB|409|
 |https://soundcloud.com/da-dachi-dachibeats/ferguson-snippet|340|
 
-2015-08-10
+### 2015-08-10
+| URL | Tweets |
+| --- | ------:|
 |https://youtu.be/VtwZYJ0UPrc|10307|
 |http://wp.me/p5bZm6-2Cq|3290|
 |https://twitter.com/search4swag/status/630595778977796096|3097|
@@ -4150,7 +4828,9 @@ they can be counted easily.
 |http://www.washingtonpost.com/news/post-nation/wp/2015/08/10/ferguson-activists-deray-mckesson-johnetta-elzie-among-those-arrested-in-st-louis/|1277|
 |http://www.washingtonpost.com/news/post-nation/wp/2015/08/10/washington-post-reporter-charged-with-trespassing-interfering-with-a-police-officer/|1214|
 
-2015-08-11
+### 2015-08-11
+| URL | Tweets |
+| --- | ------:|
 |https://twitter.com/manofsteele/status/630958419873284096|8975|
 |http://wp.me/p5bZm6-2DQ|1816|
 |https://youtu.be/VtwZYJ0UPrc|1478|
@@ -4164,10 +4844,10 @@ they can be counted easily.
 |http://cnnmon.ie/1J0HDSY|674|
 
 ## Retweets
+
+### 2014-08-10
 | Tweet | Retweets |
 | ----- | --------:|
-
-2014-08-10
 | 498333249912209408 | 22 |
 | 498590686065606657 | 14 |
 | 498602484693487616 | 13 |
@@ -4180,7 +4860,9 @@ they can be counted easily.
 | 498606234204114945 | 8 |
 | 498603999252467713 | 8 |
 
-2014-08-11
+### 2014-08-11
+| Tweet | Retweets |
+| ----- | --------:|
 | 498692334184562688 | 3117 |
 | 498702457946771456 | 2470 |
 | 498625137638662144 | 2020 |
@@ -4193,7 +4875,9 @@ they can be counted easily.
 | 498834879170498560 | 1170 |
 | 498825580117123073 | 1028 |
 
-2014-08-12
+### 2014-08-12
+| Tweet | Retweets |
+| ----- | --------:|
 | 499003397324828674 | 4308 |
 | 499070262558461953 | 3927 |
 | 499039862918774784 | 2212 |
@@ -4206,7 +4890,9 @@ they can be counted easily.
 | 499033454554939393 | 1720 |
 | 499028390649671681 | 1648 |
 
-2014-08-13
+### 2014-08-13
+| Tweet | Retweets |
+| ----- | --------:|
 | 499649754822103040 | 1832 |
 | 499690032601772032 | 1680 |
 | 499689349420568577 | 1587 |
@@ -4219,7 +4905,9 @@ they can be counted easily.
 | 499689438092726273 | 778 |
 | 499598115888848896 | 707 |
 
-2014-08-14
+### 2014-08-14
+| Tweet | Retweets |
+| ----- | --------:|
 | 499531968229683200 | 32101 |
 | 499714499688300545 | 8609 |
 | 499776339466268672 | 7852 |
@@ -4232,7 +4920,9 @@ they can be counted easily.
 | 499432557906104320 | 4890 |
 | 499718454778142722 | 4852 |
 
-2014-08-15
+### 2014-08-15
+| Tweet | Retweets |
+| ----- | --------:|
 | 500311689544208385 | 4623 |
 | 500088995087663104 | 3744 |
 | 499531968229683200 | 3248 |
@@ -4245,7 +4935,9 @@ they can be counted easily.
 | 500347920210989057 | 1720 |
 | 500021221392936961 | 1713 |
 
-2014-08-16
+### 2014-08-16
+| Tweet | Retweets |
+| ----- | --------:|
 | 500311689544208385 | 4553 |
 | 500705130778333184 | 2232 |
 | 499589336816308227 | 2145 |
@@ -4258,7 +4950,9 @@ they can be counted easily.
 | 500407038800056321 | 1452 |
 | 500433169108062208 | 1308 |
 
-2014-08-17
+### 2014-08-17
+| Tweet | Retweets |
+| ----- | --------:|
 | 501111870531858432 | 5907 |
 | 501011628448841728 | 3834 |
 | 501051914218668032 | 3767 |
@@ -4271,7 +4965,9 @@ they can be counted easily.
 | 501122621954883584 | 2087 |
 | 500895801556467713 | 2044 |
 
-2014-08-18
+### 2014-08-18
+| Tweet | Retweets |
+| ----- | --------:|
 | 501223951666642944 | 10442 |
 | 501209137431465985 | 10176 |
 | 501189704860323840 | 9102 |
@@ -4284,7 +4980,9 @@ they can be counted easily.
 | 501407976302084097 | 4963 |
 | 501122621954883584 | 4856 |
 
-2014-08-19
+### 2014-08-19
+| Tweet | Retweets |
+| ----- | --------:|
 | 501499863133990912 | 7234 |
 | 501745864118116352 | 6756 |
 | 501528791814914048 | 6581 |
@@ -4297,7 +4995,9 @@ they can be counted easily.
 | 501575469913755649 | 4146 |
 | 501326930302746627 | 3897 |
 
-2014-08-20
+### 2014-08-20
+| Tweet | Retweets |
+| ----- | --------:|
 | 501763847804690432 | 7403 |
 | 501817678458523648 | 6214 |
 | 501839461475688448 | 4097 |
@@ -4310,7 +5010,9 @@ they can be counted easily.
 | 501984379657539584 | 2174 |
 | 502181704493432833 | 2131 |
 
-2014-08-21
+### 2014-08-21
+| Tweet | Retweets |
+| ----- | --------:|
 | 501763847804690432 | 2131 |
 | 501817678458523648 | 1615 |
 | 502274551401955328 | 1568 |
@@ -4323,7 +5025,9 @@ they can be counted easily.
 | 502313686938427392 | 872 |
 | 502319006577999872 | 841 |
 
-2014-08-22
+### 2014-08-22
+| Tweet | Retweets |
+| ----- | --------:|
 | 502783310364696577 | 6093 |
 | 502822560782761984 | 4757 |
 | 502600381646798848 | 1861 |
@@ -4336,7 +5040,9 @@ they can be counted easily.
 | 502638715777609730 | 906 |
 | 502617197395865600 | 852 |
 
-2014-08-23
+### 2014-08-23
+| Tweet | Retweets |
+| ----- | --------:|
 | 502783310364696577 | 3287 |
 | 502964425599778817 | 1392 |
 | 502956198627659776 | 1063 |
@@ -4349,7 +5055,9 @@ they can be counted easily.
 | 502902143230414849 | 697 |
 | 502776779313262593 | 668 |
 
-2014-08-24
+### 2014-08-24
+| Tweet | Retweets |
+| ----- | --------:|
 | 503521795849588736 | 3499 |
 | 503427302923849728 | 1057 |
 | 503332194212139008 | 1057 |
@@ -4362,7 +5070,9 @@ they can be counted easily.
 | 503357469377433601 | 711 |
 | 503660857750859776 | 699 |
 
-2014-08-25
+### 2014-08-25
+| Tweet | Retweets |
+| ----- | --------:|
 | 503866907070455810 | 4457 |
 | 503941343060979712 | 3318 |
 | 503699706179227648 | 1877 |
@@ -4375,7 +5085,9 @@ they can be counted easily.
 | 503907082492710912 | 754 |
 | 503948142996635649 | 706 |
 
-2014-08-26
+### 2014-08-26
+| Tweet | Retweets |
+| ----- | --------:|
 | 502973262255902720 | 952 |
 | 502776779313262593 | 935 |
 | 504376662805733377 | 711 |
@@ -4388,7 +5100,9 @@ they can be counted easily.
 | 502402875826249729 | 432 |
 | 503942799306543104 | 430 |
 
-2014-08-27
+### 2014-08-27
+| Tweet | Retweets |
+| ----- | --------:|
 | 504390399864365056 | 3403 |
 | 504443079836053506 | 692 |
 | 504433179134947328 | 452 |
@@ -4401,7 +5115,9 @@ they can be counted easily.
 | 504583277785542656 | 217 |
 | 504445647219871744 | 161 |
 
-2014-11-11
+### 2014-11-11
+| Tweet | Retweets |
+| ----- | --------:|
 | 532276912409034754 | 230 |
 | 532269084055183360 | 162 |
 | 532269624101175297 | 154 |
@@ -4414,7 +5130,9 @@ they can be counted easily.
 | 532298116691943425 | 54 |
 | 532315812078444544 | 50 |
 
-2014-11-12
+### 2014-11-12
+| Tweet | Retweets |
+| ----- | --------:|
 | 532321058632658947 | 1388 |
 | 532537534874935296 | 966 |
 | 532514195338977280 | 909 |
@@ -4427,7 +5145,9 @@ they can be counted easily.
 | 532319341597831168 | 414 |
 | 530179751076327425 | 397 |
 
-2014-11-13
+### 2014-11-13
+| Tweet | Retweets |
+| ----- | --------:|
 | 532727362405040129 | 809 |
 | 532912796275851264 | 713 |
 | 530179751076327425 | 541 |
@@ -4440,7 +5160,9 @@ they can be counted easily.
 | 532765136290062336 | 347 |
 | 532689089691398144 | 344 |
 
-2014-11-14
+### 2014-11-14
+| Tweet | Retweets |
+| ----- | --------:|
 | 533069345073549313 | 771 |
 | 530179751076327425 | 692 |
 | 532888423196282880 | 602 |
@@ -4453,7 +5175,9 @@ they can be counted easily.
 | 533384026459865088 | 235 |
 | 533281966209392640 | 232 |
 
-2014-11-15
+### 2014-11-15
+| Tweet | Retweets |
+| ----- | --------:|
 | 530179751076327425 | 858 |
 | 533430492964478976 | 764 |
 | 533454155806158848 | 635 |
@@ -4466,7 +5190,9 @@ they can be counted easily.
 | 533450658414727169 | 285 |
 | 533488657370734592 | 278 |
 
-2014-11-16
+### 2014-11-16
+| Tweet | Retweets |
+| ----- | --------:|
 | 534104555982954498 | 1729 |
 | 534071657061572608 | 1189 |
 | 533982261918846976 | 1104 |
@@ -4479,7 +5205,9 @@ they can be counted easily.
 | 534040476895043585 | 521 |
 | 533784962156490752 | 519 |
 
-2014-11-17
+### 2014-11-17
+| Tweet | Retweets |
+| ----- | --------:|
 | 534071657061572608 | 1654 |
 | 534447688616382466 | 968 |
 | 534440879851704320 | 966 |
@@ -4492,7 +5220,9 @@ they can be counted easily.
 | 534449747525111808 | 602 |
 | 534133891859488768 | 554 |
 
-2014-11-18
+### 2014-11-18
+| Tweet | Retweets |
+| ----- | --------:|
 | 534531386858676224 | 2869 |
 | 534559238824419329 | 1743 |
 | 534071657061572608 | 1436 |
@@ -4505,7 +5235,9 @@ they can be counted easily.
 | 534485789267066880 | 530 |
 | 534519690421604352 | 528 |
 
-2014-11-19
+### 2014-11-19
+| Tweet | Retweets |
+| ----- | --------:|
 | 535153238660878336 | 817 |
 | 530179751076327425 | 789 |
 | 534837422207807488 | 591 |
@@ -4518,7 +5250,9 @@ they can be counted easily.
 | 534866017634504705 | 308 |
 | 535065329991696385 | 298 |
 
-2014-11-20
+### 2014-11-20
+| Tweet | Retweets |
+| ----- | --------:|
 | 535433093243731968 | 1425 |
 | 535253298316849153 | 872 |
 | 535126436336893952 | 744 |
@@ -4531,7 +5265,9 @@ they can be counted easily.
 | 535518884905095169 | 520 |
 | 535499138792574976 | 500 |
 
-2014-11-21
+### 2014-11-21
+| Tweet | Retweets |
+| ----- | --------:|
 | 535646476681351168 | 1545 |
 | 535814333238743040 | 1153 |
 | 535642385414631424 | 739 |
@@ -4544,7 +5280,9 @@ they can be counted easily.
 | 535786440706097153 | 487 |
 | 530179751076327425 | 485 |
 
-2014-11-22
+### 2014-11-22
+| Tweet | Retweets |
+| ----- | --------:|
 | 536233338244059136 | 3157 |
 | 535952899856412672 | 970 |
 | 536138259005722624 | 964 |
@@ -4557,7 +5295,9 @@ they can be counted easily.
 | 535984193533407232 | 499 |
 | 535988033297063936 | 494 |
 
-2014-11-23
+### 2014-11-23
+| Tweet | Retweets |
+| ----- | --------:|
 | 536498911197036545 | 2880 |
 | 536652062042255360 | 896 |
 | 536324809492561921 | 803 |
@@ -4570,7 +5310,9 @@ they can be counted easily.
 | 536338415197753345 | 538 |
 | 536584820022071297 | 526 |
 
-2014-11-24
+### 2014-11-24
+| Tweet | Retweets |
+| ----- | --------:|
 | 536726827319189505 | 5420 |
 | 536893608906194944 | 4097 |
 | 536742280653443073 | 2502 |
@@ -4583,7 +5325,9 @@ they can be counted easily.
 | 536584820022071297 | 1459 |
 | 536967082702016513 | 1335 |
 
-2014-11-25
+### 2014-11-25
+| Tweet | Retweets |
+| ----- | --------:|
 | 537279520840355840 | 26246 |
 | 537070833819463681 | 11621 |
 | 537263248215912448 | 10079 |
@@ -4596,7 +5340,9 @@ they can be counted easily.
 | 537107723297382400 | 7206 |
 | 537094770082844672 | 7127 |
 
-2014-11-26
+### 2014-11-26
+| Tweet | Retweets |
+| ----- | --------:|
 | 537644744902721536 | 17591 |
 | 537458306466717696 | 8338 |
 | 537453235854798849 | 7437 |
@@ -4609,7 +5355,9 @@ they can be counted easily.
 | 537415250195542016 | 4219 |
 | 537440751475388416 | 3834 |
 
-2014-11-27
+### 2014-11-27
+| Tweet | Retweets |
+| ----- | --------:|
 | 537827318518251520 | 22758 |
 | 537755942897455104 | 12331 |
 | 537660458854281216 | 8442 |
@@ -4622,7 +5370,9 @@ they can be counted easily.
 | 537765933583171584 | 5229 |
 | 537784172199575552 | 4487 |
 
-2014-11-28
+### 2014-11-28
+| Tweet | Retweets |
+| ----- | --------:|
 | 538395287229071360 | 5421 |
 | 538200257780523008 | 4570 |
 | 537744045435797504 | 4297 |
@@ -4635,7 +5385,9 @@ they can be counted easily.
 | 538162818311532545 | 1924 |
 | 538143467915198464 | 1772 |
 
-2014-11-29
+### 2014-11-29
+| Tweet | Retweets |
+| ----- | --------:|
 | 538745848562462721 | 9545 |
 | 538691607655374848 | 3158 |
 | 538760336263098368 | 3103 |
@@ -4648,7 +5400,9 @@ they can be counted easily.
 | 538828995081797632 | 1055 |
 | 538511606859456514 | 1022 |
 
-2014-11-30
+### 2014-11-30
+| Tweet | Retweets |
+| ----- | --------:|
 | 538920078314852352 | 11953 |
 | 539134297915920385 | 7822 |
 | 538745848562462721 | 7628 |
@@ -4661,7 +5415,9 @@ they can be counted easily.
 | 539097017084305408 | 1729 |
 | 539118525491982336 | 1710 |
 
-2014-12-01
+### 2014-12-01
+| Tweet | Retweets |
+| ----- | --------:|
 | 539487905199456257 | 13381 |
 | 539134297915920385 | 7350 |
 | 539228730200436736 | 6772 |
@@ -4674,7 +5430,9 @@ they can be counted easily.
 | 539271354013327361 | 2323 |
 | 539277260235079680 | 2269 |
 
-2014-12-02
+### 2014-12-02
+| Tweet | Retweets |
+| ----- | --------:|
 | 539487905199456257 | 10506 |
 | 539815234941489152 | 5724 |
 | 539228730200436736 | 3575 |
@@ -4687,7 +5445,9 @@ they can be counted easily.
 | 539831261162795009 | 1456 |
 | 539330940016021504 | 1360 |
 
-2014-12-03
+### 2014-12-03
+| Tweet | Retweets |
+| ----- | --------:|
 | 540249629171126272 | 10079 |
 | 540002546098917376 | 8994 |
 | 540230331564302336 | 3319 |
@@ -4700,7 +5460,9 @@ they can be counted easily.
 | 540228207988187136 | 2065 |
 | 540150230919168001 | 1893 |
 
-2014-12-04
+### 2014-12-04
+| Tweet | Retweets |
+| ----- | --------:|
 | 540382220201242624 | 6708 |
 | 540395366160420865 | 6358 |
 | 540634344352923648 | 4588 |
@@ -4713,7 +5475,9 @@ they can be counted easily.
 | 538218214707060736 | 1602 |
 | 538506540471570433 | 1450 |
 
-2014-12-05
+### 2014-12-05
+| Tweet | Retweets |
+| ----- | --------:|
 | 540652562395836417 | 6724 |
 | 540382220201242624 | 3368 |
 | 540695117292515328 | 2703 |
@@ -4726,7 +5490,9 @@ they can be counted easily.
 | 540694322551615488 | 1101 |
 | 540717237779185666 | 1093 |
 
-2014-12-06
+### 2014-12-06
+| Tweet | Retweets |
+| ----- | --------:|
 | 541287719201439744 | 1909 |
 | 541358936340070400 | 1858 |
 | 541316910085066752 | 1687 |
@@ -4739,7 +5505,9 @@ they can be counted easily.
 | 541327944128667648 | 700 |
 | 538218214707060736 | 692 |
 
-2014-12-07
+### 2014-12-07
+| Tweet | Retweets |
+| ----- | --------:|
 | 541438714128637952 | 3883 |
 | 541403877783109632 | 2360 |
 | 540721791698997248 | 1781 |
@@ -4752,7 +5520,9 @@ they can be counted easily.
 | 541439181038579712 | 886 |
 | 541375353357225984 | 755 |
 
-2014-12-08
+### 2014-12-08
+| Tweet | Retweets |
+| ----- | --------:|
 | 542054363242708993 | 1564 |
 | 541797062199627776 | 1259 |
 | 541815266825351168 | 1256 |
@@ -4765,7 +5535,9 @@ they can be counted easily.
 | 542075370821144577 | 587 |
 | 542074155357986816 | 586 |
 
-2014-12-09
+### 2014-12-09
+| Tweet | Retweets |
+| ----- | --------:|
 | 542056026552680448 | 3342 |
 | 540721791698997248 | 1547 |
 | 542329747078774784 | 1452 |
@@ -4778,7 +5550,9 @@ they can be counted easily.
 | 542135897224126464 | 738 |
 | 542054363242708993 | 738 |
 
-2014-12-10
+### 2014-12-10
+| Tweet | Retweets |
+| ----- | --------:|
 | 542465696991436801 | 1622 |
 | 542485932973514752 | 457 |
 | 540721791698997248 | 421 |
@@ -4791,7 +5565,9 @@ they can be counted easily.
 | 539100833477308416 | 258 |
 | 542480315554758656 | 218 |
 
-2015-02-25
+### 2015-02-25
+| Tweet | Retweets |
+| ----- | --------:|
 | 570638690516647937 | 700 |
 | 570641408035418113 | 564 |
 | 570654853292298241 | 434 |
@@ -4804,7 +5580,9 @@ they can be counted easily.
 | 570665186216042497 | 158 |
 | 570417484999872512 | 131 |
 
-2015-02-26
+### 2015-02-26
+| Tweet | Retweets |
+| ----- | --------:|
 | 570997878249824256 | 411 |
 | 570917641151483905 | 308 |
 | 570742585406267392 | 160 |
@@ -4817,7 +5595,9 @@ they can be counted easily.
 | 570336350240518150 | 77 |
 | 570727474734235648 | 76 |
 
-2015-02-27
+### 2015-02-27
+| Tweet | Retweets |
+| ----- | --------:|
 | 571332979592724480 | 528 |
 | 571271711292854272 | 474 |
 | 571207737893388289 | 474 |
@@ -4830,7 +5610,9 @@ they can be counted easily.
 | 571326439078776832 | 110 |
 | 571366972685881344 | 106 |
 
-2015-02-28
+### 2015-02-28
+| Tweet | Retweets |
+| ----- | --------:|
 | 571682592388468738 | 1875 |
 | 571694012282888192 | 367 |
 | 571703443431141376 | 359 |
@@ -4843,7 +5625,9 @@ they can be counted easily.
 | 571728983198339073 | 103 |
 | 571725468107350016 | 95 |
 
-2015-03-01
+### 2015-03-01
+| Tweet | Retweets |
+| ----- | --------:|
 | 572084895201300480 | 558 |
 | 571897723475107840 | 475 |
 | 571725468107350016 | 250 |
@@ -4856,7 +5640,9 @@ they can be counted easily.
 | 572101426085797888 | 86 |
 | 571771848125509632 | 84 |
 
-2015-03-02
+### 2015-03-02
+| Tweet | Retweets |
+| ----- | --------:|
 | 572467316514013185 | 666 |
 | 572395558226296832 | 391 |
 | 572231913391308801 | 348 |
@@ -4869,7 +5655,9 @@ they can be counted easily.
 | 572236323995574272 | 122 |
 | 571341537860308992 | 116 |
 
-2015-03-03
+### 2015-03-03
+| Tweet | Retweets |
+| ----- | --------:|
 | 572855981652111361 | 1144 |
 | 572848077968683009 | 1022 |
 | 572857862533210113 | 873 |
@@ -4882,7 +5670,9 @@ they can be counted easily.
 | 572853094972698625 | 372 |
 | 572871619510587394 | 356 |
 
-2015-03-04
+### 2015-03-04
+| Tweet | Retweets |
+| ----- | --------:|
 | 573178946193387522 | 2883 |
 | 573183334119043072 | 2200 |
 | 572855981652111361 | 1149 |
@@ -4895,7 +5685,9 @@ they can be counted easily.
 | 573188305984102400 | 806 |
 | 573215597275820034 | 744 |
 
-2015-03-05
+### 2015-03-05
+| Tweet | Retweets |
+| ----- | --------:|
 | 573268596496859136 | 1241 |
 | 573332448479727616 | 958 |
 | 573588582000103424 | 887 |
@@ -4908,7 +5700,9 @@ they can be counted easily.
 | 502313686938427392 | 641 |
 | 573211719390142464 | 635 |
 
-2015-03-06
+### 2015-03-06
+| Tweet | Retweets |
+| ----- | --------:|
 | 573679396793499649 | 1572 |
 | 573676334158868480 | 1212 |
 | 573673047397367808 | 738 |
@@ -4921,7 +5715,9 @@ they can be counted easily.
 | 573619240571248640 | 400 |
 | 573659659757830144 | 369 |
 
-2015-03-07
+### 2015-03-07
+| Tweet | Retweets |
+| ----- | --------:|
 | 574012461189193728 | 517 |
 | 574030914650529793 | 466 |
 | 574063888200790016 | 453 |
@@ -4934,7 +5730,9 @@ they can be counted easily.
 | 574040542004297728 | 269 |
 | 574220580498485249 | 266 |
 
-2015-03-08
+### 2015-03-08
+| Tweet | Retweets |
+| ----- | --------:|
 | 574679637369995264 | 860 |
 | 573834774512558080 | 549 |
 | 574452760441176064 | 425 |
@@ -4947,7 +5745,9 @@ they can be counted easily.
 | 574419532082712576 | 195 |
 | 574652244555087874 | 189 |
 
-2015-03-09
+### 2015-03-09
+| Tweet | Retweets |
+| ----- | --------:|
 | 575010307392737281 | 718 |
 | 574905208649695232 | 463 |
 | 575048981677473792 | 409 |
@@ -4960,7 +5760,9 @@ they can be counted easily.
 | 575051545504542720 | 178 |
 | 575064423796244480 | 174 |
 
-2015-03-10
+### 2015-03-10
+| Tweet | Retweets |
+| ----- | --------:|
 | 574829690621456384 | 3368 |
 | 575306191020105728 | 758 |
 | 575010307392737281 | 535 |
@@ -4973,7 +5775,9 @@ they can be counted easily.
 | 575084330751516672 | 262 |
 | 573588582000103424 | 247 |
 
-2015-03-11
+### 2015-03-11
+| Tweet | Retweets |
+| ----- | --------:|
 | 573183334119043072 | 622 |
 | 575755876130287616 | 498 |
 | 575760758933430272 | 438 |
@@ -4986,7 +5790,9 @@ they can be counted easily.
 | 575757423199305728 | 357 |
 | 575755894299844608 | 352 |
 
-2015-03-12
+### 2015-03-12
+| Tweet | Retweets |
+| ----- | --------:|
 | 576089147393339392 | 2437 |
 | 576102330619310080 | 1772 |
 | 575906278288941056 | 1274 |
@@ -4999,7 +5805,9 @@ they can be counted easily.
 | 575929650347655169 | 811 |
 | 575943335694721025 | 670 |
 
-2015-03-13
+### 2015-03-13
+| Tweet | Retweets |
+| ----- | --------:|
 | 576159930807230464 | 2388 |
 | 576443143660384256 | 1432 |
 | 576445500225949697 | 1304 |
@@ -5012,7 +5820,9 @@ they can be counted easily.
 | 576176594307411968 | 449 |
 | 576263240923111424 | 420 |
 
-2015-03-14
+### 2015-03-14
+| Tweet | Retweets |
+| ----- | --------:|
 | 530179751076327425 | 847 |
 | 576794079230562304 | 572 |
 | 576742004148822016 | 552 |
@@ -5025,7 +5835,9 @@ they can be counted easily.
 | 576812732877549568 | 287 |
 | 576340553132040192 | 285 |
 
-2015-03-15
+### 2015-03-15
+| Tweet | Retweets |
+| ----- | --------:|
 | 576913432638685184 | 2197 |
 | 577108722994003968 | 993 |
 | 576925798390693889 | 969 |
@@ -5038,7 +5850,9 @@ they can be counted easily.
 | 577179054979330048 | 558 |
 | 577142740900823040 | 541 |
 
-2015-03-16
+### 2015-03-16
+| Tweet | Retweets |
+| ----- | --------:|
 | 577276514938449920 | 636 |
 | 577295928366878720 | 547 |
 | 576913432638685184 | 537 |
@@ -5051,7 +5865,9 @@ they can be counted easily.
 | 577461107008262144 | 269 |
 | 577210909346643969 | 257 |
 
-2015-03-17
+### 2015-03-17
+| Tweet | Retweets |
+| ----- | --------:|
 | 577863639673266177 | 1032 |
 | 577801636262756352 | 651 |
 | 577718900319719424 | 626 |
@@ -5064,7 +5880,9 @@ they can be counted easily.
 | 577615208039997440 | 204 |
 | 577653841023348736 | 173 |
 
-2015-03-18
+### 2015-03-18
+| Tweet | Retweets |
+| ----- | --------:|
 | 578219227917762560 | 855 |
 | 578035665956417537 | 831 |
 | 578215076580196352 | 661 |
@@ -5077,7 +5895,9 @@ they can be counted easily.
 | 578005916185993216 | 294 |
 | 578291481783336960 | 282 |
 
-2015-03-19
+### 2015-03-19
+| Tweet | Retweets |
+| ----- | --------:|
 | 578291481783336960 | 316 |
 | 578481815998066688 | 231 |
 | 578613273605476352 | 174 |
@@ -5090,7 +5910,9 @@ they can be counted easily.
 | 578530119129698304 | 89 |
 | 578225752132464640 | 89 |
 
-2015-03-20
+### 2015-03-20
+| Tweet | Retweets |
+| ----- | --------:|
 | 576060443426471936 | 1017 |
 | 579011008825556992 | 502 |
 | 578865099894575104 | 484 |
@@ -5103,7 +5925,9 @@ they can be counted easily.
 | 578923782447898624 | 174 |
 | 578721050801905664 | 146 |
 
-2015-03-21
+### 2015-03-21
+| Tweet | Retweets |
+| ----- | --------:|
 | 579066473752072192 | 931 |
 | 579049831911444480 | 309 |
 | 579083223285698563 | 198 |
@@ -5116,7 +5940,9 @@ they can be counted easily.
 | 579081999123546113 | 46 |
 | 579084103187726336 | 45 |
 
-2015-07-30
+### 2015-07-30
+| Tweet | Retweets |
+| ----- | --------:|
 | 626823815042068480 | 718 |
 | 626463153682051072 | 368 |
 | 626483510686171137 | 280 |
@@ -5129,7 +5955,9 @@ they can be counted easily.
 | 626543377065058308 | 58 |
 | 626874956312395777 | 57 |
 
-2015-07-31
+### 2015-07-31
+| Tweet | Retweets |
+| ----- | --------:|
 | 626922157793087488 | 1767 |
 | 626916416659152897 | 718 |
 | 626923493955796992 | 522 |
@@ -5142,7 +5970,9 @@ they can be counted easily.
 | 626906972974002176 | 283 |
 | 626902663993556992 | 267 |
 
-2015-08-01
+### 2015-08-01
+| Tweet | Retweets |
+| ----- | --------:|
 | 627405818648891393 | 727 |
 | 627494083020259329 | 403 |
 | 627223999102222336 | 194 |
@@ -5155,7 +5985,9 @@ they can be counted easily.
 | 626922157793087488 | 97 |
 | 627560976573861888 | 96 |
 
-2015-08-02
+### 2015-08-02
+| Tweet | Retweets |
+| ----- | --------:|
 | 627879610550779904 | 477 |
 | 627916548943048704 | 440 |
 | 627867405662953472 | 432 |
@@ -5168,7 +6000,9 @@ they can be counted easily.
 | 627809241500266496 | 252 |
 | 627841503998660609 | 220 |
 
-2015-08-03
+### 2015-08-03
+| Tweet | Retweets |
+| ----- | --------:|
 | 628260097035227136 | 3587 |
 | 628254792033263617 | 515 |
 | 628126492363460608 | 460 |
@@ -5181,7 +6015,9 @@ they can be counted easily.
 | 628226649679654912 | 145 |
 | 628031695183343616 | 140 |
 
-2015-08-04
+### 2015-08-04
+| Tweet | Retweets |
+| ----- | --------:|
 | 628260097035227136 | 813 |
 | 628610176657027072 | 301 |
 | 628556442186969088 | 238 |
@@ -5194,7 +6030,9 @@ they can be counted easily.
 | 628699010870611968 | 74 |
 | 628625067325272064 | 73 |
 
-2015-08-05
+### 2015-08-05
+| Tweet | Retweets |
+| ----- | --------:|
 | 629045790548357120 | 622 |
 | 629005540417368064 | 267 |
 | 628738489690005504 | 249 |
@@ -5207,7 +6045,9 @@ they can be counted easily.
 | 628895797338357760 | 117 |
 | 537084938223624193 | 115 |
 
-2015-08-06
+### 2015-08-06
+| Tweet | Retweets |
+| ----- | --------:|
 | 629045790548357120 | 499 |
 | 629091780584153088 | 478 |
 | 629200546918891520 | 473 |
@@ -5220,7 +6060,9 @@ they can be counted easily.
 | 629092392130486272 | 211 |
 | 629091703463518208 | 210 |
 
-2015-08-07
+### 2015-08-07
+| Tweet | Retweets |
+| ----- | --------:|
 | 629709005590515712 | 374 |
 | 629658757547470849 | 368 |
 | 629532961688416256 | 327 |
@@ -5233,7 +6075,9 @@ they can be counted easily.
 | 629706982010662913 | 129 |
 | 629747090743259136 | 122 |
 
-2015-08-08
+### 2015-08-08
+| Tweet | Retweets |
+| ----- | --------:|
 | 629879340277334017 | 829 |
 | 630020423913050112 | 488 |
 | 630033755680468992 | 448 |
@@ -5246,7 +6090,9 @@ they can be counted easily.
 | 629818679551787008 | 223 |
 | 629856088725303300 | 213 |
 
-2015-08-09
+### 2015-08-09
+| Tweet | Retweets |
+| ----- | --------:|
 | 630412864134770688 | 5046 |
 | 630396884603924480 | 2412 |
 | 630368793668231168 | 1854 |
@@ -5259,7 +6105,9 @@ they can be counted easily.
 | 630390575225798656 | 568 |
 | 630418344437395456 | 558 |
 
-2015-08-10
+### 2015-08-10
+| Tweet | Retweets |
+| ----- | --------:|
 | 630607510374780929 | 4470 |
 | 630412864134770688 | 3597 |
 | 630612096657551360 | 3422 |
@@ -5272,7 +6120,9 @@ they can be counted easily.
 | 630604301681856512 | 2259 |
 | 630602176218337280 | 2109 |
 
-2015-08-11
+### 2015-08-11
+| Tweet | Retweets |
+| ----- | --------:|
 | 630940392536432640 | 5866 |
 | 630939704779673600 | 3383 |
 | 630982318966964224 | 1799 |

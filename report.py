@@ -35,33 +35,33 @@ they can be counted easily.
 def hashtags():
     print
     print "## Hashtags"
-    print "| Hashtag | Tweets |"
-    print "| ------- | ------:|"
     for time in times:
         print
-        print time
+        print "### %s" % time
+        print "| Hashtag | Tweets |"
+        print "| ------- | ------:|"
         for tag in stats.zrevrange('hashtags-%s' % time, 0, 10, withscores=True):
             print '| %s | %i |' % tag
 
 def media():
     print
     print "## Media"
-    print "| Media | Tweets |"
-    print "| ----- | ------:|"
     for time in times:
         print
-        print time
+        print "### %s" % time
+        print "| Media | Tweets |"
+        print "| ----- | ------:|"
         for tag in stats.zrevrange('media-%s' % time, 0, 5, withscores=True):
             print '| %s | %i |' % tag
 
 def retweets():
     print
     print "## Retweets"
-    print "| Tweet | Retweets |"
-    print "| ----- | --------:|"
     for time in times:
         print
-        print time
+        print "### %s" % time
+        print "| Tweet | Retweets |"
+        print "| ----- | --------:|"
         for tag in stats.zrevrange('retweets-%s' % time, 0, 10, withscores=True):
             print '| %s | %i |' % tag
 
@@ -80,22 +80,22 @@ def tweets():
 def urls():
     print
     print "## URLs"
-    print "| URL | Tweets |"
-    print "| --- | ------:|"
     for time in times:
         print
-        print time
+        print "### %s" % time
+        print "| URL | Tweets |"
+        print "| --- | ------:|"
         for tag in stats.zrevrange('urls-%s' % time, 0, 10, withscores=True):
             print '|%s|%i|' % tag
 
 def users():
     print
     print "## Users"
-    print "| Username | Re(tweets) |"
-    print "| -------- | ----------:|"
     for time in times:
         print
-        print time
+        print "### %s" % time
+        print "| Username | Re(tweets) |"
+        print "| -------- | ----------:|"
         for tag in stats.zrevrange('users-%s' % time, 0, 10, withscores=True):
             print '| [%s](http://twitter.com/%s) | %i |' % (tag[0], tag[0], tag[1])
 
