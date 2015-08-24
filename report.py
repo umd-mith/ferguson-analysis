@@ -80,7 +80,7 @@ def tweets():
         num = int(stats.get('tweets-%s' % time))
         print "| %s | %s |" % (time, num)
         total += num
-    print "| total | %s |" % total
+    print "| **Total** | **%s** |" % total
 
 def urls():
     print
