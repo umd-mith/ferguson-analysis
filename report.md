@@ -11,12 +11,12 @@ about the killing of Michael Brown in Ferguson, Missouri:
 
 The reports include:
 
-* [Tweets per day](#Tweets)
-* [Top Users per day](#Users)
-* [Top Hashtags per day](#Hashtags)
-* [Top Media files per day](#Media)
-* [Top URLs per day](#URLs)
-* [Top Retweets per day](#Retweets)
+* [Tweets per day](#user-content-tweets)
+* [Top Users per day](#user-content-users)
+* [Top Hashtags per day](#user-content-hashtags)
+* [Top Media files per day](#user-content-media)
+* [Top URLs per day](#user-content-urls)
+* [Top Retweets per day](#user-content-retweets)
 
 The twitter JSON data is parsed and features are stored in Redis where
 they can be counted easily.
