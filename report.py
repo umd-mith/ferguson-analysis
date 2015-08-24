@@ -21,6 +21,15 @@ about the killing of Michael Brown in Ferguson, Missouri:
 * February 25 - March 3, 2015: Justice of Department Report on Ferguson Police Department
 * July 30 - August 11, 2015: One year after killing of Michael Brown
 
+The reports include:
+
+* [Tweets per day](#Tweets)
+* [Top Users per day](#Users)
+* [Top Hashtags per day](#Hashtags)
+* [Top Media files per day](#Media)
+* [Top URLs per day](#URLs)
+* [Top Retweets per day](#Retweets)
+
 The twitter JSON data is parsed and features are stored in Redis where
 they can be counted easily.
 
@@ -54,7 +63,7 @@ def media():
         print "### %s" % time
         print "| Media | Tweets |"
         print "| ----- | ------:|"
-        for tag in stats.zrevrange('media-%s' % time, 0, 5, withscores=True):
+        for tag in stats.zrevrange('media-%s' % time, 0, 10, withscores=True):
             print '| [%s](%s) | %i |' % (tag[0], tag[0], tag[1])
 
 def retweets():
