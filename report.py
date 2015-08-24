@@ -35,6 +35,7 @@ they can be counted easily.
 def hashtags():
     print
     print "## Hashtags"
+    print "The top ten most used hashtags per day."
     for time in times:
         print
         print "### %s" % time
@@ -46,28 +47,32 @@ def hashtags():
 def media():
     print
     print "## Media"
+    print "The top ten most used media files by day."
     for time in times:
         print
         print "### %s" % time
         print "| Media | Tweets |"
         print "| ----- | ------:|"
         for tag in stats.zrevrange('media-%s' % time, 0, 5, withscores=True):
-            print '| %s | %i |' % tag
+            print '| [%s](%s) | %i |' % (tag[0], tag[0], tag[1])
 
 def retweets():
     print
     print "## Retweets"
+    print "The top ten retweets by day."
     for time in times:
         print
         print "### %s" % time
         print "| Tweet | Retweets |"
         print "| ----- | --------:|"
         for tag in stats.zrevrange('retweets-%s' % time, 0, 10, withscores=True):
+            # TODO get the tweet text and ids for these
             print '| %s | %i |' % tag
 
 def tweets():
     print
     print "## Tweets"
+    print "Number of tweets per day."
     print "| Date | Tweets |"
     print "| ---- | ------:|"
     total = 0
@@ -80,6 +85,7 @@ def tweets():
 def urls():
     print
     print "## URLs"
+    print "The top ten most tweeted URLs by day."
     for time in times:
         print
         print "### %s" % time
@@ -91,6 +97,7 @@ def urls():
 def users():
     print
     print "## Users"
+    print "The top ten most retweeted users by day."
     for time in times:
         print
         print "### %s" % time
