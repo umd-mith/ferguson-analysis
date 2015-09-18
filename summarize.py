@@ -7,7 +7,7 @@ stats = redis.StrictRedis()
 times = [s.split('-', 1)[1] for s in stats.keys('tweets-*')]
 times.sort()
 
-def sparklines(key):
+def counts(key):
     totals = {}
     for time in times:
         for tag, score in stats.zrevrange('%s-%s' % (key, time), 0, 10, withscores=True):
@@ -16,18 +16,14 @@ def sparklines(key):
     members = totals.keys()
     members.sort(lambda a, b: cmp(totals[b], totals[a]))
 
-    sparklines_data = []
+    counts = {} 
     for m in members:
-        sparkline = [m]
+        member_counts = []
         for time in times:
-            sparkline.append(stats.zrank('%s-%s' % (key, time), m) or 0)
-        sparklines_data.append(sparkline)
+            member_counts.append((time, stats.zrank('%s-%s' % (key, time), m) or 0))
+        counts[m] = member_counts
 
-    return sparklines_data
+    return counts
 
-json.dump(sparklines('hashtags'), open('hashtags.json', 'w'), indent=2)
-json.dump(sparklines('users'), open('users.json', 'w'), indent=2)
-
-
-
-
+json.dump(counts('hashtags'), open('hashtags.json', 'w'), indent=2)
+json.dump(counts('users'), open('users.json', 'w'), indent=2)
