@@ -1,2 +1,6 @@
 redis
+scipy
 awscli
+pandas 
+matplotlib
+python-dateutil
