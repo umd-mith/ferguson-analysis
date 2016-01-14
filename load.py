@@ -13,8 +13,9 @@ from dateutil.parser import parse as parse_date
 stats = redis.StrictRedis()
 stats.flushdb()
 
-def analyze(data_dir):
-    for tweet in tweets(data_dir):
+def analyze(tweets_file):
+    for line in open(tweets_file):
+        tweet = json.loads(line)
         t = parse_date(tweet['created_at']).strftime('%Y-%m-%d')
         stats.incr('tweets-%s' % t)
 
@@ -59,5 +60,6 @@ def tweets(data_dir):
                 sys.stdout.write('x')
                 sys.stdout.flush()
 
-for bag_dir in os.listdir('data'):
-    analyze(join('data', bag_dir, 'data'))
+for filename in os.listdir('data'):
+    if filename.endswith('.json'):
+        analyze(join('data', filename))

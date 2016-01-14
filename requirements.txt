@@ -1,5 +1,6 @@
 redis
 scipy
+twarc
 awscli
 pandas 
 matplotlib
