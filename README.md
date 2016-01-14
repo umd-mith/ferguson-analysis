@@ -1,6 +1,8 @@
 This project hosts some scripts for loading features from several Ferguson 
 related Twitter datasets housed at [MITH]. Once loaded into [Redis] the 
-features are used to generate a [report] of summary statistics.
+features are used to generate a [report] of summary statistics. It was done
+as part of a study conducted by Rashawn Ray, Neil Fraistat, Melissa Brown
+and Ed Summers at the University of Maryland.
 
 Unfortunately Twitter's terms of service do not currently allow the 
 four datasets used in this study to be made publicly available. They do
