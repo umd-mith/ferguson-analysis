@@ -5,7 +5,7 @@ as part of a study conducted by Rashawn Ray, Neil Fraistat, Melissa Brown
 and Ed Summers at the University of Maryland.
 
 Unfortunately Twitter's terms of service do not currently allow the 
-four datasets used in this study to be made publicly available. They do
+five datasets used in this study to be made publicly available. They do
 however let 3rd parties distribute datasets of tweet IDs. This repository
 includes the tweet identifiers for 31,689,607 tweets from 5 time periods.
 Each one was obtained by either search the Twitter API for the word `ferguson`
