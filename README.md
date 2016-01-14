@@ -9,7 +9,7 @@ includes the tweet identifiers for 31,689,607 tweets from 5 time periods.
 Each one was obtained by either search the Twitter API for the word `ferguson`
 or using filter streaming API for the word `ferguson`.
 
-More details about these datasets can be obtained from the [Maryland Institute for Technology in the Humanitites].
+More details about these datasets can be obtained from the [Maryland Institute for Technology in the Humanities].
 
 To get started you'll want to install Python and then:
 
