@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# To run the hydration commands you will need to get API keys and set 
+# some environment variables. Details are at https://github.com/edsu/twarc
+
 gunzip data/*.gz
 
 echo "hydrating 20140708-20140710-ids.txt"
